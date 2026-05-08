@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Platform,Customer_ID,Customer_Type,City,State,Medicine_Name,Category,Prescription_Required,Quantity,Unit_Price_INR,Discount_Code,Discount_Percent,Total_MRP,Discount_Amount,Final_Amount_INR,Payment_Method,Delivery_Days,Delivery_Status,Return_Reason,Rating,Review_Given
+ORD00001,2024-11-10,Netmeds,CUST1916,New,Pune,Maharashtra,Nasal Spray,Cough & Cold,OTC,1,140,HEALTH20,20,140,28.0,112.0,Cash on Delivery,6,Delivered,N/A,2,Yes
+ORD00002,2024-05-09,1mg,CUST4762,New,Delhi,Delhi,Paracetamol 500mg,Pain Relief,OTC,1,31,NONE,0,31,0.0,31.0,Net Banking,3,Delivered,N/A,1,Yes
+ORD00003,2024-06-05,Netmeds,CUST6828,New,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,1,50,FIRST15,15,50,7.5,42.5,Cash on Delivery,7,Delivered,N/A,3,No
+ORD00004,2023-02-23,Flipkart Health,CUST1396,New,Ludhiana,Punjab,Metformin 500mg,Diabetes,Prescription,3,94,NONE,0,282,0.0,282.0,Credit Card,1,Delivered,N/A,4,No
+ORD00005,2024-02-25,Flipkart Health,CUST6810,New,Pune,Maharashtra,Azithromycin 500mg,Antibiotic,Prescription,1,190,NONE,0,190,0.0,190.0,Debit Card,7,Pending,N/A,N/A,No
+ORD00006,2023-11-17,Netmeds,CUST4475,Returning,Pune,Maharashtra,Ondansetron 4mg,Antinausea,Prescription,3,72,SAVE10,10,216,21.6,194.4,UPI,1,Returned,N/A,N/A,No
+ORD00007,2023-09-13,Flipkart Health,CUST5586,Returning,Delhi,Delhi,Metformin 500mg,Diabetes,Prescription,4,87,NONE,0,348,0.0,348.0,Credit Card,3,Delivered,N/A,1,No
+ORD00008,2024-05-15,Flipkart Health,CUST9074,Returning,Bangalore,Karnataka,Cough Syrup 100ml,Cough & Cold,OTC,4,83,FIRST15,15,332,49.8,282.2,Credit Card,1,Pending,N/A,N/A,No
+ORD00009,2023-02-21,PharmEasy,CUST4896,Returning,Ahmedabad,Gujarat,Vitamin D3 1000IU,Supplement,OTC,5,209,HEALTH20,20,1045,209.0,836.0,Debit Card,4,Cancelled,N/A,N/A,No
+ORD00010,2024-07-12,1mg,CUST6648,New,Bangalore,Karnataka,Dolo 650,Pain Relief,OTC,4,35,HEALTH20,20,140,28.0,112.0,Credit Card,5,Cancelled,N/A,N/A,No
+ORD00011,2023-10-31,1mg,CUST3438,Returning,Mumbai,Maharashtra,Azithromycin 500mg,Antibiotic,Prescription,3,183,NONE,0,549,0.0,549.0,Credit Card,4,Delivered,N/A,3,Yes
+ORD00012,2024-10-27,1mg,CUST7114,Returning,Surat,Gujarat,Azithromycin 500mg,Antibiotic,Prescription,1,175,PHARMA5,5,175,8.75,166.25,Net Banking,2,Pending,N/A,N/A,No
+ORD00013,2023-05-13,1mg,CUST5176,New,Pune,Maharashtra,Vitamin C 500mg,Supplement,OTC,2,159,NONE,0,318,0.0,318.0,Cash on Delivery,3,Delivered,N/A,1,Yes
+ORD00014,2024-11-14,1mg,CUST1209,New,Bangalore,Karnataka,Vitamin C 500mg,Supplement,OTC,4,148,NONE,0,592,0.0,592.0,Debit Card,5,Delivered,N/A,5,Yes
+ORD00015,2024-05-22,1mg,CUST2964,New,Lucknow,Uttar Pradesh,Nasal Spray,Cough & Cold,OTC,4,137,PHARMA5,5,548,27.4,520.6,UPI,2,Delivered,N/A,5,Yes
+ORD00016,2024-02-07,Apollo Pharmacy,CUST7596,New,Ludhiana,Punjab,Omeprazole 20mg,Antacid,OTC,5,61,FIRST15,15,305,45.75,259.25,Credit Card,3,Delivered,N/A,2,Yes
+ORD00017,2024-06-29,1mg,CUST2635,New,Kolkata,West Bengal,Montelukast 10mg,Asthma,Prescription,3,167,NONE,0,501,0.0,501.0,Credit Card,5,Delivered,N/A,4,Yes
+ORD00018,2024-02-24,Apollo Pharmacy,CUST9382,Returning,Hyderabad,Telangana,Dolo 650,Pain Relief,OTC,1,33,NONE,0,33,0.0,33.0,Debit Card,1,Delivered,N/A,1,No
+ORD00019,2023-10-26,1mg,CUST4468,Returning,Chennai,Tamil Nadu,Nasal Spray,Cough & Cold,OTC,3,127,SAVE10,10,381,38.1,342.9,Debit Card,4,Delivered,N/A,3,No
+ORD00020,2023-01-30,Netmeds,CUST8014,Returning,Delhi,Delhi,Metformin 500mg,Diabetes,Prescription,1,95,NONE,0,95,0.0,95.0,UPI,6,Cancelled,N/A,N/A,No
+ORD00021,2024-01-30,1mg,CUST8303,Returning,Hyderabad,Telangana,Amlodipine 5mg,Blood Pressure,Prescription,5,95,NONE,0,475,0.0,475.0,UPI,4,Cancelled,N/A,N/A,No
+ORD00022,2024-05-12,1mg,CUST8146,Returning,Pune,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,3,37,SAVE10,10,111,11.1,99.9,UPI,5,Pending,N/A,N/A,No
+ORD00023,2023-08-23,Apollo Pharmacy,CUST7920,Returning,Mumbai,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,4,101,NONE,0,404,0.0,404.0,Cash on Delivery,3,Returned,N/A,N/A,No
+ORD00024,2024-06-13,Flipkart Health,CUST1039,Returning,Surat,Gujarat,Iron Tablets,Supplement,OTC,5,88,PHARMA5,5,440,22.0,418.0,Credit Card,1,Delivered,N/A,1,Yes
+ORD00025,2023-04-06,Apollo Pharmacy,CUST5604,New,Pune,Maharashtra,Multivitamin Tablet,Supplement,OTC,3,222,NONE,0,666,0.0,666.0,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00026,2023-12-28,Flipkart Health,CUST2326,New,Kolkata,West Bengal,Omeprazole 20mg,Antacid,OTC,4,62,PHARMA5,5,248,12.4,235.6,Credit Card,1,Pending,N/A,N/A,No
+ORD00027,2024-07-18,1mg,CUST8077,Returning,Bangalore,Karnataka,Montelukast 10mg,Asthma,Prescription,2,160,FIRST15,15,320,48.0,272.0,Net Banking,1,Delivered,N/A,5,Yes
+ORD00028,2023-12-23,PharmEasy,CUST1299,Returning,Mumbai,Maharashtra,Zinc Supplement,Supplement,OTC,1,185,NONE,0,185,0.0,185.0,Cash on Delivery,4,Delivered,N/A,1,No
+ORD00029,2023-06-13,Apollo Pharmacy,CUST7590,New,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,5,30,NONE,0,150,0.0,150.0,UPI,3,Delivered,N/A,1,No
+ORD00030,2023-01-10,Flipkart Health,CUST5526,New,Delhi,Delhi,Cetirizine 10mg,Antiallergic,OTC,4,36,HEALTH20,20,144,28.8,115.2,Debit Card,3,Delivered,N/A,4,No
+ORD00031,2023-11-13,1mg,CUST9203,Returning,Surat,Gujarat,Cetirizine 10mg,Antiallergic,OTC,2,26,NONE,0,52,0.0,52.0,UPI,1,Delivered,N/A,4,No
+ORD00032,2023-04-04,Flipkart Health,CUST9243,New,Jaipur,Rajasthan,Amlodipine 5mg,Blood Pressure,Prescription,3,104,PHARMA5,5,312,15.6,296.4,Debit Card,1,Delivered,N/A,1,Yes
+ORD00033,2023-06-25,PharmEasy,CUST9257,Returning,Ludhiana,Punjab,Iron Tablets,Supplement,OTC,2,77,FIRST15,15,154,23.1,130.9,Debit Card,2,Delivered,N/A,5,No
+ORD00034,2023-02-25,Apollo Pharmacy,CUST7366,Returning,Pune,Maharashtra,Dolo 650,Pain Relief,OTC,2,33,NONE,0,66,0.0,66.0,UPI,6,Delivered,N/A,2,No
+ORD00035,2023-03-17,Netmeds,CUST3376,New,Mumbai,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,1,36,FIRST15,15,36,5.4,30.6,Cash on Delivery,3,Delivered,N/A,4,Yes
+ORD00036,2024-01-27,Netmeds,CUST4930,New,Hyderabad,Telangana,Ondansetron 4mg,Antinausea,Prescription,4,67,NONE,0,268,0.0,268.0,Net Banking,6,Delivered,N/A,2,Yes
+ORD00037,2024-04-22,Apollo Pharmacy,CUST8214,New,Chennai,Tamil Nadu,Hydrocortisone Cream,Skin Care,OTC,1,99,FIRST15,15,99,14.85,84.15,Net Banking,3,Delivered,N/A,3,Yes
+ORD00038,2024-09-01,Apollo Pharmacy,CUST2438,Returning,Ludhiana,Punjab,Antifungal Cream,Skin Care,OTC,5,110,PHARMA5,5,550,27.5,522.5,Net Banking,5,Delivered,N/A,2,No
+ORD00039,2023-11-27,PharmEasy,CUST8014,Returning,Bangalore,Karnataka,Hydrocortisone Cream,Skin Care,OTC,5,95,SAVE10,10,475,47.5,427.5,UPI,7,Delivered,N/A,5,No
+ORD00040,2023-08-27,Flipkart Health,CUST1144,Returning,Jaipur,Rajasthan,Zinc Supplement,Supplement,OTC,5,172,NONE,0,860,0.0,860.0,Credit Card,1,Delivered,N/A,2,Yes
+ORD00041,2023-12-08,PharmEasy,CUST6648,Returning,Kolkata,West Bengal,Multivitamin Tablet,Supplement,OTC,2,226,FIRST15,15,452,67.8,384.2,Net Banking,6,Delivered,N/A,4,Yes
+ORD00042,2024-10-26,Flipkart Health,CUST2964,New,Jaipur,Rajasthan,Zinc Supplement,Supplement,OTC,4,179,NONE,0,716,0.0,716.0,Cash on Delivery,3,Delivered,N/A,4,Yes
+ORD00043,2023-02-26,PharmEasy,CUST4342,New,Lucknow,Uttar Pradesh,Cetirizine 10mg,Antiallergic,OTC,5,38,SAVE10,10,190,19.0,171.0,Credit Card,2,Delivered,N/A,3,No
+ORD00044,2023-06-14,1mg,CUST9871,New,Kolkata,West Bengal,Paracetamol 500mg,Pain Relief,OTC,2,28,NONE,0,56,0.0,56.0,UPI,3,Returned,N/A,N/A,No
+ORD00045,2024-06-19,PharmEasy,CUST3376,Returning,Mumbai,Maharashtra,Nasal Spray,Cough & Cold,OTC,5,140,HEALTH20,20,700,140.0,560.0,Debit Card,4,Delivered,N/A,3,No
+ORD00046,2024-07-19,Flipkart Health,CUST4590,Returning,Delhi,Delhi,Amlodipine 5mg,Blood Pressure,Prescription,1,93,NONE,0,93,0.0,93.0,UPI,6,Pending,N/A,N/A,No
+ORD00047,2024-05-18,Apollo Pharmacy,CUST2253,Returning,Ahmedabad,Gujarat,Antifungal Cream,Skin Care,OTC,4,108,NONE,0,432,0.0,432.0,Net Banking,3,Delivered,N/A,2,No
+ORD00048,2023-05-28,Netmeds,CUST5833,New,Bangalore,Karnataka,Omeprazole 20mg,Antacid,OTC,5,63,HEALTH20,20,315,63.0,252.0,Debit Card,4,Returned,N/A,N/A,No
+ORD00049,2023-08-18,Flipkart Health,CUST9382,New,Ludhiana,Punjab,Zinc Supplement,Supplement,OTC,3,180,HEALTH20,20,540,108.0,432.0,Cash on Delivery,3,Returned,Wrong Medicine,N/A,No
+ORD00050,2024-11-04,Netmeds,CUST4696,New,Bangalore,Karnataka,Pantoprazole 40mg,Antacid,Prescription,4,66,NONE,0,264,0.0,264.0,Credit Card,1,Pending,N/A,N/A,No
+ORD00051,2023-04-02,1mg,CUST6161,Returning,Kolkata,West Bengal,Multivitamin Tablet,Supplement,OTC,3,222,SAVE10,10,666,66.6,599.4,Credit Card,2,Pending,N/A,N/A,No
+ORD00052,2024-02-14,Netmeds,CUST5833,New,Lucknow,Uttar Pradesh,Amlodipine 5mg,Blood Pressure,Prescription,1,95,NONE,0,95,0.0,95.0,Credit Card,5,Delivered,N/A,2,No
+ORD00053,2024-11-02,PharmEasy,CUST7361,Returning,Pune,Maharashtra,Zinc Supplement,Supplement,OTC,1,184,NONE,0,184,0.0,184.0,Cash on Delivery,1,Pending,N/A,N/A,No
+ORD00054,2023-04-08,Netmeds,CUST4468,New,Hyderabad,Telangana,Metformin 500mg,Diabetes,Prescription,3,92,NONE,0,276,0.0,276.0,Net Banking,6,Delivered,N/A,4,Yes
+ORD00055,2024-06-04,1mg,CUST8186,New,Lucknow,Uttar Pradesh,Hydrocortisone Cream,Skin Care,OTC,1,99,SAVE10,10,99,9.9,89.1,UPI,7,Delivered,N/A,2,No
+ORD00056,2024-06-18,1mg,CUST7807,New,Ahmedabad,Gujarat,Paracetamol 500mg,Pain Relief,OTC,2,21,NONE,0,42,0.0,42.0,Credit Card,3,Returned,N/A,N/A,No
+ORD00057,2024-03-25,Flipkart Health,CUST4133,New,Delhi,Delhi,Pantoprazole 40mg,Antacid,Prescription,2,62,NONE,0,124,0.0,124.0,Debit Card,6,Delivered,N/A,5,Yes
+ORD00058,2024-08-31,1mg,CUST2744,New,Surat,Gujarat,Paracetamol 500mg,Pain Relief,OTC,2,34,NONE,0,68,0.0,68.0,Debit Card,4,Delivered,N/A,1,Yes
+ORD00059,2023-02-11,1mg,CUST8091,New,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,2,77,NONE,0,154,0.0,154.0,Debit Card,3,Pending,N/A,N/A,No
+ORD00060,2024-04-10,Apollo Pharmacy,CUST2142,Returning,Jaipur,Rajasthan,Cough Syrup 100ml,Cough & Cold,OTC,1,78,NONE,0,78,0.0,78.0,UPI,1,Delivered,N/A,4,No
+ORD00061,2024-01-08,Flipkart Health,CUST3394,New,Pune,Maharashtra,Zinc Supplement,Supplement,OTC,3,178,NONE,0,534,0.0,534.0,Net Banking,2,Pending,N/A,N/A,No
+ORD00062,2024-09-29,1mg,CUST2419,New,Ahmedabad,Gujarat,Levocetirizine 5mg,Antiallergic,OTC,5,48,NONE,0,240,0.0,240.0,Cash on Delivery,1,Delivered,N/A,3,Yes
+ORD00063,2023-02-02,Flipkart Health,CUST5355,Returning,Kolkata,West Bengal,Ibuprofen 400mg,Pain Relief,OTC,1,49,HEALTH20,20,49,9.8,39.2,Debit Card,3,Delivered,N/A,3,No
+ORD00064,2024-01-18,PharmEasy,CUST6339,New,Ludhiana,Punjab,Atorvastatin 10mg,Cholesterol,Prescription,1,138,NONE,0,138,0.0,138.0,Credit Card,1,Delivered,N/A,3,No
+ORD00065,2023-06-03,Apollo Pharmacy,CUST2802,New,Bangalore,Karnataka,Aspirin 75mg,Blood Thinner,Prescription,5,54,NONE,0,270,0.0,270.0,Net Banking,6,Delivered,N/A,3,No
+ORD00066,2023-05-07,1mg,CUST2504,New,Jaipur,Rajasthan,Iron Tablets,Supplement,OTC,3,86,NONE,0,258,0.0,258.0,Debit Card,1,Delivered,N/A,2,Yes
+ORD00067,2023-04-11,Flipkart Health,CUST6563,New,Surat,Gujarat,Antifungal Cream,Skin Care,OTC,4,107,NONE,0,428,0.0,428.0,UPI,3,Delivered,N/A,5,No
+ORD00068,2023-01-29,Flipkart Health,CUST2885,Returning,Ludhiana,Punjab,Levocetirizine 5mg,Antiallergic,OTC,3,50,PHARMA5,5,150,7.5,142.5,UPI,2,Delivered,N/A,3,No
+ORD00069,2023-05-17,PharmEasy,CUST8891,New,Lucknow,Uttar Pradesh,Amoxicillin 500mg,Antibiotic,Prescription,2,122,PHARMA5,5,244,12.2,231.8,Credit Card,2,Delivered,N/A,3,No
+ORD00070,2024-11-16,Netmeds,CUST5439,Returning,Pune,Maharashtra,Vitamin C 500mg,Supplement,OTC,5,158,NONE,0,790,0.0,790.0,Debit Card,4,Delivered,N/A,2,Yes
+ORD00071,2024-07-07,Flipkart Health,CUST4133,Returning,Hyderabad,Telangana,Vitamin D3 1000IU,Supplement,OTC,5,210,FIRST15,15,1050,157.5,892.5,UPI,1,Delivered,N/A,2,No
+ORD00072,2024-05-19,Netmeds,CUST4823,New,Delhi,Delhi,Hydrocortisone Cream,Skin Care,OTC,2,97,SAVE10,10,194,19.4,174.6,Net Banking,5,Delivered,N/A,5,Yes
+ORD00073,2023-01-02,Apollo Pharmacy,CUST2159,New,Delhi,Delhi,Aspirin 75mg,Blood Thinner,Prescription,2,58,NONE,0,116,0.0,116.0,UPI,5,Delivered,N/A,2,No
+ORD00074,2024-03-03,Apollo Pharmacy,CUST3394,New,Jaipur,Rajasthan,Omeprazole 20mg,Antacid,OTC,5,53,PHARMA5,5,265,13.25,251.75,Cash on Delivery,4,Returned,N/A,N/A,No
+ORD00075,2024-01-03,1mg,CUST4178,Returning,Delhi,Delhi,Iron Tablets,Supplement,OTC,5,78,NONE,0,390,0.0,390.0,UPI,5,Delivered,N/A,2,Yes
+ORD00076,2024-04-03,Apollo Pharmacy,CUST1362,New,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,5,66,SAVE10,10,330,33.0,297.0,UPI,1,Delivered,N/A,4,No
+ORD00077,2024-04-18,1mg,CUST8434,Returning,Bangalore,Karnataka,Nasal Spray,Cough & Cold,OTC,2,134,NONE,0,268,0.0,268.0,Debit Card,2,Delivered,N/A,4,Yes
+ORD00078,2024-01-11,1mg,CUST8033,New,Surat,Gujarat,Cetirizine 10mg,Antiallergic,OTC,1,31,NONE,0,31,0.0,31.0,UPI,5,Delivered,N/A,4,No
+ORD00079,2023-12-12,Flipkart Health,CUST8556,New,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,5,69,FIRST15,15,345,51.75,293.25,Credit Card,1,Delivered,N/A,3,Yes
+ORD00080,2024-06-18,PharmEasy,CUST5284,Returning,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,3,75,NONE,0,225,0.0,225.0,Cash on Delivery,2,Delivered,N/A,3,Yes
+ORD00081,2024-01-14,PharmEasy,CUST4920,Returning,Lucknow,Uttar Pradesh,Levocetirizine 5mg,Antiallergic,OTC,3,44,PHARMA5,5,132,6.6,125.4,Cash on Delivery,4,Returned,Expired Product,N/A,No
+ORD00082,2023-10-27,PharmEasy,CUST7596,Returning,Pune,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,1,101,HEALTH20,20,101,20.2,80.8,Debit Card,1,Delivered,N/A,1,Yes
+ORD00083,2024-07-16,Flipkart Health,CUST2540,Returning,Lucknow,Uttar Pradesh,Hydrocortisone Cream,Skin Care,OTC,3,88,NONE,0,264,0.0,264.0,UPI,5,Delivered,N/A,1,No
+ORD00084,2023-02-05,1mg,CUST5287,Returning,Mumbai,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,1,63,FIRST15,15,63,9.45,53.55,Credit Card,6,Delivered,N/A,2,No
+ORD00085,2024-08-18,PharmEasy,CUST8962,New,Chennai,Tamil Nadu,Vitamin D3 1000IU,Supplement,OTC,4,200,NONE,0,800,0.0,800.0,Credit Card,3,Returned,Wrong Medicine,N/A,No
+ORD00086,2024-05-17,1mg,CUST3017,Returning,Pune,Maharashtra,Omeprazole 20mg,Antacid,OTC,4,59,PHARMA5,5,236,11.8,224.2,Net Banking,6,Delivered,N/A,2,Yes
+ORD00087,2024-06-05,PharmEasy,CUST1437,New,Ahmedabad,Gujarat,Vitamin C 500mg,Supplement,OTC,2,148,NONE,0,296,0.0,296.0,Debit Card,5,Delivered,N/A,1,No
+ORD00088,2024-08-24,Flipkart Health,CUST4232,Returning,Ahmedabad,Gujarat,Nasal Spray,Cough & Cold,OTC,3,140,PHARMA5,5,420,21.0,399.0,UPI,1,Delivered,N/A,5,Yes
+ORD00089,2024-07-29,1mg,CUST8694,Returning,Pune,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,5,85,SAVE10,10,425,42.5,382.5,Debit Card,3,Delivered,N/A,1,No
+ORD00090,2024-08-31,PharmEasy,CUST4342,New,Bangalore,Karnataka,Iron Tablets,Supplement,OTC,5,90,NONE,0,450,0.0,450.0,Cash on Delivery,7,Delivered,N/A,2,Yes
+ORD00091,2023-12-28,PharmEasy,CUST6431,Returning,Pune,Maharashtra,Antifungal Cream,Skin Care,OTC,3,111,NONE,0,333,0.0,333.0,Net Banking,6,Returned,Wrong Medicine,N/A,No
+ORD00092,2023-06-11,Netmeds,CUST5712,New,Hyderabad,Telangana,Omeprazole 20mg,Antacid,OTC,2,61,NONE,0,122,0.0,122.0,UPI,4,Delivered,N/A,1,No
+ORD00093,2023-02-17,Flipkart Health,CUST2291,New,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,2,40,FIRST15,15,80,12.0,68.0,Credit Card,4,Delivered,N/A,4,No
+ORD00094,2024-07-24,PharmEasy,CUST2790,New,Pune,Maharashtra,Vitamin C 500mg,Supplement,OTC,3,157,NONE,0,471,0.0,471.0,Debit Card,2,Pending,N/A,N/A,No
+ORD00095,2023-06-18,Flipkart Health,CUST9074,New,Lucknow,Uttar Pradesh,Paracetamol 500mg,Pain Relief,OTC,5,29,NONE,0,145,0.0,145.0,Debit Card,2,Delivered,N/A,5,No
+ORD00096,2023-09-25,Flipkart Health,CUST2921,New,Delhi,Delhi,Aspirin 75mg,Blood Thinner,Prescription,2,50,HEALTH20,20,100,20.0,80.0,Credit Card,2,Delivered,N/A,4,No
+ORD00097,2023-06-11,Netmeds,CUST7201,Returning,Pune,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,4,150,NONE,0,600,0.0,600.0,Credit Card,1,Delivered,N/A,5,No
+ORD00098,2024-03-02,Flipkart Health,CUST3777,Returning,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,3,84,NONE,0,252,0.0,252.0,Debit Card,3,Delivered,N/A,5,No
+ORD00099,2024-05-22,PharmEasy,CUST5340,Returning,Bangalore,Karnataka,Metformin 500mg,Diabetes,Prescription,3,91,NONE,0,273,0.0,273.0,Credit Card,7,Pending,N/A,N/A,No
+ORD00100,2023-11-25,PharmEasy,CUST2689,Returning,Mumbai,Maharashtra,Metformin 500mg,Diabetes,Prescription,3,91,PHARMA5,5,273,13.65,259.35,UPI,6,Delivered,N/A,2,No
+ORD00101,2023-04-05,Apollo Pharmacy,CUST1083,New,Mumbai,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,5,85,NONE,0,425,0.0,425.0,Net Banking,1,Delivered,N/A,5,Yes
+ORD00102,2024-01-15,1mg,CUST5455,New,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,4,858,NONE,0,3432,0.0,3432.0,Net Banking,2,Delivered,N/A,1,No
+ORD00103,2024-04-23,Apollo Pharmacy,CUST3315,Returning,Surat,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,2,53,NONE,0,106,0.0,106.0,Net Banking,5,Delivered,N/A,3,No
+ORD00104,2024-08-17,Netmeds,CUST5355,New,Mumbai,Maharashtra,Zinc Supplement,Supplement,OTC,1,180,NONE,0,180,0.0,180.0,Debit Card,5,Delivered,N/A,5,No
+ORD00105,2023-07-31,PharmEasy,CUST8887,Returning,Lucknow,Uttar Pradesh,Atorvastatin 10mg,Cholesterol,Prescription,2,144,FIRST15,15,288,43.2,244.8,UPI,1,Cancelled,N/A,N/A,No
+ORD00106,2023-05-16,Flipkart Health,CUST6627,New,Lucknow,Uttar Pradesh,Antifungal Cream,Skin Care,OTC,4,117,NONE,0,468,0.0,468.0,Credit Card,7,Delivered,N/A,4,Yes
+ORD00107,2024-04-08,1mg,CUST5791,New,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,4,62,PHARMA5,5,248,12.4,235.6,UPI,1,Delivered,N/A,3,No
+ORD00108,2024-03-11,Apollo Pharmacy,CUST9257,Returning,Hyderabad,Telangana,Vitamin C 500mg,Supplement,OTC,3,158,NONE,0,474,0.0,474.0,Credit Card,6,Delivered,N/A,4,Yes
+ORD00109,2024-11-27,Apollo Pharmacy,CUST8186,Returning,Hyderabad,Telangana,Metformin 500mg,Diabetes,Prescription,5,84,NONE,0,420,0.0,420.0,Debit Card,3,Delivered,N/A,5,Yes
+ORD00110,2023-11-22,Flipkart Health,CUST5340,New,Pune,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,4,74,NONE,0,296,0.0,296.0,UPI,4,Delivered,N/A,2,No
+ORD00111,2024-08-18,1mg,CUST2291,Returning,Kolkata,West Bengal,Hydrocortisone Cream,Skin Care,OTC,4,91,PHARMA5,5,364,18.2,345.8,Cash on Delivery,3,Delivered,N/A,5,Yes
+ORD00112,2023-09-30,Netmeds,CUST1515,Returning,Ahmedabad,Gujarat,Metformin 500mg,Diabetes,Prescription,1,92,PHARMA5,5,92,4.6,87.4,Debit Card,1,Delivered,N/A,1,Yes
+ORD00113,2024-10-13,Netmeds,CUST5439,New,Bangalore,Karnataka,Cough Syrup 100ml,Cough & Cold,OTC,5,76,PHARMA5,5,380,19.0,361.0,Debit Card,1,Delivered,N/A,4,No
+ORD00114,2023-06-24,PharmEasy,CUST1738,New,Delhi,Delhi,Nasal Spray,Cough & Cold,OTC,1,135,NONE,0,135,0.0,135.0,UPI,2,Cancelled,N/A,N/A,No
+ORD00115,2024-07-13,1mg,CUST1011,New,Bangalore,Karnataka,Aspirin 75mg,Blood Thinner,Prescription,1,45,SAVE10,10,45,4.5,40.5,Cash on Delivery,7,Cancelled,N/A,N/A,No
+ORD00116,2024-09-21,1mg,CUST9631,New,Chennai,Tamil Nadu,Azithromycin 500mg,Antibiotic,Prescription,3,179,NONE,0,537,0.0,537.0,Credit Card,7,Delivered,N/A,3,No
+ORD00117,2024-01-12,Flipkart Health,CUST1933,New,Ahmedabad,Gujarat,Amoxicillin 500mg,Antibiotic,Prescription,4,129,NONE,0,516,0.0,516.0,Net Banking,4,Pending,N/A,N/A,No
+ORD00118,2023-04-25,Flipkart Health,CUST9724,Returning,Pune,Maharashtra,Montelukast 10mg,Asthma,Prescription,4,164,SAVE10,10,656,65.6,590.4,Net Banking,3,Delivered,N/A,4,No
+ORD00119,2023-06-06,Flipkart Health,CUST9702,Returning,Pune,Maharashtra,Paracetamol 500mg,Pain Relief,OTC,2,24,SAVE10,10,48,4.8,43.2,Net Banking,3,Delivered,N/A,4,Yes
+ORD00120,2023-05-16,1mg,CUST7366,New,Jaipur,Rajasthan,Iron Tablets,Supplement,OTC,4,86,NONE,0,344,0.0,344.0,Debit Card,7,Delivered,N/A,5,Yes
+ORD00121,2023-01-31,Flipkart Health,CUST6828,New,Ludhiana,Punjab,Amlodipine 5mg,Blood Pressure,Prescription,1,96,FIRST15,15,96,14.4,81.6,Net Banking,4,Delivered,N/A,1,No
+ORD00122,2023-09-29,Apollo Pharmacy,CUST8170,New,Delhi,Delhi,Vitamin C 500mg,Supplement,OTC,4,152,HEALTH20,20,608,121.6,486.4,Net Banking,5,Delivered,N/A,5,No
+ORD00123,2023-07-09,PharmEasy,CUST9000,Returning,Bangalore,Karnataka,Ondansetron 4mg,Antinausea,Prescription,5,70,PHARMA5,5,350,17.5,332.5,Cash on Delivery,7,Delivered,N/A,3,No
+ORD00124,2023-05-26,Apollo Pharmacy,CUST3691,Returning,Bangalore,Karnataka,Amoxicillin 500mg,Antibiotic,Prescription,4,115,HEALTH20,20,460,92.0,368.0,Credit Card,6,Delivered,N/A,4,Yes
+ORD00125,2023-01-08,PharmEasy,CUST2858,New,Chennai,Tamil Nadu,Nasal Spray,Cough & Cold,OTC,3,128,NONE,0,384,0.0,384.0,UPI,5,Delivered,N/A,3,Yes
+ORD00126,2023-12-23,1mg,CUST2689,New,Mumbai,Maharashtra,Azithromycin 500mg,Antibiotic,Prescription,4,185,NONE,0,740,0.0,740.0,Net Banking,6,Delivered,N/A,3,Yes
+ORD00127,2024-07-08,Flipkart Health,CUST2795,Returning,Delhi,Delhi,Paracetamol 500mg,Pain Relief,OTC,5,25,FIRST15,15,125,18.75,106.25,Credit Card,1,Delivered,N/A,5,Yes
+ORD00128,2023-11-06,Apollo Pharmacy,CUST5176,New,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,3,29,HEALTH20,20,87,17.4,69.6,UPI,3,Delivered,N/A,3,No
+ORD00129,2023-04-03,Netmeds,CUST9243,Returning,Bangalore,Karnataka,Multivitamin Tablet,Supplement,OTC,1,225,HEALTH20,20,225,45.0,180.0,UPI,1,Pending,N/A,N/A,No
+ORD00130,2023-06-03,Flipkart Health,CUST7965,Returning,Mumbai,Maharashtra,Ondansetron 4mg,Antinausea,Prescription,1,77,NONE,0,77,0.0,77.0,UPI,6,Delivered,N/A,3,Yes
+ORD00131,2024-07-12,1mg,CUST2579,Returning,Surat,Gujarat,Atorvastatin 10mg,Cholesterol,Prescription,1,140,NONE,0,140,0.0,140.0,Cash on Delivery,7,Delivered,N/A,5,No
+ORD00132,2024-10-27,PharmEasy,CUST3996,New,Mumbai,Maharashtra,Multivitamin Tablet,Supplement,OTC,1,226,SAVE10,10,226,22.6,203.4,Net Banking,6,Pending,N/A,N/A,No
+ORD00133,2023-08-29,PharmEasy,CUST4896,New,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,3,110,PHARMA5,5,330,16.5,313.5,Debit Card,6,Cancelled,N/A,N/A,No
+ORD00134,2024-10-19,1mg,CUST7560,Returning,Ahmedabad,Gujarat,Atorvastatin 10mg,Cholesterol,Prescription,4,149,HEALTH20,20,596,119.2,476.8,Debit Card,7,Delivered,N/A,1,Yes
+ORD00135,2023-05-10,Flipkart Health,CUST7393,New,Surat,Gujarat,Ondansetron 4mg,Antinausea,Prescription,4,69,NONE,0,276,0.0,276.0,Net Banking,3,Delivered,N/A,3,Yes
+ORD00136,2023-10-14,PharmEasy,CUST8238,Returning,Surat,Gujarat,Azithromycin 500mg,Antibiotic,Prescription,1,181,SAVE10,10,181,18.1,162.9,UPI,5,Delivered,N/A,5,No
+ORD00137,2023-11-26,Flipkart Health,CUST8540,Returning,Ahmedabad,Gujarat,Zinc Supplement,Supplement,OTC,1,184,FIRST15,15,184,27.6,156.4,Debit Card,5,Delivered,N/A,5,No
+ORD00138,2023-05-28,PharmEasy,CUST3438,New,Jaipur,Rajasthan,Ondansetron 4mg,Antinausea,Prescription,2,77,SAVE10,10,154,15.4,138.6,Cash on Delivery,1,Delivered,N/A,4,Yes
+ORD00139,2023-08-16,Flipkart Health,CUST2408,Returning,Jaipur,Rajasthan,Zinc Supplement,Supplement,OTC,4,170,NONE,0,680,0.0,680.0,Net Banking,5,Delivered,N/A,5,No
+ORD00140,2024-09-04,PharmEasy,CUST2113,New,Ahmedabad,Gujarat,Omeprazole 20mg,Antacid,OTC,5,63,FIRST15,15,315,47.25,267.75,Credit Card,4,Delivered,N/A,4,Yes
+ORD00141,2023-08-13,Netmeds,CUST1362,Returning,Jaipur,Rajasthan,Antifungal Cream,Skin Care,OTC,3,111,NONE,0,333,0.0,333.0,Cash on Delivery,3,Delivered,N/A,2,Yes
+ORD00142,2023-05-23,Apollo Pharmacy,CUST9645,New,Kolkata,West Bengal,Hydrocortisone Cream,Skin Care,OTC,1,85,HEALTH20,20,85,17.0,68.0,Debit Card,3,Pending,N/A,N/A,No
+ORD00143,2024-03-31,PharmEasy,CUST2250,Returning,Bangalore,Karnataka,Nasal Spray,Cough & Cold,OTC,3,138,NONE,0,414,0.0,414.0,Net Banking,3,Returned,N/A,N/A,No
+ORD00144,2024-07-05,PharmEasy,CUST9862,New,Chennai,Tamil Nadu,Dolo 650,Pain Relief,OTC,1,35,NONE,0,35,0.0,35.0,Cash on Delivery,3,Delivered,N/A,1,Yes
+ORD00145,2023-07-09,Flipkart Health,CUST6853,New,Bangalore,Karnataka,Multivitamin Tablet,Supplement,OTC,5,221,FIRST15,15,1105,165.75,939.25,Credit Card,6,Delivered,N/A,2,Yes
+ORD00146,2024-06-18,Flipkart Health,CUST7361,Returning,Pune,Maharashtra,Montelukast 10mg,Asthma,Prescription,4,166,PHARMA5,5,664,33.2,630.8,Debit Card,4,Delivered,N/A,2,No
+ORD00147,2024-04-22,1mg,CUST2473,Returning,Jaipur,Rajasthan,Dolo 650,Pain Relief,OTC,2,35,NONE,0,70,0.0,70.0,UPI,4,Delivered,N/A,3,Yes
+ORD00148,2024-01-03,PharmEasy,CUST2019,New,Lucknow,Uttar Pradesh,Azithromycin 500mg,Antibiotic,Prescription,1,178,NONE,0,178,0.0,178.0,UPI,5,Delivered,N/A,3,No
+ORD00149,2023-04-25,Flipkart Health,CUST4590,New,Jaipur,Rajasthan,Atorvastatin 10mg,Cholesterol,Prescription,5,145,NONE,0,725,0.0,725.0,Cash on Delivery,6,Delivered,N/A,1,Yes
+ORD00150,2023-08-01,1mg,CUST5278,Returning,Chennai,Tamil Nadu,Antifungal Cream,Skin Care,OTC,4,115,FIRST15,15,460,69.0,391.0,Credit Card,6,Delivered,N/A,4,No
+ORD00151,2023-08-17,PharmEasy,CUST9123,New,Delhi,Delhi,Atorvastatin 10mg,Cholesterol,Prescription,2,136,NONE,0,272,0.0,272.0,Debit Card,7,Delivered,N/A,4,Yes
+ORD00152,2024-05-27,Flipkart Health,CUST1299,Returning,Delhi,Delhi,Levocetirizine 5mg,Antiallergic,OTC,4,39,NONE,0,156,0.0,156.0,UPI,4,Delivered,N/A,2,Yes
+ORD00153,2024-08-02,Netmeds,CUST7965,Returning,Delhi,Delhi,Omeprazole 20mg,Antacid,OTC,4,55,PHARMA5,5,220,11.0,209.0,Net Banking,2,Delivered,N/A,2,No
+ORD00154,2024-02-25,PharmEasy,CUST8887,Returning,Hyderabad,Telangana,Multivitamin Tablet,Supplement,OTC,4,228,NONE,0,912,0.0,912.0,Debit Card,3,Cancelled,N/A,N/A,No
+ORD00155,2023-02-04,Netmeds,CUST9702,New,Ahmedabad,Gujarat,Vitamin D3 1000IU,Supplement,OTC,4,200,FIRST15,15,800,120.0,680.0,Cash on Delivery,2,Pending,N/A,N/A,No
+ORD00156,2023-11-28,Netmeds,CUST2292,Returning,Hyderabad,Telangana,Nasal Spray,Cough & Cold,OTC,3,125,SAVE10,10,375,37.5,337.5,UPI,5,Delivered,N/A,1,No
+ORD00157,2023-05-12,PharmEasy,CUST3222,Returning,Ahmedabad,Gujarat,Paracetamol 500mg,Pain Relief,OTC,4,35,NONE,0,140,0.0,140.0,UPI,5,Delivered,N/A,2,Yes
+ORD00158,2024-11-11,Apollo Pharmacy,CUST6283,New,Jaipur,Rajasthan,Zinc Supplement,Supplement,OTC,3,170,FIRST15,15,510,76.5,433.5,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00159,2023-08-30,Apollo Pharmacy,CUST1515,Returning,Kolkata,West Bengal,Montelukast 10mg,Asthma,Prescription,3,160,NONE,0,480,0.0,480.0,Net Banking,2,Delivered,N/A,4,Yes
+ORD00160,2024-10-31,Apollo Pharmacy,CUST5284,New,Surat,Gujarat,Antifungal Cream,Skin Care,OTC,4,120,NONE,0,480,0.0,480.0,Net Banking,4,Pending,N/A,N/A,No
+ORD00161,2024-08-01,Apollo Pharmacy,CUST7865,New,Jaipur,Rajasthan,Cough Syrup 100ml,Cough & Cold,OTC,4,85,HEALTH20,20,340,68.0,272.0,UPI,4,Delivered,N/A,3,Yes
+ORD00162,2023-12-17,Apollo Pharmacy,CUST9009,Returning,Chennai,Tamil Nadu,Azithromycin 500mg,Antibiotic,Prescription,1,178,PHARMA5,5,178,8.9,169.1,Net Banking,2,Delivered,N/A,2,Yes
+ORD00163,2023-11-08,1mg,CUST7560,Returning,Lucknow,Uttar Pradesh,Montelukast 10mg,Asthma,Prescription,5,163,NONE,0,815,0.0,815.0,Cash on Delivery,3,Pending,N/A,N/A,No
+ORD00164,2023-02-13,Apollo Pharmacy,CUST8970,New,Hyderabad,Telangana,Multivitamin Tablet,Supplement,OTC,3,227,SAVE10,10,681,68.1,612.9,Net Banking,2,Delivered,N/A,4,Yes
+ORD00165,2023-04-25,1mg,CUST1584,Returning,Lucknow,Uttar Pradesh,Montelukast 10mg,Asthma,Prescription,5,169,SAVE10,10,845,84.5,760.5,Debit Card,4,Delivered,N/A,3,No
+ORD00166,2024-11-06,Flipkart Health,CUST4342,New,Bangalore,Karnataka,Nasal Spray,Cough & Cold,OTC,5,140,HEALTH20,20,700,140.0,560.0,Debit Card,4,Delivered,N/A,1,No
+ORD00167,2024-11-17,1mg,CUST9600,New,Bangalore,Karnataka,Ibuprofen 400mg,Pain Relief,OTC,3,52,PHARMA5,5,156,7.8,148.2,Cash on Delivery,3,Delivered,N/A,3,No
+ORD00168,2024-01-02,Apollo Pharmacy,CUST9000,New,Lucknow,Uttar Pradesh,Pantoprazole 40mg,Antacid,Prescription,1,67,FIRST15,15,67,10.05,56.95,Net Banking,1,Delivered,N/A,5,No
+ORD00169,2024-07-26,Flipkart Health,CUST8540,Returning,Bangalore,Karnataka,Aspirin 75mg,Blood Thinner,Prescription,4,60,NONE,0,240,0.0,240.0,Debit Card,7,Pending,N/A,N/A,No
+ORD00170,2024-08-06,1mg,CUST2299,New,Hyderabad,Telangana,Pantoprazole 40mg,Antacid,Prescription,2,74,NONE,0,148,0.0,148.0,UPI,4,Delivered,N/A,2,No
+ORD00171,2023-11-30,1mg,CUST6757,New,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,2,73,HEALTH20,20,146,29.2,116.8,Cash on Delivery,1,Delivered,N/A,2,Yes
+ORD00172,2023-09-08,Netmeds,CUST9202,Returning,Hyderabad,Telangana,Insulin Glargine,Diabetes,Prescription,3,856,FIRST15,15,2568,385.2,2182.8,UPI,7,Delivered,N/A,4,No
+ORD00173,2023-02-12,Apollo Pharmacy,CUST7201,New,Hyderabad,Telangana,Nasal Spray,Cough & Cold,OTC,5,135,PHARMA5,5,675,33.75,641.25,Net Banking,5,Delivered,N/A,4,No
+ORD00174,2024-04-29,Flipkart Health,CUST3858,New,Bangalore,Karnataka,Metformin 500mg,Diabetes,Prescription,2,85,PHARMA5,5,170,8.5,161.5,Cash on Delivery,5,Delivered,N/A,3,No
+ORD00175,2024-01-08,PharmEasy,CUST4178,New,Lucknow,Uttar Pradesh,Montelukast 10mg,Asthma,Prescription,3,166,NONE,0,498,0.0,498.0,Cash on Delivery,2,Delivered,N/A,3,Yes
+ORD00176,2024-10-09,Netmeds,CUST8238,Returning,Pune,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,1,139,NONE,0,139,0.0,139.0,Cash on Delivery,6,Delivered,N/A,3,Yes
+ORD00177,2024-03-07,Apollo Pharmacy,CUST9375,New,Ludhiana,Punjab,Metformin 500mg,Diabetes,Prescription,2,81,NONE,0,162,0.0,162.0,Cash on Delivery,3,Delivered,N/A,5,No
+ORD00178,2024-09-07,1mg,CUST3017,Returning,Surat,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,3,47,HEALTH20,20,141,28.2,112.8,Cash on Delivery,3,Delivered,N/A,2,Yes
+ORD00179,2024-06-20,Flipkart Health,CUST1299,New,Surat,Gujarat,Hydrocortisone Cream,Skin Care,OTC,4,95,PHARMA5,5,380,19.0,361.0,Net Banking,7,Delivered,N/A,5,Yes
+ORD00180,2023-10-02,Apollo Pharmacy,CUST9000,Returning,Hyderabad,Telangana,Multivitamin Tablet,Supplement,OTC,4,217,NONE,0,868,0.0,868.0,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00181,2023-12-30,1mg,CUST7807,Returning,Bangalore,Karnataka,Zinc Supplement,Supplement,OTC,4,172,HEALTH20,20,688,137.6,550.4,Credit Card,2,Delivered,N/A,4,Yes
+ORD00182,2024-10-31,PharmEasy,CUST7584,Returning,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,2,115,NONE,0,230,0.0,230.0,Net Banking,7,Delivered,N/A,4,Yes
+ORD00183,2023-11-26,Netmeds,CUST7334,Returning,Jaipur,Rajasthan,Iron Tablets,Supplement,OTC,1,85,HEALTH20,20,85,17.0,68.0,Credit Card,3,Delivered,N/A,1,No
+ORD00184,2023-10-28,1mg,CUST9877,Returning,Pune,Maharashtra,Ondansetron 4mg,Antinausea,Prescription,1,69,NONE,0,69,0.0,69.0,Credit Card,6,Pending,N/A,N/A,No
+ORD00185,2024-02-05,PharmEasy,CUST4111,Returning,Bangalore,Karnataka,Vitamin C 500mg,Supplement,OTC,5,145,SAVE10,10,725,72.5,652.5,Credit Card,4,Delivered,N/A,5,No
+ORD00186,2023-05-16,Flipkart Health,CUST2444,Returning,Ludhiana,Punjab,Dolo 650,Pain Relief,OTC,5,44,NONE,0,220,0.0,220.0,Cash on Delivery,1,Delivered,N/A,5,Yes
+ORD00187,2024-03-12,1mg,CUST4474,Returning,Hyderabad,Telangana,Pantoprazole 40mg,Antacid,Prescription,2,72,HEALTH20,20,144,28.8,115.2,Credit Card,7,Delivered,N/A,5,No
+ORD00188,2023-03-07,1mg,CUST6890,Returning,Jaipur,Rajasthan,Montelukast 10mg,Asthma,Prescription,5,164,NONE,0,820,0.0,820.0,Net Banking,7,Delivered,N/A,5,No
+ORD00189,2024-07-04,1mg,CUST9123,New,Bangalore,Karnataka,Nasal Spray,Cough & Cold,OTC,5,137,SAVE10,10,685,68.5,616.5,Cash on Delivery,2,Delivered,N/A,3,No
+ORD00190,2024-10-12,Flipkart Health,CUST6388,New,Surat,Gujarat,Ondansetron 4mg,Antinausea,Prescription,3,74,FIRST15,15,222,33.3,188.7,Net Banking,7,Delivered,N/A,3,No
+ORD00191,2024-01-09,1mg,CUST9871,Returning,Kolkata,West Bengal,Iron Tablets,Supplement,OTC,1,82,SAVE10,10,82,8.2,73.8,Net Banking,3,Cancelled,N/A,N/A,No
+ORD00192,2024-02-24,1mg,CUST2159,New,Ahmedabad,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,1,45,NONE,0,45,0.0,45.0,Credit Card,3,Delivered,N/A,5,Yes
+ORD00193,2024-06-07,Netmeds,CUST3383,New,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,3,852,HEALTH20,20,2556,511.2,2044.8,Net Banking,3,Delivered,N/A,3,No
+ORD00194,2023-09-13,1mg,CUST7453,New,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,4,73,SAVE10,10,292,29.2,262.8,Credit Card,5,Delivered,N/A,2,Yes
+ORD00195,2023-01-01,PharmEasy,CUST7212,New,Ludhiana,Punjab,Antifungal Cream,Skin Care,OTC,3,117,FIRST15,15,351,52.65,298.35,Cash on Delivery,4,Cancelled,N/A,N/A,No
+ORD00196,2023-05-04,Netmeds,CUST3266,New,Ludhiana,Punjab,Multivitamin Tablet,Supplement,OTC,5,228,NONE,0,1140,0.0,1140.0,UPI,3,Cancelled,N/A,N/A,No
+ORD00197,2024-07-20,PharmEasy,CUST5789,Returning,Hyderabad,Telangana,Hydrocortisone Cream,Skin Care,OTC,1,94,NONE,0,94,0.0,94.0,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00198,2024-08-11,PharmEasy,CUST4696,Returning,Ahmedabad,Gujarat,Ondansetron 4mg,Antinausea,Prescription,4,80,PHARMA5,5,320,16.0,304.0,Debit Card,4,Delivered,N/A,4,No
+ORD00199,2023-04-19,Flipkart Health,CUST6866,Returning,Kolkata,West Bengal,Paracetamol 500mg,Pain Relief,OTC,5,30,NONE,0,150,0.0,150.0,Credit Card,4,Cancelled,N/A,N/A,No
+ORD00200,2023-02-27,Apollo Pharmacy,CUST2172,Returning,Jaipur,Rajasthan,Metformin 500mg,Diabetes,Prescription,5,85,NONE,0,425,0.0,425.0,Cash on Delivery,1,Delivered,N/A,1,No
+ORD00201,2024-07-15,Apollo Pharmacy,CUST2326,New,Pune,Maharashtra,Multivitamin Tablet,Supplement,OTC,5,215,HEALTH20,20,1075,215.0,860.0,Debit Card,2,Delivered,N/A,1,Yes
+ORD00202,2023-02-28,PharmEasy,CUST3355,New,Bangalore,Karnataka,Amoxicillin 500mg,Antibiotic,Prescription,2,128,NONE,0,256,0.0,256.0,UPI,2,Delivered,N/A,1,Yes
+ORD00203,2023-11-03,PharmEasy,CUST4358,New,Kolkata,West Bengal,Ibuprofen 400mg,Pain Relief,OTC,4,45,NONE,0,180,0.0,180.0,Credit Card,5,Pending,N/A,N/A,No
+ORD00204,2024-04-16,Netmeds,CUST4232,New,Lucknow,Uttar Pradesh,Cough Syrup 100ml,Cough & Cold,OTC,2,80,NONE,0,160,0.0,160.0,Cash on Delivery,1,Returned,N/A,N/A,No
+ORD00205,2023-12-14,Apollo Pharmacy,CUST1151,Returning,Surat,Gujarat,Multivitamin Tablet,Supplement,OTC,2,223,NONE,0,446,0.0,446.0,Cash on Delivery,3,Delivered,N/A,4,Yes
+ORD00206,2023-03-12,Apollo Pharmacy,CUST6828,Returning,Pune,Maharashtra,Antifungal Cream,Skin Care,OTC,4,111,HEALTH20,20,444,88.8,355.2,Cash on Delivery,5,Cancelled,N/A,N/A,No
+ORD00207,2024-03-28,Netmeds,CUST2177,New,Kolkata,West Bengal,Iron Tablets,Supplement,OTC,1,81,FIRST15,15,81,12.15,68.85,Net Banking,6,Delivered,N/A,4,Yes
+ORD00208,2024-05-12,PharmEasy,CUST7584,Returning,Ahmedabad,Gujarat,Hydrocortisone Cream,Skin Care,OTC,3,96,SAVE10,10,288,28.8,259.2,UPI,6,Delivered,N/A,2,No
+ORD00209,2023-05-07,1mg,CUST3266,Returning,Surat,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,5,51,NONE,0,255,0.0,255.0,Debit Card,6,Delivered,N/A,3,No
+ORD00210,2024-01-09,1mg,CUST9074,New,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,3,48,NONE,0,144,0.0,144.0,Cash on Delivery,6,Returned,Damaged Package,N/A,No
+ORD00211,2023-08-30,Apollo Pharmacy,CUST9826,New,Delhi,Delhi,Cetirizine 10mg,Antiallergic,OTC,3,31,NONE,0,93,0.0,93.0,UPI,2,Delivered,N/A,3,No
+ORD00212,2024-02-03,Apollo Pharmacy,CUST1464,Returning,Ludhiana,Punjab,Vitamin D3 1000IU,Supplement,OTC,4,210,FIRST15,15,840,126.0,714.0,Credit Card,5,Delivered,N/A,2,Yes
+ORD00213,2024-06-25,Flipkart Health,CUST9262,Returning,Pune,Maharashtra,Vitamin D3 1000IU,Supplement,OTC,2,200,PHARMA5,5,400,20.0,380.0,Debit Card,3,Delivered,N/A,4,No
+ORD00214,2024-07-31,PharmEasy,CUST8861,Returning,Chennai,Tamil Nadu,Atorvastatin 10mg,Cholesterol,Prescription,2,142,HEALTH20,20,284,56.8,227.2,Credit Card,3,Delivered,N/A,3,No
+ORD00215,2023-07-14,PharmEasy,CUST9202,New,Kolkata,West Bengal,Vitamin C 500mg,Supplement,OTC,5,156,PHARMA5,5,780,39.0,741.0,Credit Card,1,Returned,N/A,N/A,No
+ORD00216,2023-06-14,Flipkart Health,CUST5791,Returning,Delhi,Delhi,Amoxicillin 500mg,Antibiotic,Prescription,2,122,HEALTH20,20,244,48.8,195.2,UPI,4,Returned,Damaged Package,N/A,No
+ORD00217,2024-06-15,Apollo Pharmacy,CUST5572,Returning,Kolkata,West Bengal,Amoxicillin 500mg,Antibiotic,Prescription,1,129,NONE,0,129,0.0,129.0,Credit Card,6,Delivered,N/A,5,Yes
+ORD00218,2023-04-26,1mg,CUST6339,Returning,Surat,Gujarat,Azithromycin 500mg,Antibiotic,Prescription,1,181,NONE,0,181,0.0,181.0,Cash on Delivery,3,Delivered,N/A,4,Yes
+ORD00219,2024-11-20,PharmEasy,CUST6853,Returning,Pune,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,2,101,PHARMA5,5,202,10.1,191.9,Net Banking,2,Delivered,N/A,2,Yes
+ORD00220,2024-01-16,Flipkart Health,CUST6627,New,Ludhiana,Punjab,Antifungal Cream,Skin Care,OTC,3,109,PHARMA5,5,327,16.35,310.65,Cash on Delivery,7,Delivered,N/A,2,Yes
+ORD00221,2024-05-22,Netmeds,CUST2744,New,Pune,Maharashtra,Aspirin 75mg,Blood Thinner,Prescription,4,60,SAVE10,10,240,24.0,216.0,UPI,4,Cancelled,N/A,N/A,No
+ORD00222,2024-06-23,PharmEasy,CUST9118,New,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,5,72,PHARMA5,5,360,18.0,342.0,Debit Card,2,Delivered,N/A,3,Yes
+ORD00223,2024-07-21,Flipkart Health,CUST4164,New,Jaipur,Rajasthan,Ibuprofen 400mg,Pain Relief,OTC,3,47,FIRST15,15,141,21.15,119.85,Cash on Delivery,2,Delivered,N/A,1,Yes
+ORD00224,2024-11-17,Flipkart Health,CUST5847,Returning,Lucknow,Uttar Pradesh,Hydrocortisone Cream,Skin Care,OTC,5,98,NONE,0,490,0.0,490.0,UPI,3,Delivered,N/A,5,Yes
+ORD00225,2024-07-28,Netmeds,CUST8077,Returning,Jaipur,Rajasthan,Azithromycin 500mg,Antibiotic,Prescription,3,183,FIRST15,15,549,82.35,466.65,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00226,2024-08-23,Flipkart Health,CUST3253,Returning,Bangalore,Karnataka,Cetirizine 10mg,Antiallergic,OTC,1,36,NONE,0,36,0.0,36.0,Net Banking,4,Delivered,N/A,5,No
+ORD00227,2023-09-15,Netmeds,CUST8724,New,Bangalore,Karnataka,Nasal Spray,Cough & Cold,OTC,2,131,SAVE10,10,262,26.2,235.8,Credit Card,6,Delivered,N/A,5,No
+ORD00228,2023-12-05,PharmEasy,CUST2411,New,Delhi,Delhi,Cough Syrup 100ml,Cough & Cold,OTC,1,84,SAVE10,10,84,8.4,75.6,UPI,5,Delivered,N/A,2,No
+ORD00229,2023-09-11,Flipkart Health,CUST3443,Returning,Delhi,Delhi,Atorvastatin 10mg,Cholesterol,Prescription,4,138,NONE,0,552,0.0,552.0,Credit Card,1,Delivered,N/A,3,Yes
+ORD00230,2024-11-03,Flipkart Health,CUST7175,New,Jaipur,Rajasthan,Dolo 650,Pain Relief,OTC,2,39,NONE,0,78,0.0,78.0,Net Banking,2,Pending,N/A,N/A,No
+ORD00231,2023-11-02,Flipkart Health,CUST9123,New,Chennai,Tamil Nadu,Hydrocortisone Cream,Skin Care,OTC,5,91,NONE,0,455,0.0,455.0,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00232,2024-01-18,Flipkart Health,CUST4098,New,Ahmedabad,Gujarat,Metformin 500mg,Diabetes,Prescription,2,86,NONE,0,172,0.0,172.0,Credit Card,1,Returned,Wrong Medicine,N/A,No
+ORD00233,2023-07-09,Apollo Pharmacy,CUST2438,New,Kolkata,West Bengal,Insulin Glargine,Diabetes,Prescription,5,854,NONE,0,4270,0.0,4270.0,Debit Card,2,Delivered,N/A,2,No
+ORD00234,2024-03-31,Flipkart Health,CUST5194,New,Pune,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,4,101,HEALTH20,20,404,80.8,323.2,Credit Card,5,Delivered,N/A,3,Yes
+ORD00235,2024-11-04,Netmeds,CUST2744,Returning,Pune,Maharashtra,Azithromycin 500mg,Antibiotic,Prescription,3,175,SAVE10,10,525,52.5,472.5,UPI,1,Delivered,N/A,1,No
+ORD00236,2023-05-01,Netmeds,CUST9894,Returning,Pune,Maharashtra,Paracetamol 500mg,Pain Relief,OTC,3,27,HEALTH20,20,81,16.2,64.8,Cash on Delivery,3,Delivered,N/A,5,Yes
+ORD00237,2023-12-20,Apollo Pharmacy,CUST8724,Returning,Hyderabad,Telangana,Paracetamol 500mg,Pain Relief,OTC,2,35,NONE,0,70,0.0,70.0,Credit Card,7,Cancelled,N/A,N/A,No
+ORD00238,2024-09-23,1mg,CUST9592,New,Hyderabad,Telangana,Pantoprazole 40mg,Antacid,Prescription,2,75,FIRST15,15,150,22.5,127.5,Debit Card,4,Delivered,N/A,4,Yes
+ORD00239,2024-09-11,Netmeds,CUST8042,Returning,Pune,Maharashtra,Azithromycin 500mg,Antibiotic,Prescription,1,179,NONE,0,179,0.0,179.0,Credit Card,1,Delivered,N/A,3,No
+ORD00240,2023-08-22,Flipkart Health,CUST7865,New,Lucknow,Uttar Pradesh,Insulin Glargine,Diabetes,Prescription,5,849,HEALTH20,20,4245,849.0,3396.0,Net Banking,7,Delivered,N/A,2,No
+ORD00241,2023-08-10,Apollo Pharmacy,CUST4098,New,Pune,Maharashtra,Antifungal Cream,Skin Care,OTC,2,114,NONE,0,228,0.0,228.0,Credit Card,5,Delivered,N/A,2,No
+ORD00242,2024-08-21,PharmEasy,CUST3996,Returning,Kolkata,West Bengal,Vitamin C 500mg,Supplement,OTC,5,159,HEALTH20,20,795,159.0,636.0,Net Banking,7,Delivered,N/A,1,Yes
+ORD00243,2023-05-25,Apollo Pharmacy,CUST7201,Returning,Bangalore,Karnataka,Antifungal Cream,Skin Care,OTC,1,109,HEALTH20,20,109,21.8,87.2,Debit Card,3,Returned,Wrong Medicine,N/A,No
+ORD00244,2024-10-06,Netmeds,CUST1855,New,Delhi,Delhi,Nasal Spray,Cough & Cold,OTC,4,133,FIRST15,15,532,79.8,452.2,Debit Card,4,Delivered,N/A,2,No
+ORD00245,2024-07-24,1mg,CUST4232,Returning,Pune,Maharashtra,Omeprazole 20mg,Antacid,OTC,4,63,NONE,0,252,0.0,252.0,Credit Card,4,Pending,N/A,N/A,No
+ORD00246,2024-12-01,Apollo Pharmacy,CUST9894,New,Mumbai,Maharashtra,Paracetamol 500mg,Pain Relief,OTC,4,34,FIRST15,15,136,20.4,115.6,UPI,7,Delivered,N/A,4,No
+ORD00247,2023-01-18,1mg,CUST8146,New,Delhi,Delhi,Zinc Supplement,Supplement,OTC,1,173,HEALTH20,20,173,34.6,138.4,Cash on Delivery,1,Delivered,N/A,5,No
+ORD00248,2023-06-25,1mg,CUST9311,Returning,Kolkata,West Bengal,Multivitamin Tablet,Supplement,OTC,4,223,SAVE10,10,892,89.2,802.8,Cash on Delivery,4,Delivered,N/A,5,No
+ORD00249,2023-01-07,PharmEasy,CUST9216,Returning,Lucknow,Uttar Pradesh,Pantoprazole 40mg,Antacid,Prescription,3,60,PHARMA5,5,180,9.0,171.0,Net Banking,4,Delivered,N/A,3,No
+ORD00250,2023-09-01,Flipkart Health,CUST5649,Returning,Pune,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,1,71,FIRST15,15,71,10.65,60.35,Net Banking,3,Cancelled,N/A,N/A,No
+ORD00251,2023-06-20,Netmeds,CUST1396,New,Chennai,Tamil Nadu,Metformin 500mg,Diabetes,Prescription,2,86,PHARMA5,5,172,8.6,163.4,Debit Card,7,Delivered,N/A,5,Yes
+ORD00252,2024-10-04,Netmeds,CUST8540,New,Ludhiana,Punjab,Paracetamol 500mg,Pain Relief,OTC,4,27,FIRST15,15,108,16.2,91.8,Credit Card,2,Delivered,N/A,5,Yes
+ORD00253,2024-11-09,Apollo Pharmacy,CUST9009,Returning,Chennai,Tamil Nadu,Hydrocortisone Cream,Skin Care,OTC,2,95,NONE,0,190,0.0,190.0,Debit Card,5,Delivered,N/A,4,No
+ORD00254,2024-09-25,Netmeds,CUST9375,Returning,Pune,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,3,27,SAVE10,10,81,8.1,72.9,UPI,1,Cancelled,N/A,N/A,No
+ORD00255,2023-03-29,1mg,CUST9203,Returning,Bangalore,Karnataka,Insulin Glargine,Diabetes,Prescription,2,855,PHARMA5,5,1710,85.5,1624.5,Cash on Delivery,3,Cancelled,N/A,N/A,No
+ORD00256,2024-10-12,Apollo Pharmacy,CUST5789,New,Jaipur,Rajasthan,Omeprazole 20mg,Antacid,OTC,1,59,SAVE10,10,59,5.9,53.1,Cash on Delivery,2,Delivered,N/A,4,Yes
+ORD00257,2024-07-04,Netmeds,CUST3074,New,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,1,115,NONE,0,115,0.0,115.0,Cash on Delivery,7,Returned,Wrong Medicine,N/A,No
+ORD00258,2024-11-05,Netmeds,CUST5278,Returning,Bangalore,Karnataka,Vitamin C 500mg,Supplement,OTC,4,151,SAVE10,10,604,60.4,543.6,UPI,7,Cancelled,N/A,N/A,No
+ORD00259,2023-09-14,Netmeds,CUST2444,Returning,Pune,Maharashtra,Ibuprofen 400mg,Pain Relief,OTC,3,46,HEALTH20,20,138,27.6,110.4,Net Banking,7,Delivered,N/A,1,Yes
+ORD00260,2024-10-28,Netmeds,CUST9074,New,Delhi,Delhi,Cough Syrup 100ml,Cough & Cold,OTC,2,76,SAVE10,10,152,15.2,136.8,Cash on Delivery,6,Delivered,N/A,2,No
+ORD00261,2023-01-10,Netmeds,CUST4164,Returning,Ahmedabad,Gujarat,Nasal Spray,Cough & Cold,OTC,2,125,NONE,0,250,0.0,250.0,Net Banking,2,Delivered,N/A,2,No
+ORD00262,2024-05-22,Apollo Pharmacy,CUST1584,New,Ahmedabad,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,4,47,NONE,0,188,0.0,188.0,Cash on Delivery,4,Delivered,N/A,2,No
+ORD00263,2024-08-13,PharmEasy,CUST4439,Returning,Surat,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,3,48,HEALTH20,20,144,28.8,115.2,UPI,6,Returned,Damaged Package,N/A,No
+ORD00264,2023-01-13,Flipkart Health,CUST6648,New,Ahmedabad,Gujarat,Vitamin D3 1000IU,Supplement,OTC,4,201,NONE,0,804,0.0,804.0,Net Banking,1,Delivered,N/A,3,Yes
+ORD00265,2023-04-28,Flipkart Health,CUST9203,Returning,Delhi,Delhi,Antifungal Cream,Skin Care,OTC,5,109,NONE,0,545,0.0,545.0,Net Banking,3,Delivered,N/A,1,No
+ORD00266,2023-12-28,PharmEasy,CUST6782,New,Chennai,Tamil Nadu,Ondansetron 4mg,Antinausea,Prescription,3,79,NONE,0,237,0.0,237.0,Cash on Delivery,5,Delivered,N/A,2,Yes
+ORD00267,2024-08-13,1mg,CUST1784,Returning,Ludhiana,Punjab,Zinc Supplement,Supplement,OTC,4,174,NONE,0,696,0.0,696.0,Debit Card,1,Delivered,N/A,5,Yes
+ORD00268,2024-03-25,PharmEasy,CUST3315,New,Chennai,Tamil Nadu,Vitamin C 500mg,Supplement,OTC,2,156,HEALTH20,20,312,62.4,249.6,Net Banking,5,Delivered,N/A,3,No
+ORD00269,2023-04-17,Netmeds,CUST6853,Returning,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,1,221,NONE,0,221,0.0,221.0,Debit Card,4,Delivered,N/A,4,No
+ORD00270,2023-12-30,Apollo Pharmacy,CUST7359,Returning,Ludhiana,Punjab,Multivitamin Tablet,Supplement,OTC,4,219,NONE,0,876,0.0,876.0,UPI,3,Pending,N/A,N/A,No
+ORD00271,2023-06-05,1mg,CUST7920,New,Hyderabad,Telangana,Vitamin D3 1000IU,Supplement,OTC,5,196,NONE,0,980,0.0,980.0,UPI,7,Delivered,N/A,5,No
+ORD00272,2023-03-25,1mg,CUST2019,New,Bangalore,Karnataka,Cetirizine 10mg,Antiallergic,OTC,4,26,NONE,0,104,0.0,104.0,Cash on Delivery,2,Delivered,N/A,3,Yes
+ORD00273,2024-08-08,PharmEasy,CUST1362,New,Bangalore,Karnataka,Cough Syrup 100ml,Cough & Cold,OTC,2,83,NONE,0,166,0.0,166.0,Cash on Delivery,7,Delivered,N/A,3,Yes
+ORD00274,2023-10-12,Flipkart Health,CUST2159,Returning,Jaipur,Rajasthan,Amlodipine 5mg,Blood Pressure,Prescription,5,96,FIRST15,15,480,72.0,408.0,Debit Card,4,Delivered,N/A,1,Yes
+ORD00275,2024-06-10,PharmEasy,CUST7837,New,Bangalore,Karnataka,Vitamin C 500mg,Supplement,OTC,1,151,PHARMA5,5,151,7.55,143.45,Debit Card,4,Delivered,N/A,1,Yes
+ORD00276,2023-10-06,Flipkart Health,CUST4698,New,Pune,Maharashtra,Nasal Spray,Cough & Cold,OTC,4,126,PHARMA5,5,504,25.2,478.8,Net Banking,3,Delivered,N/A,4,No
+ORD00277,2024-05-11,Netmeds,CUST2802,Returning,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,2,81,FIRST15,15,162,24.3,137.7,UPI,3,Delivered,N/A,5,Yes
+ORD00278,2023-06-20,1mg,CUST6161,Returning,Kolkata,West Bengal,Levocetirizine 5mg,Antiallergic,OTC,4,36,FIRST15,15,144,21.6,122.4,Credit Card,3,Delivered,N/A,2,No
+ORD00279,2023-12-05,Flipkart Health,CUST2635,New,Ahmedabad,Gujarat,Vitamin D3 1000IU,Supplement,OTC,4,201,HEALTH20,20,804,160.8,643.2,Credit Card,4,Cancelled,N/A,N/A,No
+ORD00280,2023-08-27,Netmeds,CUST6853,Returning,Chennai,Tamil Nadu,Pantoprazole 40mg,Antacid,Prescription,4,72,SAVE10,10,288,28.8,259.2,Cash on Delivery,3,Delivered,N/A,4,No
+ORD00281,2024-06-14,1mg,CUST9645,New,Surat,Gujarat,Hydrocortisone Cream,Skin Care,OTC,1,93,FIRST15,15,93,13.95,79.05,UPI,5,Delivered,N/A,2,Yes
+ORD00282,2023-01-21,PharmEasy,CUST3383,Returning,Chennai,Tamil Nadu,Montelukast 10mg,Asthma,Prescription,3,167,SAVE10,10,501,50.1,450.9,UPI,3,Delivered,N/A,3,Yes
+ORD00283,2023-11-29,Flipkart Health,CUST5278,Returning,Ahmedabad,Gujarat,Atorvastatin 10mg,Cholesterol,Prescription,2,144,HEALTH20,20,288,57.6,230.4,Debit Card,2,Pending,N/A,N/A,No
+ORD00284,2024-03-30,Flipkart Health,CUST4823,Returning,Pune,Maharashtra,Vitamin D3 1000IU,Supplement,OTC,4,199,PHARMA5,5,796,39.8,756.2,Debit Card,2,Pending,N/A,N/A,No
+ORD00285,2024-10-23,1mg,CUST4134,New,Delhi,Delhi,Pantoprazole 40mg,Antacid,Prescription,4,61,NONE,0,244,0.0,244.0,Cash on Delivery,7,Delivered,N/A,2,Yes
+ORD00286,2023-09-06,1mg,CUST5179,Returning,Pune,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,5,98,NONE,0,490,0.0,490.0,Debit Card,7,Delivered,N/A,2,Yes
+ORD00287,2023-01-03,PharmEasy,CUST1083,Returning,Lucknow,Uttar Pradesh,Zinc Supplement,Supplement,OTC,1,178,NONE,0,178,0.0,178.0,Credit Card,7,Delivered,N/A,2,No
+ORD00288,2023-05-31,Apollo Pharmacy,CUST8303,Returning,Kolkata,West Bengal,Ondansetron 4mg,Antinausea,Prescription,3,68,FIRST15,15,204,30.6,173.4,Net Banking,5,Delivered,N/A,4,Yes
+ORD00289,2024-05-27,Flipkart Health,CUST2921,New,Chennai,Tamil Nadu,Atorvastatin 10mg,Cholesterol,Prescription,2,138,NONE,0,276,0.0,276.0,Net Banking,3,Delivered,N/A,3,No
+ORD00290,2024-09-28,Apollo Pharmacy,CUST2438,Returning,Jaipur,Rajasthan,Montelukast 10mg,Asthma,Prescription,1,166,NONE,0,166,0.0,166.0,UPI,7,Delivered,N/A,5,No
+ORD00291,2023-06-10,PharmEasy,CUST9877,Returning,Pune,Maharashtra,Aspirin 75mg,Blood Thinner,Prescription,2,46,PHARMA5,5,92,4.6,87.4,UPI,6,Cancelled,N/A,N/A,No
+ORD00292,2023-11-24,PharmEasy,CUST9203,New,Ahmedabad,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,4,85,PHARMA5,5,340,17.0,323.0,Credit Card,3,Delivered,N/A,2,Yes
+ORD00293,2024-10-07,Apollo Pharmacy,CUST7361,Returning,Pune,Maharashtra,Multivitamin Tablet,Supplement,OTC,4,222,HEALTH20,20,888,177.6,710.4,UPI,7,Delivered,N/A,4,Yes
+ORD00294,2024-07-18,1mg,CUST7393,New,Bangalore,Karnataka,Amlodipine 5mg,Blood Pressure,Prescription,5,102,FIRST15,15,510,76.5,433.5,Net Banking,2,Delivered,N/A,5,Yes
+ORD00295,2023-10-16,1mg,CUST6837,New,Kolkata,West Bengal,Cetirizine 10mg,Antiallergic,OTC,5,29,FIRST15,15,145,21.75,123.25,Credit Card,5,Delivered,N/A,4,No
+ORD00296,2023-05-14,Flipkart Health,CUST9257,New,Jaipur,Rajasthan,Vitamin C 500mg,Supplement,OTC,5,149,HEALTH20,20,745,149.0,596.0,Cash on Delivery,1,Delivered,N/A,2,Yes
+ORD00297,2024-04-13,Netmeds,CUST9262,New,Delhi,Delhi,Omeprazole 20mg,Antacid,OTC,1,56,FIRST15,15,56,8.4,47.6,UPI,4,Delivered,N/A,4,Yes
+ORD00298,2023-01-22,PharmEasy,CUST1281,New,Hyderabad,Telangana,Hydrocortisone Cream,Skin Care,OTC,4,92,PHARMA5,5,368,18.4,349.6,Credit Card,4,Pending,N/A,N/A,No
+ORD00299,2024-02-08,PharmEasy,CUST9578,New,Delhi,Delhi,Atorvastatin 10mg,Cholesterol,Prescription,4,143,NONE,0,572,0.0,572.0,Cash on Delivery,2,Delivered,N/A,3,Yes
+ORD00300,2023-01-24,Apollo Pharmacy,CUST3017,Returning,Pune,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,1,135,NONE,0,135,0.0,135.0,UPI,5,Delivered,N/A,2,No
+ORD00301,2024-02-06,Flipkart Health,CUST5287,New,Hyderabad,Telangana,Vitamin C 500mg,Supplement,OTC,2,156,SAVE10,10,312,31.2,280.8,Cash on Delivery,5,Delivered,N/A,5,No
+ORD00302,2023-01-29,Netmeds,CUST8725,Returning,Bangalore,Karnataka,Vitamin C 500mg,Supplement,OTC,2,159,FIRST15,15,318,47.7,270.3,UPI,7,Delivered,N/A,2,No
+ORD00303,2023-03-12,Apollo Pharmacy,CUST4590,New,Jaipur,Rajasthan,Ibuprofen 400mg,Pain Relief,OTC,1,46,PHARMA5,5,46,2.3,43.7,Debit Card,5,Cancelled,N/A,N/A,No
+ORD00304,2024-10-08,PharmEasy,CUST4475,New,Chennai,Tamil Nadu,Zinc Supplement,Supplement,OTC,4,180,NONE,0,720,0.0,720.0,Credit Card,5,Delivered,N/A,5,Yes
+ORD00305,2023-02-21,1mg,CUST5712,New,Lucknow,Uttar Pradesh,Cough Syrup 100ml,Cough & Cold,OTC,5,81,NONE,0,405,0.0,405.0,UPI,7,Cancelled,N/A,N/A,No
+ORD00306,2023-03-17,Flipkart Health,CUST3711,Returning,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,2,106,NONE,0,212,0.0,212.0,Net Banking,4,Cancelled,N/A,N/A,No
+ORD00307,2024-07-01,1mg,CUST3415,Returning,Ahmedabad,Gujarat,Paracetamol 500mg,Pain Relief,OTC,1,22,NONE,0,22,0.0,22.0,UPI,7,Delivered,N/A,4,No
+ORD00308,2024-07-15,Flipkart Health,CUST1039,New,Pune,Maharashtra,Ibuprofen 400mg,Pain Relief,OTC,5,53,NONE,0,265,0.0,265.0,Credit Card,3,Pending,N/A,N/A,No
+ORD00309,2024-01-24,1mg,CUST4164,New,Surat,Gujarat,Hydrocortisone Cream,Skin Care,OTC,5,100,SAVE10,10,500,50.0,450.0,Debit Card,6,Delivered,N/A,3,No
+ORD00310,2024-10-12,Flipkart Health,CUST7032,Returning,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,1,854,NONE,0,854,0.0,854.0,Cash on Delivery,2,Delivered,N/A,4,No
+ORD00311,2023-03-24,Flipkart Health,CUST8891,Returning,Kolkata,West Bengal,Vitamin C 500mg,Supplement,OTC,4,148,NONE,0,592,0.0,592.0,UPI,7,Delivered,N/A,3,Yes
+ORD00312,2023-11-16,Netmeds,CUST9734,New,Ludhiana,Punjab,Paracetamol 500mg,Pain Relief,OTC,5,32,FIRST15,15,160,24.0,136.0,Net Banking,1,Delivered,N/A,4,Yes
+ORD00313,2024-10-06,Flipkart Health,CUST1209,Returning,Delhi,Delhi,Dolo 650,Pain Relief,OTC,2,34,NONE,0,68,0.0,68.0,Cash on Delivery,2,Delivered,N/A,4,Yes
+ORD00314,2024-05-24,PharmEasy,CUST1855,New,Pune,Maharashtra,Vitamin C 500mg,Supplement,OTC,2,157,NONE,0,314,0.0,314.0,Debit Card,6,Delivered,N/A,2,Yes
+ORD00315,2023-10-28,PharmEasy,CUST7158,New,Chennai,Tamil Nadu,Hydrocortisone Cream,Skin Care,OTC,2,99,HEALTH20,20,198,39.6,158.4,Cash on Delivery,5,Pending,N/A,N/A,No
+ORD00316,2023-01-19,1mg,CUST9375,Returning,Ludhiana,Punjab,Insulin Glargine,Diabetes,Prescription,5,859,HEALTH20,20,4295,859.0,3436.0,Credit Card,6,Delivered,N/A,4,Yes
+ORD00317,2023-12-01,Netmeds,CUST2411,Returning,Ludhiana,Punjab,Ibuprofen 400mg,Pain Relief,OTC,4,52,NONE,0,208,0.0,208.0,Net Banking,5,Cancelled,N/A,N/A,No
+ORD00318,2023-08-01,PharmEasy,CUST1923,Returning,Kolkata,West Bengal,Vitamin D3 1000IU,Supplement,OTC,5,209,PHARMA5,5,1045,52.25,992.75,Debit Card,4,Delivered,N/A,5,Yes
+ORD00319,2023-07-08,1mg,CUST8832,Returning,Hyderabad,Telangana,Pantoprazole 40mg,Antacid,Prescription,5,63,HEALTH20,20,315,63.0,252.0,UPI,5,Delivered,N/A,4,No
+ORD00320,2024-11-27,Flipkart Health,CUST9262,Returning,Mumbai,Maharashtra,Nasal Spray,Cough & Cold,OTC,3,127,FIRST15,15,381,57.15,323.85,Credit Card,7,Delivered,N/A,2,Yes
+ORD00321,2024-04-26,Netmeds,CUST4696,New,Lucknow,Uttar Pradesh,Ondansetron 4mg,Antinausea,Prescription,3,77,NONE,0,231,0.0,231.0,UPI,2,Pending,N/A,N/A,No
+ORD00322,2024-07-11,1mg,CUST6627,New,Bangalore,Karnataka,Ondansetron 4mg,Antinausea,Prescription,3,78,HEALTH20,20,234,46.8,187.2,Net Banking,1,Pending,N/A,N/A,No
+ORD00323,2024-04-01,Flipkart Health,CUST2777,Returning,Lucknow,Uttar Pradesh,Amoxicillin 500mg,Antibiotic,Prescription,4,121,NONE,0,484,0.0,484.0,Debit Card,3,Delivered,N/A,4,Yes
+ORD00324,2023-01-06,Flipkart Health,CUST2473,Returning,Surat,Gujarat,Vitamin C 500mg,Supplement,OTC,3,159,HEALTH20,20,477,95.4,381.6,Net Banking,1,Returned,Expired Product,N/A,No
+ORD00325,2023-02-13,Flipkart Health,CUST3376,Returning,Chennai,Tamil Nadu,Pantoprazole 40mg,Antacid,Prescription,5,74,FIRST15,15,370,55.5,314.5,Cash on Delivery,3,Returned,N/A,N/A,No
+ORD00326,2024-07-25,1mg,CUST8694,New,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,3,34,NONE,0,102,0.0,102.0,Net Banking,6,Delivered,N/A,2,Yes
+ORD00327,2023-05-11,PharmEasy,CUST1134,New,Kolkata,West Bengal,Vitamin D3 1000IU,Supplement,OTC,2,203,NONE,0,406,0.0,406.0,UPI,5,Returned,N/A,N/A,No
+ORD00328,2023-03-19,Flipkart Health,CUST7590,Returning,Ahmedabad,Gujarat,Ondansetron 4mg,Antinausea,Prescription,2,71,SAVE10,10,142,14.2,127.8,Debit Card,3,Delivered,N/A,3,No
+ORD00329,2023-02-10,Flipkart Health,CUST4134,New,Delhi,Delhi,Azithromycin 500mg,Antibiotic,Prescription,5,189,FIRST15,15,945,141.75,803.25,Cash on Delivery,4,Cancelled,N/A,N/A,No
+ORD00330,2024-08-15,PharmEasy,CUST5387,New,Bangalore,Karnataka,Cetirizine 10mg,Antiallergic,OTC,5,40,NONE,0,200,0.0,200.0,Net Banking,5,Delivered,N/A,2,Yes
+ORD00331,2023-11-30,PharmEasy,CUST9826,Returning,Ludhiana,Punjab,Azithromycin 500mg,Antibiotic,Prescription,3,179,NONE,0,537,0.0,537.0,Net Banking,1,Delivered,N/A,2,Yes
+ORD00332,2023-11-24,Netmeds,CUST8962,Returning,Pune,Maharashtra,Vitamin C 500mg,Supplement,OTC,5,155,NONE,0,775,0.0,775.0,Cash on Delivery,7,Delivered,N/A,1,Yes
+ORD00333,2024-03-14,Flipkart Health,CUST8797,New,Delhi,Delhi,Cough Syrup 100ml,Cough & Cold,OTC,5,72,SAVE10,10,360,36.0,324.0,Cash on Delivery,7,Delivered,N/A,5,Yes
+ORD00334,2024-11-13,PharmEasy,CUST7366,New,Lucknow,Uttar Pradesh,Pantoprazole 40mg,Antacid,Prescription,4,66,NONE,0,264,0.0,264.0,Net Banking,4,Delivered,N/A,3,No
+ORD00335,2023-03-31,1mg,CUST8286,Returning,Ludhiana,Punjab,Multivitamin Tablet,Supplement,OTC,2,228,NONE,0,456,0.0,456.0,Net Banking,2,Delivered,N/A,3,Yes
+ORD00336,2024-01-09,1mg,CUST5278,New,Kolkata,West Bengal,Ondansetron 4mg,Antinausea,Prescription,2,75,NONE,0,150,0.0,150.0,Debit Card,1,Delivered,N/A,2,No
+ORD00337,2024-10-16,Flipkart Health,CUST8014,New,Mumbai,Maharashtra,Antifungal Cream,Skin Care,OTC,4,109,PHARMA5,5,436,21.8,414.2,Credit Card,2,Pending,N/A,N/A,No
+ORD00338,2023-11-30,Flipkart Health,CUST6065,Returning,Lucknow,Uttar Pradesh,Ondansetron 4mg,Antinausea,Prescription,3,65,NONE,0,195,0.0,195.0,Debit Card,2,Delivered,N/A,3,Yes
+ORD00339,2023-04-26,1mg,CUST1151,New,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,2,115,SAVE10,10,230,23.0,207.0,Net Banking,7,Delivered,N/A,2,Yes
+ORD00340,2023-03-14,PharmEasy,CUST5355,Returning,Jaipur,Rajasthan,Cetirizine 10mg,Antiallergic,OTC,5,39,NONE,0,195,0.0,195.0,Debit Card,4,Delivered,N/A,3,Yes
+ORD00341,2023-12-26,Apollo Pharmacy,CUST7630,New,Delhi,Delhi,Cetirizine 10mg,Antiallergic,OTC,5,34,NONE,0,170,0.0,170.0,Net Banking,6,Delivered,N/A,2,No
+ORD00342,2023-02-02,1mg,CUST2291,New,Jaipur,Rajasthan,Ibuprofen 400mg,Pain Relief,OTC,3,49,NONE,0,147,0.0,147.0,Debit Card,6,Delivered,N/A,2,Yes
+ORD00343,2023-01-10,Apollo Pharmacy,CUST2885,New,Ahmedabad,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,2,75,NONE,0,150,0.0,150.0,Debit Card,2,Delivered,N/A,5,Yes
+ORD00344,2023-05-08,Netmeds,CUST8146,Returning,Surat,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,3,75,NONE,0,225,0.0,225.0,Net Banking,3,Delivered,N/A,4,Yes
+ORD00345,2024-02-29,Flipkart Health,CUST6890,New,Ahmedabad,Gujarat,Multivitamin Tablet,Supplement,OTC,1,223,NONE,0,223,0.0,223.0,Cash on Delivery,1,Delivered,N/A,3,Yes
+ORD00346,2024-07-15,1mg,CUST2504,Returning,Mumbai,Maharashtra,Metformin 500mg,Diabetes,Prescription,4,80,NONE,0,320,0.0,320.0,Cash on Delivery,2,Cancelled,N/A,N/A,No
+ORD00347,2024-02-05,PharmEasy,CUST6788,New,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,5,120,FIRST15,15,600,90.0,510.0,UPI,2,Delivered,N/A,3,Yes
+ORD00348,2023-08-30,Netmeds,CUST8954,Returning,Kolkata,West Bengal,Hydrocortisone Cream,Skin Care,OTC,3,100,NONE,0,300,0.0,300.0,UPI,5,Pending,N/A,N/A,No
+ORD00349,2023-03-29,1mg,CUST5922,New,Lucknow,Uttar Pradesh,Aspirin 75mg,Blood Thinner,Prescription,4,53,SAVE10,10,212,21.2,190.8,Cash on Delivery,4,Delivered,N/A,5,Yes
+ORD00350,2024-01-01,Netmeds,CUST1515,New,Ludhiana,Punjab,Cetirizine 10mg,Antiallergic,OTC,3,27,NONE,0,81,0.0,81.0,Net Banking,4,Delivered,N/A,4,No
+ORD00351,2023-01-18,PharmEasy,CUST2579,Returning,Pune,Maharashtra,Metformin 500mg,Diabetes,Prescription,1,91,SAVE10,10,91,9.1,81.9,UPI,1,Cancelled,N/A,N/A,No
+ORD00352,2023-04-08,Netmeds,CUST8725,Returning,Surat,Gujarat,Levocetirizine 5mg,Antiallergic,OTC,2,46,NONE,0,92,0.0,92.0,UPI,2,Cancelled,N/A,N/A,No
+ORD00353,2024-05-16,Netmeds,CUST6416,New,Jaipur,Rajasthan,Atorvastatin 10mg,Cholesterol,Prescription,1,145,NONE,0,145,0.0,145.0,Debit Card,3,Delivered,N/A,1,No
+ORD00354,2024-11-26,PharmEasy,CUST8725,Returning,Delhi,Delhi,Multivitamin Tablet,Supplement,OTC,1,229,SAVE10,10,229,22.9,206.1,Credit Card,1,Delivered,N/A,2,No
+ORD00355,2023-03-30,Flipkart Health,CUST5572,New,Delhi,Delhi,Aspirin 75mg,Blood Thinner,Prescription,3,45,NONE,0,135,0.0,135.0,Cash on Delivery,3,Delivered,N/A,4,Yes
+ORD00356,2024-02-21,PharmEasy,CUST2177,Returning,Hyderabad,Telangana,Nasal Spray,Cough & Cold,OTC,3,140,NONE,0,420,0.0,420.0,Credit Card,7,Delivered,N/A,2,No
+ORD00357,2024-05-19,PharmEasy,CUST8970,Returning,Pune,Maharashtra,Nasal Spray,Cough & Cold,OTC,3,134,HEALTH20,20,402,80.4,321.6,UPI,7,Pending,N/A,N/A,No
+ORD00358,2023-07-13,PharmEasy,CUST8077,New,Mumbai,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,5,65,HEALTH20,20,325,65.0,260.0,Net Banking,6,Delivered,N/A,4,No
+ORD00359,2024-09-21,Netmeds,CUST9734,Returning,Surat,Gujarat,Zinc Supplement,Supplement,OTC,1,178,FIRST15,15,178,26.7,151.3,Credit Card,2,Delivered,N/A,3,Yes
+ORD00360,2024-04-05,Netmeds,CUST1923,New,Hyderabad,Telangana,Ibuprofen 400mg,Pain Relief,OTC,2,42,NONE,0,84,0.0,84.0,Debit Card,7,Delivered,N/A,1,No
+ORD00361,2023-12-24,1mg,CUST6788,New,Hyderabad,Telangana,Atorvastatin 10mg,Cholesterol,Prescription,3,145,SAVE10,10,435,43.5,391.5,Net Banking,1,Delivered,N/A,3,Yes
+ORD00362,2024-06-27,Netmeds,CUST1916,Returning,Delhi,Delhi,Azithromycin 500mg,Antibiotic,Prescription,1,184,SAVE10,10,184,18.4,165.6,Debit Card,5,Delivered,N/A,4,Yes
+ORD00363,2024-10-07,1mg,CUST8680,New,Chennai,Tamil Nadu,Paracetamol 500mg,Pain Relief,OTC,1,28,NONE,0,28,0.0,28.0,Credit Card,6,Delivered,N/A,4,No
+ORD00364,2024-07-23,PharmEasy,CUST2408,Returning,Bangalore,Karnataka,Amlodipine 5mg,Blood Pressure,Prescription,4,98,SAVE10,10,392,39.2,352.8,UPI,7,Returned,Damaged Package,N/A,No
+ORD00365,2023-10-13,1mg,CUST2514,Returning,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,3,38,HEALTH20,20,114,22.8,91.2,Credit Card,1,Delivered,N/A,2,Yes
+ORD00366,2024-10-03,PharmEasy,CUST1855,Returning,Hyderabad,Telangana,Iron Tablets,Supplement,OTC,3,88,NONE,0,264,0.0,264.0,Credit Card,4,Pending,N/A,N/A,No
+ORD00367,2024-07-20,Netmeds,CUST8954,Returning,Surat,Gujarat,Amoxicillin 500mg,Antibiotic,Prescription,1,125,NONE,0,125,0.0,125.0,UPI,3,Delivered,N/A,4,No
+ORD00368,2024-09-29,1mg,CUST9030,Returning,Ludhiana,Punjab,Insulin Glargine,Diabetes,Prescription,3,852,PHARMA5,5,2556,127.8,2428.2,Credit Card,7,Returned,Wrong Medicine,N/A,No
+ORD00369,2024-09-18,Flipkart Health,CUST7296,New,Hyderabad,Telangana,Insulin Glargine,Diabetes,Prescription,2,856,NONE,0,1712,0.0,1712.0,Debit Card,5,Delivered,N/A,4,Yes
+ORD00370,2024-06-03,1mg,CUST6267,New,Chennai,Tamil Nadu,Vitamin D3 1000IU,Supplement,OTC,3,197,SAVE10,10,591,59.1,531.9,Credit Card,4,Cancelled,N/A,N/A,No
+ORD00371,2023-11-19,Flipkart Health,CUST4896,New,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,3,130,FIRST15,15,390,58.5,331.5,Cash on Delivery,6,Returned,N/A,N/A,No
+ORD00372,2024-02-04,1mg,CUST3384,New,Ahmedabad,Gujarat,Atorvastatin 10mg,Cholesterol,Prescription,5,148,PHARMA5,5,740,37.0,703.0,UPI,6,Delivered,N/A,1,No
+ORD00373,2023-11-12,PharmEasy,CUST2253,Returning,Hyderabad,Telangana,Atorvastatin 10mg,Cholesterol,Prescription,3,148,HEALTH20,20,444,88.8,355.2,Net Banking,7,Delivered,N/A,5,No
+ORD00374,2024-05-05,Apollo Pharmacy,CUST7590,New,Ludhiana,Punjab,Paracetamol 500mg,Pain Relief,OTC,3,20,NONE,0,60,0.0,60.0,Cash on Delivery,4,Delivered,N/A,4,No
+ORD00375,2023-06-05,Apollo Pharmacy,CUST2540,New,Ludhiana,Punjab,Atorvastatin 10mg,Cholesterol,Prescription,3,150,SAVE10,10,450,45.0,405.0,Debit Card,5,Pending,N/A,N/A,No
+ORD00376,2023-05-31,Apollo Pharmacy,CUST2438,New,Ahmedabad,Gujarat,Nasal Spray,Cough & Cold,OTC,2,139,PHARMA5,5,278,13.9,264.1,Cash on Delivery,5,Delivered,N/A,3,No
+ORD00377,2023-01-23,Netmeds,CUST6418,New,Jaipur,Rajasthan,Insulin Glargine,Diabetes,Prescription,5,848,HEALTH20,20,4240,848.0,3392.0,Credit Card,7,Delivered,N/A,2,Yes
+ORD00378,2024-08-09,Apollo Pharmacy,CUST5265,New,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,5,229,NONE,0,1145,0.0,1145.0,Credit Card,1,Returned,Damaged Package,N/A,No
+ORD00379,2023-09-02,Flipkart Health,CUST8286,New,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,4,106,PHARMA5,5,424,21.2,402.8,Net Banking,5,Pending,N/A,N/A,No
+ORD00380,2024-03-27,1mg,CUST6620,Returning,Surat,Gujarat,Amoxicillin 500mg,Antibiotic,Prescription,1,122,NONE,0,122,0.0,122.0,Cash on Delivery,4,Delivered,N/A,2,Yes
+ORD00381,2024-07-02,Apollo Pharmacy,CUST3094,Returning,Bangalore,Karnataka,Aspirin 75mg,Blood Thinner,Prescription,2,57,NONE,0,114,0.0,114.0,UPI,4,Delivered,N/A,5,Yes
+ORD00382,2024-07-14,PharmEasy,CUST5455,New,Hyderabad,Telangana,Iron Tablets,Supplement,OTC,2,84,NONE,0,168,0.0,168.0,UPI,1,Delivered,N/A,5,No
+ORD00383,2023-08-13,PharmEasy,CUST4175,New,Bangalore,Karnataka,Nasal Spray,Cough & Cold,OTC,5,137,NONE,0,685,0.0,685.0,UPI,4,Delivered,N/A,2,Yes
+ORD00384,2024-01-05,PharmEasy,CUST2635,Returning,Ludhiana,Punjab,Cetirizine 10mg,Antiallergic,OTC,2,27,NONE,0,54,0.0,54.0,Credit Card,6,Delivered,N/A,2,Yes
+ORD00385,2023-12-16,PharmEasy,CUST1411,Returning,Surat,Gujarat,Metformin 500mg,Diabetes,Prescription,1,81,NONE,0,81,0.0,81.0,Net Banking,1,Delivered,N/A,4,Yes
+ORD00386,2024-10-14,Netmeds,CUST8962,New,Ludhiana,Punjab,Amoxicillin 500mg,Antibiotic,Prescription,3,130,HEALTH20,20,390,78.0,312.0,Debit Card,1,Delivered,N/A,1,Yes
+ORD00387,2024-10-03,Apollo Pharmacy,CUST9123,New,Ahmedabad,Gujarat,Atorvastatin 10mg,Cholesterol,Prescription,5,141,NONE,0,705,0.0,705.0,Net Banking,7,Delivered,N/A,2,Yes
+ORD00388,2023-01-27,1mg,CUST5355,Returning,Chennai,Tamil Nadu,Paracetamol 500mg,Pain Relief,OTC,5,24,HEALTH20,20,120,24.0,96.0,Net Banking,5,Delivered,N/A,1,Yes
+ORD00389,2024-05-30,Netmeds,CUST1308,Returning,Pune,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,3,37,FIRST15,15,111,16.65,94.35,UPI,6,Delivered,N/A,2,Yes
+ORD00390,2023-01-06,Apollo Pharmacy,CUST6890,Returning,Kolkata,West Bengal,Zinc Supplement,Supplement,OTC,1,171,SAVE10,10,171,17.1,153.9,UPI,1,Delivered,N/A,4,No
+ORD00391,2024-04-20,1mg,CUST8797,Returning,Ahmedabad,Gujarat,Antifungal Cream,Skin Care,OTC,3,108,NONE,0,324,0.0,324.0,Net Banking,2,Delivered,N/A,5,No
+ORD00392,2023-04-23,1mg,CUST1772,New,Hyderabad,Telangana,Pantoprazole 40mg,Antacid,Prescription,3,70,HEALTH20,20,210,42.0,168.0,Net Banking,2,Cancelled,N/A,N/A,No
+ORD00393,2024-11-23,Netmeds,CUST8887,Returning,Surat,Gujarat,Montelukast 10mg,Asthma,Prescription,2,165,FIRST15,15,330,49.5,280.5,Net Banking,4,Delivered,N/A,2,No
+ORD00394,2024-08-18,PharmEasy,CUST6319,New,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,2,216,SAVE10,10,432,43.2,388.8,Credit Card,5,Delivered,N/A,4,Yes
+ORD00395,2024-02-13,1mg,CUST2291,New,Ahmedabad,Gujarat,Dolo 650,Pain Relief,OTC,1,33,NONE,0,33,0.0,33.0,Net Banking,5,Delivered,N/A,4,Yes
+ORD00396,2024-08-27,PharmEasy,CUST9600,New,Hyderabad,Telangana,Levocetirizine 5mg,Antiallergic,OTC,3,43,PHARMA5,5,129,6.45,122.55,Cash on Delivery,2,Delivered,N/A,4,No
+ORD00397,2024-01-24,PharmEasy,CUST5112,New,Kolkata,West Bengal,Atorvastatin 10mg,Cholesterol,Prescription,5,146,NONE,0,730,0.0,730.0,Debit Card,4,Delivered,N/A,3,Yes
+ORD00398,2023-05-08,Apollo Pharmacy,CUST6757,Returning,Chennai,Tamil Nadu,Cough Syrup 100ml,Cough & Cold,OTC,4,85,NONE,0,340,0.0,340.0,UPI,2,Delivered,N/A,3,Yes
+ORD00399,2024-04-05,Netmeds,CUST1411,Returning,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,2,33,HEALTH20,20,66,13.2,52.8,Credit Card,1,Delivered,N/A,1,No
+ORD00400,2023-03-17,1mg,CUST8887,New,Kolkata,West Bengal,Iron Tablets,Supplement,OTC,5,80,NONE,0,400,0.0,400.0,Credit Card,3,Delivered,N/A,2,No
+ORD00401,2023-06-07,1mg,CUST9645,Returning,Delhi,Delhi,Multivitamin Tablet,Supplement,OTC,5,224,NONE,0,1120,0.0,1120.0,UPI,2,Delivered,N/A,5,No
+ORD00402,2023-06-28,Flipkart Health,CUST9202,New,Lucknow,Uttar Pradesh,Insulin Glargine,Diabetes,Prescription,3,848,NONE,0,2544,0.0,2544.0,Net Banking,5,Delivered,N/A,2,No
+ORD00403,2024-05-10,Netmeds,CUST6648,Returning,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,1,65,FIRST15,15,65,9.75,55.25,Cash on Delivery,2,Delivered,N/A,2,No
+ORD00404,2024-03-14,Flipkart Health,CUST2292,Returning,Jaipur,Rajasthan,Ondansetron 4mg,Antinausea,Prescription,4,67,SAVE10,10,268,26.8,241.2,Cash on Delivery,1,Delivered,N/A,1,Yes
+ORD00405,2023-08-17,Apollo Pharmacy,CUST9724,New,Bangalore,Karnataka,Pantoprazole 40mg,Antacid,Prescription,2,67,PHARMA5,5,134,6.7,127.3,Net Banking,6,Delivered,N/A,2,No
+ORD00406,2023-09-09,1mg,CUST9734,New,Hyderabad,Telangana,Iron Tablets,Supplement,OTC,3,88,NONE,0,264,0.0,264.0,UPI,1,Delivered,N/A,5,Yes
+ORD00407,2023-08-03,Apollo Pharmacy,CUST1308,Returning,Bangalore,Karnataka,Paracetamol 500mg,Pain Relief,OTC,3,21,NONE,0,63,0.0,63.0,Cash on Delivery,1,Pending,N/A,N/A,No
+ORD00408,2024-09-29,Flipkart Health,CUST9243,New,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,5,83,NONE,0,415,0.0,415.0,Credit Card,7,Delivered,N/A,5,No
+ORD00409,2024-01-21,Netmeds,CUST9145,Returning,Kolkata,West Bengal,Cough Syrup 100ml,Cough & Cold,OTC,5,79,PHARMA5,5,395,19.75,375.25,Net Banking,6,Cancelled,N/A,N/A,No
+ORD00410,2023-11-09,Apollo Pharmacy,CUST8680,Returning,Bangalore,Karnataka,Hydrocortisone Cream,Skin Care,OTC,4,93,NONE,0,372,0.0,372.0,Credit Card,5,Delivered,N/A,4,Yes
+ORD00411,2024-11-11,1mg,CUST8725,New,Bangalore,Karnataka,Insulin Glargine,Diabetes,Prescription,2,852,FIRST15,15,1704,255.6,1448.4,UPI,7,Pending,N/A,N/A,No
+ORD00412,2023-03-21,Flipkart Health,CUST6161,Returning,Bangalore,Karnataka,Paracetamol 500mg,Pain Relief,OTC,2,35,NONE,0,70,0.0,70.0,Debit Card,4,Delivered,N/A,1,No
+ORD00413,2024-04-11,PharmEasy,CUST1151,Returning,Delhi,Delhi,Cough Syrup 100ml,Cough & Cold,OTC,2,79,NONE,0,158,0.0,158.0,UPI,7,Delivered,N/A,4,No
+ORD00414,2023-04-24,1mg,CUST2504,New,Ludhiana,Punjab,Amlodipine 5mg,Blood Pressure,Prescription,2,97,NONE,0,194,0.0,194.0,Credit Card,3,Delivered,N/A,4,Yes
+ORD00415,2023-01-01,Flipkart Health,CUST8434,New,Surat,Gujarat,Nasal Spray,Cough & Cold,OTC,5,126,SAVE10,10,630,63.0,567.0,Net Banking,2,Pending,N/A,N/A,No
+ORD00416,2023-01-04,PharmEasy,CUST1075,Returning,Bangalore,Karnataka,Vitamin D3 1000IU,Supplement,OTC,3,210,NONE,0,630,0.0,630.0,Net Banking,2,Pending,N/A,N/A,No
+ORD00417,2024-07-02,Netmeds,CUST5265,New,Ahmedabad,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,1,52,NONE,0,52,0.0,52.0,Net Banking,3,Delivered,N/A,4,Yes
+ORD00418,2024-04-26,Flipkart Health,CUST8033,New,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,3,36,SAVE10,10,108,10.8,97.2,Credit Card,5,Delivered,N/A,4,No
+ORD00419,2024-03-06,1mg,CUST4358,Returning,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,1,60,NONE,0,60,0.0,60.0,Debit Card,4,Delivered,N/A,4,No
+ORD00420,2024-08-01,PharmEasy,CUST5284,Returning,Ahmedabad,Gujarat,Zinc Supplement,Supplement,OTC,1,171,NONE,0,171,0.0,171.0,Net Banking,5,Delivered,N/A,4,Yes
+ORD00421,2023-04-07,Apollo Pharmacy,CUST8891,New,Lucknow,Uttar Pradesh,Zinc Supplement,Supplement,OTC,5,182,PHARMA5,5,910,45.5,864.5,Cash on Delivery,2,Delivered,N/A,3,No
+ORD00422,2024-02-22,Netmeds,CUST6431,Returning,Ludhiana,Punjab,Iron Tablets,Supplement,OTC,4,80,FIRST15,15,320,48.0,272.0,Credit Card,1,Delivered,N/A,5,Yes
+ORD00423,2023-01-16,1mg,CUST7920,Returning,Chennai,Tamil Nadu,Paracetamol 500mg,Pain Relief,OTC,1,30,HEALTH20,20,30,6.0,24.0,Credit Card,1,Delivered,N/A,3,No
+ORD00424,2023-12-02,Apollo Pharmacy,CUST8370,Returning,Surat,Gujarat,Nasal Spray,Cough & Cold,OTC,1,126,NONE,0,126,0.0,126.0,Net Banking,1,Delivered,N/A,2,Yes
+ORD00425,2024-07-04,PharmEasy,CUST9699,Returning,Kolkata,West Bengal,Ondansetron 4mg,Antinausea,Prescription,1,75,NONE,0,75,0.0,75.0,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00426,2023-12-17,Flipkart Health,CUST1464,Returning,Ahmedabad,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,4,54,NONE,0,216,0.0,216.0,Net Banking,7,Delivered,N/A,4,Yes
+ORD00427,2023-03-27,1mg,CUST9145,New,Delhi,Delhi,Iron Tablets,Supplement,OTC,3,79,NONE,0,237,0.0,237.0,UPI,1,Delivered,N/A,1,Yes
+ORD00428,2024-01-06,PharmEasy,CUST1281,New,Delhi,Delhi,Amoxicillin 500mg,Antibiotic,Prescription,2,130,PHARMA5,5,260,13.0,247.0,Cash on Delivery,7,Delivered,N/A,2,Yes
+ORD00429,2024-05-11,Netmeds,CUST7807,Returning,Bangalore,Karnataka,Hydrocortisone Cream,Skin Care,OTC,3,96,PHARMA5,5,288,14.4,273.6,UPI,6,Pending,N/A,N/A,No
+ORD00430,2024-02-03,PharmEasy,CUST9074,New,Kolkata,West Bengal,Insulin Glargine,Diabetes,Prescription,4,853,NONE,0,3412,0.0,3412.0,Debit Card,4,Delivered,N/A,5,No
+ORD00431,2024-11-24,Netmeds,CUST5194,New,Kolkata,West Bengal,Vitamin D3 1000IU,Supplement,OTC,4,210,NONE,0,840,0.0,840.0,UPI,3,Delivered,N/A,2,No
+ORD00432,2024-10-04,Apollo Pharmacy,CUST1575,Returning,Jaipur,Rajasthan,Antifungal Cream,Skin Care,OTC,5,118,NONE,0,590,0.0,590.0,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00433,2024-07-29,Apollo Pharmacy,CUST2579,Returning,Jaipur,Rajasthan,Amlodipine 5mg,Blood Pressure,Prescription,5,96,NONE,0,480,0.0,480.0,Debit Card,7,Returned,Expired Product,N/A,No
+ORD00434,2024-05-15,Flipkart Health,CUST7296,New,Bangalore,Karnataka,Ondansetron 4mg,Antinausea,Prescription,2,78,NONE,0,156,0.0,156.0,Cash on Delivery,3,Pending,N/A,N/A,No
+ORD00435,2023-02-23,1mg,CUST4175,Returning,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,1,78,PHARMA5,5,78,3.9,74.1,Credit Card,2,Delivered,N/A,2,Yes
+ORD00436,2023-07-08,1mg,CUST3355,Returning,Delhi,Delhi,Amlodipine 5mg,Blood Pressure,Prescription,5,97,SAVE10,10,485,48.5,436.5,Cash on Delivery,1,Cancelled,N/A,N/A,No
+ORD00437,2023-05-23,PharmEasy,CUST3777,Returning,Ludhiana,Punjab,Omeprazole 20mg,Antacid,OTC,4,64,FIRST15,15,256,38.4,217.6,Cash on Delivery,6,Delivered,N/A,4,No
+ORD00438,2023-10-31,1mg,CUST1515,Returning,Chennai,Tamil Nadu,Azithromycin 500mg,Antibiotic,Prescription,5,175,SAVE10,10,875,87.5,787.5,Credit Card,2,Delivered,N/A,2,No
+ORD00439,2023-05-24,Flipkart Health,CUST7212,New,Lucknow,Uttar Pradesh,Cetirizine 10mg,Antiallergic,OTC,1,34,FIRST15,15,34,5.1,28.9,UPI,7,Delivered,N/A,3,Yes
+ORD00440,2023-07-07,Netmeds,CUST7560,Returning,Delhi,Delhi,Amlodipine 5mg,Blood Pressure,Prescription,1,90,NONE,0,90,0.0,90.0,Net Banking,7,Delivered,N/A,3,Yes
+ORD00441,2024-01-15,Flipkart Health,CUST7630,New,Ahmedabad,Gujarat,Omeprazole 20mg,Antacid,OTC,3,64,PHARMA5,5,192,9.6,182.4,Credit Card,6,Delivered,N/A,5,Yes
+ORD00442,2023-04-14,Apollo Pharmacy,CUST9862,Returning,Bangalore,Karnataka,Paracetamol 500mg,Pain Relief,OTC,5,24,FIRST15,15,120,18.0,102.0,UPI,2,Delivered,N/A,3,No
+ORD00443,2023-02-09,Netmeds,CUST8954,Returning,Mumbai,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,2,92,PHARMA5,5,184,9.2,174.8,Debit Card,1,Cancelled,N/A,N/A,No
+ORD00444,2023-06-11,Flipkart Health,CUST7359,New,Kolkata,West Bengal,Paracetamol 500mg,Pain Relief,OTC,1,21,NONE,0,21,0.0,21.0,Credit Card,6,Delivered,N/A,5,No
+ORD00445,2024-03-25,Flipkart Health,CUST4468,Returning,Chennai,Tamil Nadu,Iron Tablets,Supplement,OTC,3,76,HEALTH20,20,228,45.6,182.4,UPI,6,Delivered,N/A,2,No
+ORD00446,2023-07-07,Flipkart Health,CUST4205,New,Jaipur,Rajasthan,Antifungal Cream,Skin Care,OTC,1,115,NONE,0,115,0.0,115.0,Debit Card,4,Pending,N/A,N/A,No
+ORD00447,2023-11-13,Netmeds,CUST7807,Returning,Lucknow,Uttar Pradesh,Zinc Supplement,Supplement,OTC,4,170,FIRST15,15,680,102.0,578.0,Net Banking,6,Delivered,N/A,2,Yes
+ORD00448,2023-02-16,PharmEasy,CUST4474,Returning,Mumbai,Maharashtra,Nasal Spray,Cough & Cold,OTC,5,132,PHARMA5,5,660,33.0,627.0,Debit Card,6,Delivered,N/A,4,No
+ORD00449,2024-05-11,Flipkart Health,CUST1411,Returning,Surat,Gujarat,Montelukast 10mg,Asthma,Prescription,1,167,SAVE10,10,167,16.7,150.3,Debit Card,5,Delivered,N/A,4,Yes
+ORD00450,2024-08-25,1mg,CUST1134,Returning,Pune,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,1,147,PHARMA5,5,147,7.35,139.65,UPI,2,Delivered,N/A,5,No
+ORD00451,2024-05-14,Flipkart Health,CUST7584,New,Surat,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,4,72,NONE,0,288,0.0,288.0,Debit Card,3,Pending,N/A,N/A,No
+ORD00452,2024-04-13,Netmeds,CUST2172,New,Pune,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,5,135,NONE,0,675,0.0,675.0,Net Banking,6,Pending,N/A,N/A,No
+ORD00453,2023-06-22,1mg,CUST6782,Returning,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,2,115,NONE,0,230,0.0,230.0,Net Banking,2,Delivered,N/A,4,No
+ORD00454,2023-11-03,Flipkart Health,CUST8186,New,Bangalore,Karnataka,Paracetamol 500mg,Pain Relief,OTC,5,22,NONE,0,110,0.0,110.0,Credit Card,2,Delivered,N/A,3,Yes
+ORD00455,2024-08-23,Netmeds,CUST5284,Returning,Bangalore,Karnataka,Aspirin 75mg,Blood Thinner,Prescription,2,52,NONE,0,104,0.0,104.0,Net Banking,6,Returned,N/A,N/A,No
+ORD00456,2023-06-12,1mg,CUST9448,Returning,Chennai,Tamil Nadu,Pantoprazole 40mg,Antacid,Prescription,5,64,NONE,0,320,0.0,320.0,Debit Card,6,Pending,N/A,N/A,No
+ORD00457,2024-03-08,Netmeds,CUST4698,Returning,Pune,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,4,46,NONE,0,184,0.0,184.0,Net Banking,1,Delivered,N/A,1,Yes
+ORD00458,2023-04-29,1mg,CUST6837,Returning,Surat,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,5,55,PHARMA5,5,275,13.75,261.25,Cash on Delivery,2,Delivered,N/A,1,No
+ORD00459,2024-06-08,Flipkart Health,CUST8434,Returning,Lucknow,Uttar Pradesh,Amlodipine 5mg,Blood Pressure,Prescription,2,103,NONE,0,206,0.0,206.0,UPI,3,Delivered,N/A,5,Yes
+ORD00460,2023-06-21,PharmEasy,CUST9216,Returning,Ahmedabad,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,1,46,NONE,0,46,0.0,46.0,Credit Card,7,Cancelled,N/A,N/A,No
+ORD00461,2023-03-11,1mg,CUST7393,Returning,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,2,228,NONE,0,456,0.0,456.0,Debit Card,2,Delivered,N/A,4,Yes
+ORD00462,2023-08-31,Apollo Pharmacy,CUST7212,Returning,Ahmedabad,Gujarat,Nasal Spray,Cough & Cold,OTC,1,130,NONE,0,130,0.0,130.0,Credit Card,7,Returned,N/A,N/A,No
+ORD00463,2023-11-28,Flipkart Health,CUST6319,New,Kolkata,West Bengal,Amoxicillin 500mg,Antibiotic,Prescription,1,126,FIRST15,15,126,18.9,107.1,Debit Card,5,Pending,N/A,N/A,No
+ORD00464,2023-04-10,Flipkart Health,CUST6837,New,Pune,Maharashtra,Iron Tablets,Supplement,OTC,2,76,NONE,0,152,0.0,152.0,Credit Card,7,Delivered,N/A,2,Yes
+ORD00465,2023-07-26,Apollo Pharmacy,CUST8146,New,Bangalore,Karnataka,Ondansetron 4mg,Antinausea,Prescription,1,78,PHARMA5,5,78,3.9,74.1,UPI,6,Delivered,N/A,1,Yes
+ORD00466,2023-12-22,Flipkart Health,CUST2885,Returning,Ludhiana,Punjab,Dolo 650,Pain Relief,OTC,4,38,HEALTH20,20,152,30.4,121.6,Cash on Delivery,2,Delivered,N/A,2,No
+ORD00467,2023-05-13,1mg,CUST6563,Returning,Ahmedabad,Gujarat,Insulin Glargine,Diabetes,Prescription,1,858,SAVE10,10,858,85.8,772.2,Credit Card,4,Delivered,N/A,4,Yes
+ORD00468,2024-01-29,PharmEasy,CUST1628,Returning,Bangalore,Karnataka,Cough Syrup 100ml,Cough & Cold,OTC,5,80,PHARMA5,5,400,20.0,380.0,Cash on Delivery,4,Cancelled,N/A,N/A,No
+ORD00469,2024-01-29,1mg,CUST8745,Returning,Surat,Gujarat,Antifungal Cream,Skin Care,OTC,2,108,NONE,0,216,0.0,216.0,Debit Card,4,Delivered,N/A,4,Yes
+ORD00470,2023-06-06,PharmEasy,CUST2504,Returning,Ahmedabad,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,1,60,FIRST15,15,60,9.0,51.0,UPI,1,Delivered,N/A,5,No
+ORD00471,2023-02-07,1mg,CUST1916,New,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,2,73,HEALTH20,20,146,29.2,116.8,Credit Card,1,Delivered,N/A,1,No
+ORD00472,2024-09-14,PharmEasy,CUST2142,Returning,Delhi,Delhi,Metformin 500mg,Diabetes,Prescription,3,89,HEALTH20,20,267,53.4,213.6,Debit Card,4,Delivered,N/A,1,No
+ORD00473,2024-01-21,Apollo Pharmacy,CUST9631,New,Lucknow,Uttar Pradesh,Pantoprazole 40mg,Antacid,Prescription,1,70,HEALTH20,20,70,14.0,56.0,Net Banking,5,Delivered,N/A,3,No
+ORD00474,2024-07-01,Apollo Pharmacy,CUST1437,New,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,1,230,PHARMA5,5,230,11.5,218.5,UPI,5,Delivered,N/A,4,No
+ORD00475,2023-08-31,Apollo Pharmacy,CUST8033,New,Hyderabad,Telangana,Nasal Spray,Cough & Cold,OTC,4,139,NONE,0,556,0.0,556.0,UPI,6,Returned,N/A,N/A,No
+ORD00476,2023-04-20,1mg,CUST1144,New,Delhi,Delhi,Metformin 500mg,Diabetes,Prescription,3,86,NONE,0,258,0.0,258.0,UPI,3,Delivered,N/A,4,Yes
+ORD00477,2023-02-26,PharmEasy,CUST9678,New,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,2,849,SAVE10,10,1698,169.8,1528.2,Debit Card,5,Returned,N/A,N/A,No
+ORD00478,2024-04-06,PharmEasy,CUST8042,Returning,Mumbai,Maharashtra,Montelukast 10mg,Asthma,Prescription,5,170,NONE,0,850,0.0,850.0,Cash on Delivery,7,Delivered,N/A,4,No
+ORD00479,2024-08-04,PharmEasy,CUST3315,Returning,Ludhiana,Punjab,Zinc Supplement,Supplement,OTC,5,179,NONE,0,895,0.0,895.0,Net Banking,7,Cancelled,N/A,N/A,No
+ORD00480,2024-07-07,Netmeds,CUST5194,New,Delhi,Delhi,Amlodipine 5mg,Blood Pressure,Prescription,3,94,NONE,0,282,0.0,282.0,Credit Card,5,Cancelled,N/A,N/A,No
+ORD00481,2023-09-23,1mg,CUST2579,New,Jaipur,Rajasthan,Amlodipine 5mg,Blood Pressure,Prescription,4,93,NONE,0,372,0.0,372.0,Cash on Delivery,4,Delivered,N/A,1,No
+ORD00482,2023-06-08,1mg,CUST7560,New,Lucknow,Uttar Pradesh,Ibuprofen 400mg,Pain Relief,OTC,5,55,SAVE10,10,275,27.5,247.5,UPI,4,Delivered,N/A,5,No
+ORD00483,2024-07-07,PharmEasy,CUST3222,New,Pune,Maharashtra,Metformin 500mg,Diabetes,Prescription,5,84,PHARMA5,5,420,21.0,399.0,Net Banking,2,Returned,N/A,N/A,No
+ORD00484,2024-11-06,Flipkart Health,CUST8832,Returning,Surat,Gujarat,Hydrocortisone Cream,Skin Care,OTC,4,85,SAVE10,10,340,34.0,306.0,Net Banking,1,Delivered,N/A,1,Yes
+ORD00485,2023-11-15,PharmEasy,CUST7323,New,Ludhiana,Punjab,Hydrocortisone Cream,Skin Care,OTC,3,93,NONE,0,279,0.0,279.0,Cash on Delivery,2,Delivered,N/A,5,No
+ORD00486,2023-05-23,PharmEasy,CUST9877,New,Chennai,Tamil Nadu,Amoxicillin 500mg,Antibiotic,Prescription,1,126,SAVE10,10,126,12.6,113.4,Credit Card,3,Pending,N/A,N/A,No
+ORD00487,2024-03-04,Netmeds,CUST8970,New,Lucknow,Uttar Pradesh,Multivitamin Tablet,Supplement,OTC,2,216,FIRST15,15,432,64.8,367.2,UPI,4,Delivered,N/A,1,Yes
+ORD00488,2024-05-31,1mg,CUST5604,Returning,Chennai,Tamil Nadu,Metformin 500mg,Diabetes,Prescription,3,92,NONE,0,276,0.0,276.0,Credit Card,1,Pending,N/A,N/A,No
+ORD00489,2024-08-08,PharmEasy,CUST5493,Returning,Ahmedabad,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,2,74,HEALTH20,20,148,29.6,118.4,Debit Card,3,Pending,N/A,N/A,No
+ORD00490,2023-05-22,Apollo Pharmacy,CUST1083,New,Lucknow,Uttar Pradesh,Paracetamol 500mg,Pain Relief,OTC,1,32,SAVE10,10,32,3.2,28.8,Net Banking,6,Delivered,N/A,5,Yes
+ORD00491,2023-01-30,PharmEasy,CUST6782,New,Ahmedabad,Gujarat,Amoxicillin 500mg,Antibiotic,Prescription,5,115,SAVE10,10,575,57.5,517.5,Debit Card,6,Delivered,N/A,4,No
+ORD00492,2024-06-09,PharmEasy,CUST4823,New,Jaipur,Rajasthan,Pantoprazole 40mg,Antacid,Prescription,1,74,NONE,0,74,0.0,74.0,Net Banking,5,Delivered,N/A,4,Yes
+ORD00493,2023-08-29,Netmeds,CUST9448,New,Pune,Maharashtra,Montelukast 10mg,Asthma,Prescription,1,166,HEALTH20,20,166,33.2,132.8,Debit Card,5,Delivered,N/A,5,No
+ORD00494,2024-03-06,Flipkart Health,CUST9631,Returning,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,2,230,FIRST15,15,460,69.0,391.0,Cash on Delivery,2,Delivered,N/A,2,No
+ORD00495,2024-07-26,PharmEasy,CUST1515,Returning,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,4,37,PHARMA5,5,148,7.4,140.6,UPI,7,Delivered,N/A,1,No
+ORD00496,2024-03-22,Flipkart Health,CUST5833,New,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,2,218,NONE,0,436,0.0,436.0,Net Banking,2,Delivered,N/A,3,Yes
+ORD00497,2024-09-03,Apollo Pharmacy,CUST7799,Returning,Jaipur,Rajasthan,Pantoprazole 40mg,Antacid,Prescription,5,66,NONE,0,330,0.0,330.0,Net Banking,7,Delivered,N/A,5,Yes
+ORD00498,2023-01-14,1mg,CUST5886,New,Kolkata,West Bengal,Zinc Supplement,Supplement,OTC,4,172,FIRST15,15,688,103.2,584.8,Credit Card,7,Delivered,N/A,5,No
+ORD00499,2023-12-17,PharmEasy,CUST9734,Returning,Chennai,Tamil Nadu,Zinc Supplement,Supplement,OTC,3,172,PHARMA5,5,516,25.8,490.2,Debit Card,7,Delivered,N/A,1,Yes
+ORD00500,2023-02-03,PharmEasy,CUST5833,Returning,Lucknow,Uttar Pradesh,Metformin 500mg,Diabetes,Prescription,4,92,NONE,0,368,0.0,368.0,Cash on Delivery,3,Cancelled,N/A,N/A,No
+ORD00501,2023-09-25,Flipkart Health,CUST5656,New,Hyderabad,Telangana,Montelukast 10mg,Asthma,Prescription,5,156,HEALTH20,20,780,156.0,624.0,Net Banking,3,Delivered,N/A,4,No
+ORD00502,2024-03-10,Netmeds,CUST9123,New,Chennai,Tamil Nadu,Vitamin D3 1000IU,Supplement,OTC,1,200,SAVE10,10,200,20.0,180.0,Credit Card,3,Pending,N/A,N/A,No
+ORD00503,2024-09-27,Netmeds,CUST1299,Returning,Chennai,Tamil Nadu,Atorvastatin 10mg,Cholesterol,Prescription,4,146,NONE,0,584,0.0,584.0,Cash on Delivery,6,Delivered,N/A,5,Yes
+ORD00504,2023-04-07,Flipkart Health,CUST6431,Returning,Ahmedabad,Gujarat,Insulin Glargine,Diabetes,Prescription,2,850,SAVE10,10,1700,170.0,1530.0,Debit Card,1,Returned,Wrong Medicine,N/A,No
+ORD00505,2024-01-26,PharmEasy,CUST3996,New,Delhi,Delhi,Iron Tablets,Supplement,OTC,1,80,NONE,0,80,0.0,80.0,Net Banking,5,Pending,N/A,N/A,No
+ORD00506,2024-02-10,PharmEasy,CUST7590,Returning,Jaipur,Rajasthan,Amoxicillin 500mg,Antibiotic,Prescription,1,117,HEALTH20,20,117,23.4,93.6,Debit Card,6,Cancelled,N/A,N/A,No
+ORD00507,2023-01-02,Apollo Pharmacy,CUST2790,New,Lucknow,Uttar Pradesh,Paracetamol 500mg,Pain Relief,OTC,2,34,PHARMA5,5,68,3.4,64.6,Credit Card,2,Pending,N/A,N/A,No
+ORD00508,2023-01-01,Flipkart Health,CUST9145,New,Bangalore,Karnataka,Zinc Supplement,Supplement,OTC,5,183,NONE,0,915,0.0,915.0,UPI,7,Delivered,N/A,1,No
+ORD00509,2023-01-11,Apollo Pharmacy,CUST5789,Returning,Surat,Gujarat,Hydrocortisone Cream,Skin Care,OTC,3,86,NONE,0,258,0.0,258.0,UPI,5,Delivered,N/A,2,No
+ORD00510,2023-04-12,PharmEasy,CUST8238,Returning,Ludhiana,Punjab,Insulin Glargine,Diabetes,Prescription,1,847,NONE,0,847,0.0,847.0,UPI,5,Delivered,N/A,5,Yes
+ORD00511,2023-06-08,Apollo Pharmacy,CUST2473,Returning,Lucknow,Uttar Pradesh,Ibuprofen 400mg,Pain Relief,OTC,3,54,PHARMA5,5,162,8.1,153.9,Debit Card,4,Delivered,N/A,3,No
+ORD00512,2024-08-14,Flipkart Health,CUST4178,New,Surat,Gujarat,Insulin Glargine,Diabetes,Prescription,5,860,NONE,0,4300,0.0,4300.0,UPI,2,Delivered,N/A,5,Yes
+ORD00513,2023-12-24,PharmEasy,CUST3376,New,Ludhiana,Punjab,Dolo 650,Pain Relief,OTC,2,30,PHARMA5,5,60,3.0,57.0,Debit Card,1,Returned,N/A,N/A,No
+ORD00514,2023-03-14,Apollo Pharmacy,CUST4342,Returning,Delhi,Delhi,Pantoprazole 40mg,Antacid,Prescription,2,66,NONE,0,132,0.0,132.0,UPI,7,Delivered,N/A,5,Yes
+ORD00515,2023-03-01,Apollo Pharmacy,CUST1011,New,Ludhiana,Punjab,Amoxicillin 500mg,Antibiotic,Prescription,3,121,SAVE10,10,363,36.3,326.7,UPI,2,Delivered,N/A,4,Yes
+ORD00516,2024-06-01,1mg,CUST9203,New,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,1,847,NONE,0,847,0.0,847.0,Credit Card,3,Delivered,N/A,4,No
+ORD00517,2024-06-20,Flipkart Health,CUST7837,New,Ludhiana,Punjab,Ibuprofen 400mg,Pain Relief,OTC,1,40,SAVE10,10,40,4.0,36.0,Cash on Delivery,1,Delivered,N/A,5,No
+ORD00518,2024-01-13,1mg,CUST7114,Returning,Mumbai,Maharashtra,Aspirin 75mg,Blood Thinner,Prescription,3,56,PHARMA5,5,168,8.4,159.6,Net Banking,6,Delivered,N/A,3,No
+ORD00519,2023-09-25,PharmEasy,CUST6299,New,Pune,Maharashtra,Iron Tablets,Supplement,OTC,3,85,NONE,0,255,0.0,255.0,Credit Card,4,Delivered,N/A,3,Yes
+ORD00520,2024-02-08,PharmEasy,CUST5572,New,Ahmedabad,Gujarat,Paracetamol 500mg,Pain Relief,OTC,5,32,SAVE10,10,160,16.0,144.0,Net Banking,1,Delivered,N/A,2,No
+ORD00521,2024-10-27,Netmeds,CUST1827,New,Hyderabad,Telangana,Amlodipine 5mg,Blood Pressure,Prescription,5,101,HEALTH20,20,505,101.0,404.0,Credit Card,2,Delivered,N/A,1,No
+ORD00522,2024-01-13,Apollo Pharmacy,CUST4178,Returning,Ludhiana,Punjab,Metformin 500mg,Diabetes,Prescription,3,94,SAVE10,10,282,28.2,253.8,Credit Card,5,Delivered,N/A,5,Yes
+ORD00523,2024-06-08,Netmeds,CUST1011,Returning,Ahmedabad,Gujarat,Levocetirizine 5mg,Antiallergic,OTC,4,45,FIRST15,15,180,27.0,153.0,Cash on Delivery,2,Delivered,N/A,4,Yes
+ORD00524,2023-10-01,Apollo Pharmacy,CUST9702,Returning,Delhi,Delhi,Paracetamol 500mg,Pain Relief,OTC,5,30,NONE,0,150,0.0,150.0,Cash on Delivery,1,Pending,N/A,N/A,No
+ORD00525,2023-04-14,Netmeds,CUST4164,Returning,Ludhiana,Punjab,Pantoprazole 40mg,Antacid,Prescription,2,74,PHARMA5,5,148,7.4,140.6,Debit Card,2,Delivered,N/A,5,No
+ORD00526,2023-10-30,Flipkart Health,CUST5572,Returning,Hyderabad,Telangana,Amoxicillin 500mg,Antibiotic,Prescription,1,116,FIRST15,15,116,17.4,98.6,Credit Card,1,Cancelled,N/A,N/A,No
+ORD00527,2024-03-12,1mg,CUST7212,Returning,Chennai,Tamil Nadu,Levocetirizine 5mg,Antiallergic,OTC,2,38,PHARMA5,5,76,3.8,72.2,Debit Card,7,Delivered,N/A,5,No
+ORD00528,2023-07-26,Apollo Pharmacy,CUST1784,New,Lucknow,Uttar Pradesh,Vitamin D3 1000IU,Supplement,OTC,2,201,SAVE10,10,402,40.2,361.8,UPI,1,Delivered,N/A,3,Yes
+ORD00529,2023-08-22,PharmEasy,CUST9074,Returning,Lucknow,Uttar Pradesh,Ondansetron 4mg,Antinausea,Prescription,3,69,HEALTH20,20,207,41.4,165.6,Debit Card,2,Delivered,N/A,3,Yes
+ORD00530,2023-08-19,Flipkart Health,CUST5355,New,Mumbai,Maharashtra,Montelukast 10mg,Asthma,Prescription,3,160,HEALTH20,20,480,96.0,384.0,Debit Card,7,Delivered,N/A,3,No
+ORD00531,2024-09-29,Flipkart Health,CUST8891,New,Delhi,Delhi,Amoxicillin 500mg,Antibiotic,Prescription,2,122,NONE,0,244,0.0,244.0,Credit Card,7,Delivered,N/A,4,Yes
+ORD00532,2023-02-01,Apollo Pharmacy,CUST7837,Returning,Chennai,Tamil Nadu,Iron Tablets,Supplement,OTC,2,88,FIRST15,15,176,26.4,149.6,UPI,3,Returned,Expired Product,N/A,No
+ORD00533,2023-04-03,PharmEasy,CUST9871,Returning,Lucknow,Uttar Pradesh,Cough Syrup 100ml,Cough & Cold,OTC,1,77,NONE,0,77,0.0,77.0,Cash on Delivery,4,Delivered,N/A,2,No
+ORD00534,2023-02-11,Flipkart Health,CUST7270,Returning,Bangalore,Karnataka,Omeprazole 20mg,Antacid,OTC,2,55,FIRST15,15,110,16.5,93.5,Cash on Delivery,6,Delivered,N/A,3,Yes
+ORD00535,2023-07-08,Apollo Pharmacy,CUST1575,New,Chennai,Tamil Nadu,Pantoprazole 40mg,Antacid,Prescription,1,73,NONE,0,73,0.0,73.0,Net Banking,5,Delivered,N/A,5,No
+ORD00536,2023-08-10,Apollo Pharmacy,CUST5265,Returning,Pune,Maharashtra,Metformin 500mg,Diabetes,Prescription,3,90,NONE,0,270,0.0,270.0,UPI,5,Returned,N/A,N/A,No
+ORD00537,2024-04-20,Apollo Pharmacy,CUST3399,Returning,Jaipur,Rajasthan,Antifungal Cream,Skin Care,OTC,3,106,FIRST15,15,318,47.7,270.3,Credit Card,2,Delivered,N/A,5,Yes
+ORD00538,2024-08-15,1mg,CUST6388,Returning,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,4,111,FIRST15,15,444,66.6,377.4,Debit Card,5,Delivered,N/A,2,Yes
+ORD00539,2024-02-10,1mg,CUST5179,Returning,Bangalore,Karnataka,Vitamin D3 1000IU,Supplement,OTC,5,207,FIRST15,15,1035,155.25,879.75,UPI,2,Delivered,N/A,5,No
+ORD00540,2023-10-05,1mg,CUST4278,Returning,Hyderabad,Telangana,Montelukast 10mg,Asthma,Prescription,5,159,FIRST15,15,795,119.25,675.75,Net Banking,3,Delivered,N/A,2,No
+ORD00541,2024-11-07,PharmEasy,CUST9216,New,Delhi,Delhi,Ondansetron 4mg,Antinausea,Prescription,3,80,SAVE10,10,240,24.0,216.0,Debit Card,2,Delivered,N/A,4,No
+ORD00542,2024-07-21,Netmeds,CUST2802,Returning,Lucknow,Uttar Pradesh,Amlodipine 5mg,Blood Pressure,Prescription,1,104,NONE,0,104,0.0,104.0,Net Banking,3,Delivered,N/A,4,Yes
+ORD00543,2024-01-08,Netmeds,CUST8434,Returning,Ludhiana,Punjab,Atorvastatin 10mg,Cholesterol,Prescription,4,143,NONE,0,572,0.0,572.0,Debit Card,7,Delivered,N/A,1,Yes
+ORD00544,2024-06-17,Netmeds,CUST7590,Returning,Chennai,Tamil Nadu,Cetirizine 10mg,Antiallergic,OTC,1,36,NONE,0,36,0.0,36.0,Cash on Delivery,4,Delivered,N/A,5,Yes
+ORD00545,2024-07-18,Netmeds,CUST7837,Returning,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,5,229,NONE,0,1145,0.0,1145.0,Debit Card,1,Pending,N/A,N/A,No
+ORD00546,2024-11-10,1mg,CUST5999,New,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,3,31,NONE,0,93,0.0,93.0,Net Banking,7,Returned,Expired Product,N/A,No
+ORD00547,2023-07-11,1mg,CUST8014,New,Mumbai,Maharashtra,Ibuprofen 400mg,Pain Relief,OTC,2,48,FIRST15,15,96,14.4,81.6,Credit Card,7,Pending,N/A,N/A,No
+ORD00548,2023-07-19,Apollo Pharmacy,CUST5586,New,Jaipur,Rajasthan,Pantoprazole 40mg,Antacid,Prescription,1,63,HEALTH20,20,63,12.6,50.4,Cash on Delivery,6,Cancelled,N/A,N/A,No
+ORD00549,2024-04-21,1mg,CUST2250,Returning,Jaipur,Rajasthan,Iron Tablets,Supplement,OTC,4,78,NONE,0,312,0.0,312.0,UPI,5,Delivered,N/A,5,Yes
+ORD00550,2023-10-19,Apollo Pharmacy,CUST2931,New,Surat,Gujarat,Omeprazole 20mg,Antacid,OTC,5,61,FIRST15,15,305,45.75,259.25,UPI,7,Delivered,N/A,3,Yes
+ORD00551,2023-07-14,Flipkart Health,CUST5645,New,Lucknow,Uttar Pradesh,Cough Syrup 100ml,Cough & Cold,OTC,3,71,SAVE10,10,213,21.3,191.7,Net Banking,5,Delivered,N/A,5,No
+ORD00552,2024-02-24,Apollo Pharmacy,CUST2674,New,Pune,Maharashtra,Omeprazole 20mg,Antacid,OTC,2,63,NONE,0,126,0.0,126.0,UPI,6,Delivered,N/A,4,Yes
+ORD00553,2023-12-18,Flipkart Health,CUST8802,Returning,Kolkata,West Bengal,Nasal Spray,Cough & Cold,OTC,1,126,NONE,0,126,0.0,126.0,Cash on Delivery,3,Delivered,N/A,5,Yes
+ORD00554,2023-08-13,PharmEasy,CUST4439,New,Surat,Gujarat,Metformin 500mg,Diabetes,Prescription,3,91,HEALTH20,20,273,54.6,218.4,Debit Card,2,Delivered,N/A,2,Yes
+ORD00555,2023-12-14,1mg,CUST7554,Returning,Bangalore,Karnataka,Levocetirizine 5mg,Antiallergic,OTC,5,39,NONE,0,195,0.0,195.0,UPI,1,Delivered,N/A,5,Yes
+ORD00556,2024-11-14,1mg,CUST6866,Returning,Ludhiana,Punjab,Azithromycin 500mg,Antibiotic,Prescription,5,185,NONE,0,925,0.0,925.0,Net Banking,6,Delivered,N/A,4,No
+ORD00557,2023-05-24,Apollo Pharmacy,CUST7334,New,Chennai,Tamil Nadu,Vitamin C 500mg,Supplement,OTC,4,150,NONE,0,600,0.0,600.0,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00558,2024-09-04,Netmeds,CUST2921,New,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,5,114,NONE,0,570,0.0,570.0,UPI,2,Delivered,N/A,4,No
+ORD00559,2023-06-12,PharmEasy,CUST1011,Returning,Pune,Maharashtra,Dolo 650,Pain Relief,OTC,1,33,NONE,0,33,0.0,33.0,Debit Card,3,Delivered,N/A,1,No
+ORD00560,2023-02-24,Apollo Pharmacy,CUST4492,Returning,Delhi,Delhi,Hydrocortisone Cream,Skin Care,OTC,2,100,NONE,0,200,0.0,200.0,Debit Card,4,Delivered,N/A,3,No
+ORD00561,2023-07-30,Netmeds,CUST3266,Returning,Ludhiana,Punjab,Pantoprazole 40mg,Antacid,Prescription,3,75,NONE,0,225,0.0,225.0,Debit Card,6,Pending,N/A,N/A,No
+ORD00562,2024-08-10,1mg,CUST1990,New,Mumbai,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,3,145,SAVE10,10,435,43.5,391.5,UPI,5,Delivered,N/A,5,No
+ORD00563,2024-07-17,PharmEasy,CUST3636,Returning,Chennai,Tamil Nadu,Vitamin C 500mg,Supplement,OTC,4,160,FIRST15,15,640,96.0,544.0,Credit Card,5,Delivered,N/A,1,Yes
+ORD00564,2024-07-08,Netmeds,CUST1308,New,Delhi,Delhi,Pantoprazole 40mg,Antacid,Prescription,5,66,FIRST15,15,330,49.5,280.5,Net Banking,7,Returned,Expired Product,N/A,No
+ORD00565,2024-01-07,Apollo Pharmacy,CUST3777,Returning,Ahmedabad,Gujarat,Zinc Supplement,Supplement,OTC,2,181,NONE,0,362,0.0,362.0,UPI,6,Delivered,N/A,1,Yes
+ORD00566,2024-03-28,Flipkart Health,CUST6890,Returning,Ludhiana,Punjab,Pantoprazole 40mg,Antacid,Prescription,1,73,NONE,0,73,0.0,73.0,UPI,1,Delivered,N/A,3,No
+ORD00567,2023-05-11,PharmEasy,CUST7334,New,Mumbai,Maharashtra,Metformin 500mg,Diabetes,Prescription,2,95,FIRST15,15,190,28.5,161.5,UPI,6,Returned,N/A,N/A,No
+ORD00568,2023-09-05,PharmEasy,CUST3590,Returning,Surat,Gujarat,Dolo 650,Pain Relief,OTC,2,41,HEALTH20,20,82,16.4,65.6,Debit Card,7,Delivered,N/A,1,No
+ORD00569,2024-01-17,Apollo Pharmacy,CUST7620,New,Hyderabad,Telangana,Zinc Supplement,Supplement,OTC,5,174,FIRST15,15,870,130.5,739.5,Credit Card,7,Delivered,N/A,2,Yes
+ORD00570,2023-04-11,Netmeds,CUST8434,New,Surat,Gujarat,Multivitamin Tablet,Supplement,OTC,5,222,NONE,0,1110,0.0,1110.0,Debit Card,7,Delivered,N/A,2,Yes
+ORD00571,2023-02-26,1mg,CUST5712,New,Ludhiana,Punjab,Montelukast 10mg,Asthma,Prescription,1,157,NONE,0,157,0.0,157.0,Credit Card,6,Cancelled,N/A,N/A,No
+ORD00572,2024-10-24,1mg,CUST8802,Returning,Mumbai,Maharashtra,Montelukast 10mg,Asthma,Prescription,2,161,FIRST15,15,322,48.3,273.7,UPI,3,Pending,N/A,N/A,No
+ORD00573,2024-01-28,Apollo Pharmacy,CUST8962,New,Kolkata,West Bengal,Insulin Glargine,Diabetes,Prescription,2,857,NONE,0,1714,0.0,1714.0,Credit Card,5,Delivered,N/A,1,Yes
+ORD00574,2023-09-19,Apollo Pharmacy,CUST7584,Returning,Ludhiana,Punjab,Montelukast 10mg,Asthma,Prescription,5,158,SAVE10,10,790,79.0,711.0,Credit Card,5,Delivered,N/A,1,No
+ORD00575,2024-10-02,PharmEasy,CUST5287,New,Chennai,Tamil Nadu,Iron Tablets,Supplement,OTC,5,82,FIRST15,15,410,61.5,348.5,UPI,2,Cancelled,N/A,N/A,No
+ORD00576,2024-03-09,1mg,CUST3777,New,Hyderabad,Telangana,Metformin 500mg,Diabetes,Prescription,2,83,NONE,0,166,0.0,166.0,Cash on Delivery,7,Cancelled,N/A,N/A,No
+ORD00577,2023-12-05,Netmeds,CUST2408,Returning,Surat,Gujarat,Azithromycin 500mg,Antibiotic,Prescription,2,181,FIRST15,15,362,54.3,307.7,Net Banking,4,Delivered,N/A,3,No
+ORD00578,2023-11-11,Flipkart Health,CUST6563,Returning,Kolkata,West Bengal,Levocetirizine 5mg,Antiallergic,OTC,1,43,NONE,0,43,0.0,43.0,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00579,2023-06-11,Apollo Pharmacy,CUST3394,Returning,Lucknow,Uttar Pradesh,Multivitamin Tablet,Supplement,OTC,5,228,PHARMA5,5,1140,57.0,1083.0,Net Banking,3,Delivered,N/A,2,Yes
+ORD00580,2024-05-06,Apollo Pharmacy,CUST1855,Returning,Hyderabad,Telangana,Montelukast 10mg,Asthma,Prescription,5,159,NONE,0,795,0.0,795.0,Cash on Delivery,1,Delivered,N/A,3,No
+ORD00581,2024-06-08,Apollo Pharmacy,CUST9216,New,Ahmedabad,Gujarat,Omeprazole 20mg,Antacid,OTC,3,54,NONE,0,162,0.0,162.0,Credit Card,1,Delivered,N/A,2,Yes
+ORD00582,2024-10-10,PharmEasy,CUST1855,New,Jaipur,Rajasthan,Ondansetron 4mg,Antinausea,Prescription,1,78,NONE,0,78,0.0,78.0,Debit Card,6,Pending,N/A,N/A,No
+ORD00583,2023-04-15,Flipkart Health,CUST5060,New,Jaipur,Rajasthan,Insulin Glargine,Diabetes,Prescription,3,852,HEALTH20,20,2556,511.2,2044.8,Cash on Delivery,1,Cancelled,N/A,N/A,No
+ORD00584,2023-12-29,Netmeds,CUST7620,Returning,Delhi,Delhi,Antifungal Cream,Skin Care,OTC,2,112,NONE,0,224,0.0,224.0,UPI,3,Delivered,N/A,3,Yes
+ORD00585,2023-09-10,Apollo Pharmacy,CUST8434,Returning,Ahmedabad,Gujarat,Montelukast 10mg,Asthma,Prescription,2,158,PHARMA5,5,316,15.8,300.2,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00586,2024-06-10,Netmeds,CUST8434,Returning,Bangalore,Karnataka,Metformin 500mg,Diabetes,Prescription,2,81,NONE,0,162,0.0,162.0,Debit Card,2,Delivered,N/A,4,No
+ORD00587,2023-04-16,Flipkart Health,CUST4823,New,Mumbai,Maharashtra,Montelukast 10mg,Asthma,Prescription,5,167,NONE,0,835,0.0,835.0,Debit Card,2,Pending,N/A,N/A,No
+ORD00588,2024-01-04,Netmeds,CUST5922,Returning,Pune,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,1,26,NONE,0,26,0.0,26.0,UPI,2,Delivered,N/A,1,No
+ORD00589,2024-07-17,Netmeds,CUST9894,New,Ahmedabad,Gujarat,Amoxicillin 500mg,Antibiotic,Prescription,5,128,NONE,0,640,0.0,640.0,Net Banking,1,Pending,N/A,N/A,No
+ORD00590,2023-11-01,Apollo Pharmacy,CUST3646,New,Bangalore,Karnataka,Cough Syrup 100ml,Cough & Cold,OTC,2,73,SAVE10,10,146,14.6,131.4,Debit Card,1,Delivered,N/A,1,Yes
+ORD00591,2023-01-24,Apollo Pharmacy,CUST6283,Returning,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,2,849,HEALTH20,20,1698,339.6,1358.4,Debit Card,7,Delivered,N/A,5,No
+ORD00592,2024-05-28,PharmEasy,CUST3253,New,Chennai,Tamil Nadu,Vitamin C 500mg,Supplement,OTC,2,152,FIRST15,15,304,45.6,258.4,Cash on Delivery,3,Delivered,N/A,5,No
+ORD00593,2023-05-03,PharmEasy,CUST5165,New,Surat,Gujarat,Cetirizine 10mg,Antiallergic,OTC,2,26,NONE,0,52,0.0,52.0,UPI,5,Cancelled,N/A,N/A,No
+ORD00594,2024-03-19,PharmEasy,CUST3636,Returning,Ahmedabad,Gujarat,Metformin 500mg,Diabetes,Prescription,2,81,NONE,0,162,0.0,162.0,Credit Card,7,Returned,Expired Product,N/A,No
+ORD00595,2024-06-11,Apollo Pharmacy,CUST1584,Returning,Bangalore,Karnataka,Multivitamin Tablet,Supplement,OTC,1,225,FIRST15,15,225,33.75,191.25,Cash on Delivery,5,Pending,N/A,N/A,No
+ORD00596,2024-10-14,Apollo Pharmacy,CUST6161,Returning,Delhi,Delhi,Antifungal Cream,Skin Care,OTC,5,114,NONE,0,570,0.0,570.0,Credit Card,1,Delivered,N/A,2,No
+ORD00597,2024-11-10,Apollo Pharmacy,CUST5287,New,Bangalore,Karnataka,Pantoprazole 40mg,Antacid,Prescription,5,60,NONE,0,300,0.0,300.0,UPI,3,Delivered,N/A,4,Yes
+ORD00598,2024-03-17,Apollo Pharmacy,CUST2159,Returning,Chennai,Tamil Nadu,Nasal Spray,Cough & Cold,OTC,5,130,NONE,0,650,0.0,650.0,Credit Card,3,Cancelled,N/A,N/A,No
+ORD00599,2023-03-07,Netmeds,CUST2292,New,Pune,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,2,100,PHARMA5,5,200,10.0,190.0,Cash on Delivery,1,Delivered,N/A,2,No
+ORD00600,2024-07-20,PharmEasy,CUST1151,New,Surat,Gujarat,Amlodipine 5mg,Blood Pressure,Prescription,3,103,NONE,0,309,0.0,309.0,Credit Card,6,Delivered,N/A,2,Yes
+ORD00601,2023-10-06,Flipkart Health,CUST7807,New,Jaipur,Rajasthan,Pantoprazole 40mg,Antacid,Prescription,4,66,FIRST15,15,264,39.6,224.4,UPI,4,Delivered,N/A,3,Yes
+ORD00602,2023-10-24,1mg,CUST8434,New,Ahmedabad,Gujarat,Montelukast 10mg,Asthma,Prescription,5,156,PHARMA5,5,780,39.0,741.0,UPI,7,Delivered,N/A,2,Yes
+ORD00603,2023-06-17,1mg,CUST2172,New,Surat,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,2,45,NONE,0,90,0.0,90.0,UPI,5,Pending,N/A,N/A,No
+ORD00604,2023-08-07,1mg,CUST3829,New,Lucknow,Uttar Pradesh,Paracetamol 500mg,Pain Relief,OTC,5,22,NONE,0,110,0.0,110.0,Net Banking,6,Delivered,N/A,4,No
+ORD00605,2023-07-03,PharmEasy,CUST4492,Returning,Hyderabad,Telangana,Montelukast 10mg,Asthma,Prescription,5,155,PHARMA5,5,775,38.75,736.25,Net Banking,3,Delivered,N/A,3,No
+ORD00606,2024-04-18,PharmEasy,CUST4896,Returning,Delhi,Delhi,Montelukast 10mg,Asthma,Prescription,1,165,NONE,0,165,0.0,165.0,UPI,4,Cancelled,N/A,N/A,No
+ORD00607,2024-04-24,1mg,CUST6418,New,Ludhiana,Punjab,Aspirin 75mg,Blood Thinner,Prescription,4,57,NONE,0,228,0.0,228.0,Net Banking,7,Delivered,N/A,1,Yes
+ORD00608,2023-06-19,Apollo Pharmacy,CUST9296,New,Bangalore,Karnataka,Omeprazole 20mg,Antacid,OTC,3,51,SAVE10,10,153,15.3,137.7,Cash on Delivery,2,Delivered,N/A,4,No
+ORD00609,2024-10-21,PharmEasy,CUST3858,New,Surat,Gujarat,Ondansetron 4mg,Antinausea,Prescription,3,72,NONE,0,216,0.0,216.0,Credit Card,2,Delivered,N/A,4,No
+ORD00610,2023-04-05,Netmeds,CUST6161,New,Jaipur,Rajasthan,Vitamin D3 1000IU,Supplement,OTC,3,195,PHARMA5,5,585,29.25,555.75,UPI,7,Delivered,N/A,2,No
+ORD00611,2024-11-15,Apollo Pharmacy,CUST4762,New,Chennai,Tamil Nadu,Zinc Supplement,Supplement,OTC,4,175,HEALTH20,20,700,140.0,560.0,Debit Card,2,Delivered,N/A,2,No
+ORD00612,2023-01-25,PharmEasy,CUST2514,Returning,Delhi,Delhi,Dolo 650,Pain Relief,OTC,5,34,PHARMA5,5,170,8.5,161.5,UPI,3,Delivered,N/A,2,Yes
+ORD00613,2024-06-28,Netmeds,CUST3438,New,Ludhiana,Punjab,Vitamin D3 1000IU,Supplement,OTC,3,198,NONE,0,594,0.0,594.0,Credit Card,3,Delivered,N/A,2,No
+ORD00614,2023-06-15,Netmeds,CUST6563,Returning,Bangalore,Karnataka,Montelukast 10mg,Asthma,Prescription,4,160,FIRST15,15,640,96.0,544.0,Credit Card,4,Delivered,N/A,2,No
+ORD00615,2024-09-01,Apollo Pharmacy,CUST5645,Returning,Surat,Gujarat,Vitamin C 500mg,Supplement,OTC,1,150,PHARMA5,5,150,7.5,142.5,UPI,6,Delivered,N/A,4,No
+ORD00616,2023-07-16,Netmeds,CUST2790,Returning,Kolkata,West Bengal,Omeprazole 20mg,Antacid,OTC,2,63,PHARMA5,5,126,6.3,119.7,Debit Card,3,Cancelled,N/A,N/A,No
+ORD00617,2024-05-12,Apollo Pharmacy,CUST5284,New,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,4,37,NONE,0,148,0.0,148.0,Cash on Delivery,7,Delivered,N/A,4,Yes
+ORD00618,2023-01-16,PharmEasy,CUST7296,New,Kolkata,West Bengal,Cetirizine 10mg,Antiallergic,OTC,4,26,SAVE10,10,104,10.4,93.6,Debit Card,1,Delivered,N/A,1,No
+ORD00619,2024-08-02,Apollo Pharmacy,CUST1411,Returning,Ludhiana,Punjab,Aspirin 75mg,Blood Thinner,Prescription,5,57,NONE,0,285,0.0,285.0,Credit Card,2,Delivered,N/A,4,No
+ORD00620,2024-02-11,1mg,CUST5586,Returning,Chennai,Tamil Nadu,Cetirizine 10mg,Antiallergic,OTC,5,29,FIRST15,15,145,21.75,123.25,Cash on Delivery,2,Delivered,N/A,2,No
+ORD00621,2023-07-09,Apollo Pharmacy,CUST2795,Returning,Chennai,Tamil Nadu,Ondansetron 4mg,Antinausea,Prescription,1,76,NONE,0,76,0.0,76.0,Cash on Delivery,2,Pending,N/A,N/A,No
+ORD00622,2024-03-16,PharmEasy,CUST4921,Returning,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,3,71,NONE,0,213,0.0,213.0,Cash on Delivery,2,Delivered,N/A,2,Yes
+ORD00623,2024-11-14,Apollo Pharmacy,CUST2777,New,Ahmedabad,Gujarat,Vitamin C 500mg,Supplement,OTC,3,154,NONE,0,462,0.0,462.0,Debit Card,6,Delivered,N/A,2,No
+ORD00624,2024-09-16,Flipkart Health,CUST1738,Returning,Jaipur,Rajasthan,Cetirizine 10mg,Antiallergic,OTC,2,35,HEALTH20,20,70,14.0,56.0,Credit Card,5,Delivered,N/A,4,Yes
+ORD00625,2024-08-29,1mg,CUST6737,Returning,Kolkata,West Bengal,Antifungal Cream,Skin Care,OTC,2,106,SAVE10,10,212,21.2,190.8,UPI,7,Delivered,N/A,3,Yes
+ORD00626,2024-03-29,Apollo Pharmacy,CUST2408,Returning,Kolkata,West Bengal,Amoxicillin 500mg,Antibiotic,Prescription,2,128,FIRST15,15,256,38.4,217.6,UPI,2,Pending,N/A,N/A,No
+ORD00627,2024-06-25,Flipkart Health,CUST1134,New,Mumbai,Maharashtra,Paracetamol 500mg,Pain Relief,OTC,4,34,NONE,0,136,0.0,136.0,Credit Card,5,Delivered,N/A,5,No
+ORD00628,2023-07-29,Apollo Pharmacy,CUST9894,Returning,Ahmedabad,Gujarat,Hydrocortisone Cream,Skin Care,OTC,3,85,PHARMA5,5,255,12.75,242.25,Credit Card,2,Delivered,N/A,4,No
+ORD00629,2024-05-10,1mg,CUST6025,New,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,3,105,SAVE10,10,315,31.5,283.5,Credit Card,3,Pending,N/A,N/A,No
+ORD00630,2024-05-20,Flipkart Health,CUST4134,Returning,Surat,Gujarat,Pantoprazole 40mg,Antacid,Prescription,4,65,NONE,0,260,0.0,260.0,Cash on Delivery,4,Delivered,N/A,5,Yes
+ORD00631,2024-08-10,PharmEasy,CUST9724,New,Pune,Maharashtra,Insulin Glargine,Diabetes,Prescription,3,859,SAVE10,10,2577,257.7,2319.3,Debit Card,3,Pending,N/A,N/A,No
+ORD00632,2024-03-24,1mg,CUST8694,Returning,Kolkata,West Bengal,Amlodipine 5mg,Blood Pressure,Prescription,5,97,NONE,0,485,0.0,485.0,Net Banking,7,Delivered,N/A,2,Yes
+ORD00633,2024-06-23,1mg,CUST7323,Returning,Ludhiana,Punjab,Vitamin C 500mg,Supplement,OTC,4,146,FIRST15,15,584,87.6,496.4,Debit Card,6,Cancelled,N/A,N/A,No
+ORD00634,2023-06-14,Apollo Pharmacy,CUST6757,Returning,Kolkata,West Bengal,Ibuprofen 400mg,Pain Relief,OTC,1,42,SAVE10,10,42,4.2,37.8,Cash on Delivery,1,Pending,N/A,N/A,No
+ORD00635,2023-02-05,Apollo Pharmacy,CUST6267,New,Hyderabad,Telangana,Amoxicillin 500mg,Antibiotic,Prescription,3,124,FIRST15,15,372,55.8,316.2,Credit Card,6,Delivered,N/A,2,Yes
+ORD00636,2024-10-13,1mg,CUST3829,Returning,Ludhiana,Punjab,Omeprazole 20mg,Antacid,OTC,2,61,NONE,0,122,0.0,122.0,UPI,4,Delivered,N/A,1,No
+ORD00637,2024-08-06,1mg,CUST7114,New,Delhi,Delhi,Hydrocortisone Cream,Skin Care,OTC,1,100,FIRST15,15,100,15.0,85.0,Credit Card,5,Delivered,N/A,1,No
+ORD00638,2023-10-16,Flipkart Health,CUST9724,New,Ludhiana,Punjab,Montelukast 10mg,Asthma,Prescription,1,163,FIRST15,15,163,24.45,138.55,Debit Card,6,Delivered,N/A,3,No
+ORD00639,2023-06-14,Flipkart Health,CUST8042,New,Hyderabad,Telangana,Azithromycin 500mg,Antibiotic,Prescription,1,188,NONE,0,188,0.0,188.0,Cash on Delivery,5,Delivered,N/A,5,No
+ORD00640,2024-01-12,Netmeds,CUST4342,New,Kolkata,West Bengal,Ondansetron 4mg,Antinausea,Prescription,4,71,NONE,0,284,0.0,284.0,Credit Card,3,Delivered,N/A,5,No
+ORD00641,2024-08-19,Netmeds,CUST9311,Returning,Bangalore,Karnataka,Dolo 650,Pain Relief,OTC,1,41,SAVE10,10,41,4.1,36.9,Cash on Delivery,4,Delivered,N/A,2,No
+ORD00642,2023-05-10,Flipkart Health,CUST3415,New,Delhi,Delhi,Cetirizine 10mg,Antiallergic,OTC,3,36,NONE,0,108,0.0,108.0,UPI,4,Delivered,N/A,3,Yes
+ORD00643,2024-07-01,Apollo Pharmacy,CUST5739,Returning,Chennai,Tamil Nadu,Montelukast 10mg,Asthma,Prescription,5,167,PHARMA5,5,835,41.75,793.25,UPI,1,Delivered,N/A,1,Yes
+ORD00644,2024-08-14,Flipkart Health,CUST9118,Returning,Lucknow,Uttar Pradesh,Amoxicillin 500mg,Antibiotic,Prescription,3,118,SAVE10,10,354,35.4,318.6,Debit Card,1,Delivered,N/A,5,Yes
+ORD00645,2023-02-05,1mg,CUST5955,Returning,Surat,Gujarat,Insulin Glargine,Diabetes,Prescription,5,858,NONE,0,4290,0.0,4290.0,Credit Card,2,Delivered,N/A,1,No
+ORD00646,2023-08-04,1mg,CUST1646,New,Surat,Gujarat,Multivitamin Tablet,Supplement,OTC,1,218,FIRST15,15,218,32.7,185.3,Debit Card,5,Delivered,N/A,2,Yes
+ORD00647,2023-05-14,1mg,CUST9296,Returning,Lucknow,Uttar Pradesh,Cetirizine 10mg,Antiallergic,OTC,5,38,SAVE10,10,190,19.0,171.0,Net Banking,6,Delivered,N/A,5,Yes
+ORD00648,2024-11-09,1mg,CUST9145,Returning,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,4,32,PHARMA5,5,128,6.4,121.6,Debit Card,4,Delivered,N/A,3,Yes
+ORD00649,2023-01-31,Flipkart Health,CUST3443,Returning,Kolkata,West Bengal,Vitamin C 500mg,Supplement,OTC,2,154,NONE,0,308,0.0,308.0,Cash on Delivery,2,Delivered,N/A,4,Yes
+ORD00650,2023-12-19,Apollo Pharmacy,CUST9678,New,Kolkata,West Bengal,Multivitamin Tablet,Supplement,OTC,1,228,PHARMA5,5,228,11.4,216.6,Cash on Delivery,3,Pending,N/A,N/A,No
+ORD00651,2024-10-12,Netmeds,CUST8556,New,Surat,Gujarat,Hydrocortisone Cream,Skin Care,OTC,4,96,HEALTH20,20,384,76.8,307.2,Debit Card,1,Delivered,N/A,1,Yes
+ORD00652,2024-08-31,PharmEasy,CUST3996,New,Surat,Gujarat,Paracetamol 500mg,Pain Relief,OTC,3,34,NONE,0,102,0.0,102.0,UPI,3,Delivered,N/A,3,No
+ORD00653,2024-04-13,PharmEasy,CUST2172,New,Mumbai,Maharashtra,Vitamin D3 1000IU,Supplement,OTC,2,205,HEALTH20,20,410,82.0,328.0,Credit Card,5,Pending,N/A,N/A,No
+ORD00654,2024-10-30,Netmeds,CUST9202,Returning,Mumbai,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,3,66,NONE,0,198,0.0,198.0,Credit Card,1,Delivered,N/A,4,No
+ORD00655,2023-11-21,Netmeds,CUST4590,New,Kolkata,West Bengal,Aspirin 75mg,Blood Thinner,Prescription,2,59,NONE,0,118,0.0,118.0,Net Banking,1,Delivered,N/A,2,Yes
+ORD00656,2024-09-27,1mg,CUST5999,New,Pune,Maharashtra,Dolo 650,Pain Relief,OTC,3,35,NONE,0,105,0.0,105.0,Credit Card,3,Delivered,N/A,2,No
+ORD00657,2023-10-19,Netmeds,CUST7590,New,Hyderabad,Telangana,Vitamin C 500mg,Supplement,OTC,3,146,PHARMA5,5,438,21.9,416.1,UPI,1,Pending,N/A,N/A,No
+ORD00658,2024-03-23,Netmeds,CUST9748,New,Jaipur,Rajasthan,Metformin 500mg,Diabetes,Prescription,4,82,FIRST15,15,328,49.2,278.8,Cash on Delivery,7,Delivered,N/A,4,No
+ORD00659,2023-12-26,1mg,CUST9362,Returning,Pune,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,3,83,NONE,0,249,0.0,249.0,Credit Card,5,Returned,N/A,N/A,No
+ORD00660,2024-08-12,PharmEasy,CUST8556,New,Pune,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,1,70,NONE,0,70,0.0,70.0,UPI,1,Delivered,N/A,4,No
+ORD00661,2024-05-23,PharmEasy,CUST1411,Returning,Jaipur,Rajasthan,Insulin Glargine,Diabetes,Prescription,1,848,HEALTH20,20,848,169.6,678.4,Net Banking,2,Delivered,N/A,1,No
+ORD00662,2024-03-22,Netmeds,CUST1299,New,Mumbai,Maharashtra,Multivitamin Tablet,Supplement,OTC,2,215,SAVE10,10,430,43.0,387.0,Net Banking,4,Delivered,N/A,5,No
+ORD00663,2023-05-15,1mg,CUST3996,New,Mumbai,Maharashtra,Zinc Supplement,Supplement,OTC,4,185,NONE,0,740,0.0,740.0,Cash on Delivery,2,Returned,Wrong Medicine,N/A,No
+ORD00664,2024-02-12,PharmEasy,CUST7212,Returning,Ahmedabad,Gujarat,Nasal Spray,Cough & Cold,OTC,4,133,PHARMA5,5,532,26.6,505.4,Debit Card,6,Pending,N/A,N/A,No
+ORD00665,2023-07-06,PharmEasy,CUST9448,Returning,Surat,Gujarat,Paracetamol 500mg,Pain Relief,OTC,2,23,FIRST15,15,46,6.9,39.1,Debit Card,6,Delivered,N/A,4,Yes
+ORD00666,2024-11-18,Netmeds,CUST2990,Returning,Ludhiana,Punjab,Antifungal Cream,Skin Care,OTC,5,114,NONE,0,570,0.0,570.0,Net Banking,1,Delivered,N/A,3,No
+ORD00667,2023-04-30,PharmEasy,CUST5572,New,Jaipur,Rajasthan,Zinc Supplement,Supplement,OTC,3,180,NONE,0,540,0.0,540.0,Credit Card,2,Pending,N/A,N/A,No
+ORD00668,2024-10-17,Flipkart Health,CUST4698,New,Surat,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,4,48,PHARMA5,5,192,9.6,182.4,UPI,3,Delivered,N/A,3,No
+ORD00669,2023-10-24,Flipkart Health,CUST9382,New,Delhi,Delhi,Zinc Supplement,Supplement,OTC,4,184,NONE,0,736,0.0,736.0,UPI,7,Delivered,N/A,4,Yes
+ORD00670,2023-06-26,PharmEasy,CUST1990,New,Hyderabad,Telangana,Iron Tablets,Supplement,OTC,2,82,NONE,0,164,0.0,164.0,UPI,7,Delivered,N/A,5,Yes
+ORD00671,2023-07-06,PharmEasy,CUST2408,New,Delhi,Delhi,Atorvastatin 10mg,Cholesterol,Prescription,2,148,HEALTH20,20,296,59.2,236.8,UPI,2,Returned,N/A,N/A,No
+ORD00672,2024-01-14,Apollo Pharmacy,CUST9600,New,Delhi,Delhi,Aspirin 75mg,Blood Thinner,Prescription,3,50,NONE,0,150,0.0,150.0,Net Banking,2,Delivered,N/A,3,No
+ORD00673,2023-01-05,1mg,CUST3315,New,Kolkata,West Bengal,Insulin Glargine,Diabetes,Prescription,1,854,SAVE10,10,854,85.4,768.6,UPI,2,Pending,N/A,N/A,No
+ORD00674,2024-01-20,Netmeds,CUST4921,Returning,Ludhiana,Punjab,Zinc Supplement,Supplement,OTC,4,185,PHARMA5,5,740,37.0,703.0,UPI,3,Cancelled,N/A,N/A,No
+ORD00675,2024-12-01,Apollo Pharmacy,CUST9724,Returning,Hyderabad,Telangana,Paracetamol 500mg,Pain Relief,OTC,2,24,FIRST15,15,48,7.2,40.8,UPI,5,Delivered,N/A,3,Yes
+ORD00676,2023-12-30,Flipkart Health,CUST8962,New,Chennai,Tamil Nadu,Vitamin C 500mg,Supplement,OTC,2,158,NONE,0,316,0.0,316.0,Credit Card,6,Delivered,N/A,4,Yes
+ORD00677,2024-02-24,Apollo Pharmacy,CUST9894,New,Mumbai,Maharashtra,Aspirin 75mg,Blood Thinner,Prescription,5,54,FIRST15,15,270,40.5,229.5,UPI,7,Delivered,N/A,1,No
+ORD00678,2024-07-30,PharmEasy,CUST9262,New,Jaipur,Rajasthan,Amoxicillin 500mg,Antibiotic,Prescription,2,126,NONE,0,252,0.0,252.0,Net Banking,1,Delivered,N/A,2,No
+ORD00679,2024-01-30,PharmEasy,CUST2921,Returning,Kolkata,West Bengal,Iron Tablets,Supplement,OTC,4,75,SAVE10,10,300,30.0,270.0,Cash on Delivery,2,Delivered,N/A,3,Yes
+ORD00680,2023-10-12,PharmEasy,CUST8038,New,Bangalore,Karnataka,Pantoprazole 40mg,Antacid,Prescription,3,75,HEALTH20,20,225,45.0,180.0,UPI,6,Pending,N/A,N/A,No
+ORD00681,2023-05-16,PharmEasy,CUST8745,Returning,Ahmedabad,Gujarat,Multivitamin Tablet,Supplement,OTC,2,221,FIRST15,15,442,66.3,375.7,Debit Card,7,Delivered,N/A,1,No
+ORD00682,2024-06-24,Netmeds,CUST2921,Returning,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,3,31,PHARMA5,5,93,4.65,88.35,Credit Card,7,Cancelled,N/A,N/A,No
+ORD00683,2023-10-25,PharmEasy,CUST2990,New,Surat,Gujarat,Insulin Glargine,Diabetes,Prescription,1,854,NONE,0,854,0.0,854.0,Debit Card,2,Returned,Expired Product,N/A,No
+ORD00684,2023-05-02,PharmEasy,CUST4474,New,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,1,225,NONE,0,225,0.0,225.0,Net Banking,4,Cancelled,N/A,N/A,No
+ORD00685,2024-04-01,Flipkart Health,CUST6161,New,Jaipur,Rajasthan,Cough Syrup 100ml,Cough & Cold,OTC,4,84,SAVE10,10,336,33.6,302.4,UPI,3,Pending,N/A,N/A,No
+ORD00686,2023-08-01,Netmeds,CUST3384,Returning,Chennai,Tamil Nadu,Antifungal Cream,Skin Care,OTC,5,106,NONE,0,530,0.0,530.0,Cash on Delivery,5,Delivered,N/A,1,No
+ORD00687,2023-01-26,Netmeds,CUST3253,Returning,Pune,Maharashtra,Multivitamin Tablet,Supplement,OTC,4,229,NONE,0,916,0.0,916.0,Credit Card,1,Returned,Wrong Medicine,N/A,No
+ORD00688,2023-08-10,Apollo Pharmacy,CUST5194,New,Ahmedabad,Gujarat,Montelukast 10mg,Asthma,Prescription,5,161,NONE,0,805,0.0,805.0,Debit Card,2,Cancelled,N/A,N/A,No
+ORD00689,2024-05-07,Netmeds,CUST9702,New,Surat,Gujarat,Antifungal Cream,Skin Care,OTC,2,106,FIRST15,15,212,31.8,180.2,Debit Card,4,Cancelled,N/A,N/A,No
+ORD00690,2023-10-13,PharmEasy,CUST2790,Returning,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,5,61,PHARMA5,5,305,15.25,289.75,UPI,7,Delivered,N/A,4,No
+ORD00691,2023-06-18,1mg,CUST2559,New,Mumbai,Maharashtra,Multivitamin Tablet,Supplement,OTC,4,225,NONE,0,900,0.0,900.0,Debit Card,4,Cancelled,N/A,N/A,No
+ORD00692,2023-09-08,PharmEasy,CUST1515,New,Pune,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,3,32,NONE,0,96,0.0,96.0,Cash on Delivery,4,Cancelled,N/A,N/A,No
+ORD00693,2024-08-16,Apollo Pharmacy,CUST1855,Returning,Pune,Maharashtra,Omeprazole 20mg,Antacid,OTC,1,64,NONE,0,64,0.0,64.0,Credit Card,2,Delivered,N/A,3,Yes
+ORD00694,2023-12-26,PharmEasy,CUST6866,Returning,Hyderabad,Telangana,Ondansetron 4mg,Antinausea,Prescription,5,75,PHARMA5,5,375,18.75,356.25,Debit Card,3,Delivered,N/A,3,No
+ORD00695,2023-06-19,Apollo Pharmacy,CUST2256,New,Jaipur,Rajasthan,Levocetirizine 5mg,Antiallergic,OTC,3,49,NONE,0,147,0.0,147.0,Net Banking,3,Delivered,N/A,4,No
+ORD00696,2023-01-10,Netmeds,CUST3590,Returning,Ludhiana,Punjab,Atorvastatin 10mg,Cholesterol,Prescription,2,146,NONE,0,292,0.0,292.0,UPI,5,Delivered,N/A,1,No
+ORD00697,2023-12-22,1mg,CUST2514,Returning,Hyderabad,Telangana,Insulin Glargine,Diabetes,Prescription,3,846,PHARMA5,5,2538,126.9,2411.1,Credit Card,7,Delivered,N/A,1,No
+ORD00698,2024-07-18,PharmEasy,CUST7965,New,Jaipur,Rajasthan,Dolo 650,Pain Relief,OTC,1,32,FIRST15,15,32,4.8,27.2,UPI,1,Delivered,N/A,1,Yes
+ORD00699,2024-03-16,Apollo Pharmacy,CUST8724,New,Jaipur,Rajasthan,Zinc Supplement,Supplement,OTC,3,184,NONE,0,552,0.0,552.0,Credit Card,6,Delivered,N/A,1,No
+ORD00700,2023-01-14,PharmEasy,CUST8745,Returning,Chennai,Tamil Nadu,Iron Tablets,Supplement,OTC,1,87,PHARMA5,5,87,4.35,82.65,Net Banking,2,Delivered,N/A,4,No
+ORD00701,2023-11-27,Apollo Pharmacy,CUST4342,Returning,Lucknow,Uttar Pradesh,Azithromycin 500mg,Antibiotic,Prescription,2,183,NONE,0,366,0.0,366.0,Credit Card,4,Pending,N/A,N/A,No
+ORD00702,2023-04-28,PharmEasy,CUST3399,New,Pune,Maharashtra,Ondansetron 4mg,Antinausea,Prescription,1,73,PHARMA5,5,73,3.65,69.35,Cash on Delivery,4,Returned,N/A,N/A,No
+ORD00703,2023-05-15,Netmeds,CUST7175,New,Mumbai,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,5,147,SAVE10,10,735,73.5,661.5,Net Banking,3,Delivered,N/A,1,Yes
+ORD00704,2024-09-02,1mg,CUST2419,New,Mumbai,Maharashtra,Metformin 500mg,Diabetes,Prescription,4,84,HEALTH20,20,336,67.2,268.8,Debit Card,6,Pending,N/A,N/A,No
+ORD00705,2024-09-01,Flipkart Health,CUST5586,Returning,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,1,48,SAVE10,10,48,4.8,43.2,Credit Card,2,Delivered,N/A,2,Yes
+ORD00706,2023-07-21,Apollo Pharmacy,CUST2291,New,Bangalore,Karnataka,Dolo 650,Pain Relief,OTC,4,43,NONE,0,172,0.0,172.0,Credit Card,6,Delivered,N/A,5,No
+ORD00707,2023-01-17,1mg,CUST4278,New,Bangalore,Karnataka,Insulin Glargine,Diabetes,Prescription,1,860,NONE,0,860,0.0,860.0,Debit Card,4,Delivered,N/A,4,Yes
+ORD00708,2024-01-14,Netmeds,CUST1827,Returning,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,5,70,PHARMA5,5,350,17.5,332.5,UPI,3,Cancelled,N/A,N/A,No
+ORD00709,2024-04-13,Apollo Pharmacy,CUST3222,New,Ludhiana,Punjab,Paracetamol 500mg,Pain Relief,OTC,2,24,NONE,0,48,0.0,48.0,Cash on Delivery,4,Delivered,N/A,5,Yes
+ORD00710,2023-02-16,PharmEasy,CUST1933,New,Delhi,Delhi,Amoxicillin 500mg,Antibiotic,Prescription,4,116,NONE,0,464,0.0,464.0,Net Banking,7,Delivered,N/A,1,Yes
+ORD00711,2023-01-22,1mg,CUST2444,New,Lucknow,Uttar Pradesh,Levocetirizine 5mg,Antiallergic,OTC,3,41,PHARMA5,5,123,6.15,116.85,Cash on Delivery,5,Pending,N/A,N/A,No
+ORD00712,2023-09-06,1mg,CUST7359,Returning,Hyderabad,Telangana,Insulin Glargine,Diabetes,Prescription,4,860,NONE,0,3440,0.0,3440.0,Cash on Delivery,3,Delivered,N/A,5,Yes
+ORD00713,2023-05-05,PharmEasy,CUST7453,New,Lucknow,Uttar Pradesh,Vitamin D3 1000IU,Supplement,OTC,1,203,NONE,0,203,0.0,203.0,UPI,6,Cancelled,N/A,N/A,No
+ORD00714,2024-07-16,PharmEasy,CUST4920,New,Chennai,Tamil Nadu,Ibuprofen 400mg,Pain Relief,OTC,2,42,NONE,0,84,0.0,84.0,Cash on Delivery,4,Delivered,N/A,1,No
+ORD00715,2023-03-04,PharmEasy,CUST7620,Returning,Ahmedabad,Gujarat,Montelukast 10mg,Asthma,Prescription,2,164,FIRST15,15,328,49.2,278.8,UPI,5,Cancelled,N/A,N/A,No
+ORD00716,2023-09-30,1mg,CUST9030,New,Pune,Maharashtra,Omeprazole 20mg,Antacid,OTC,2,62,PHARMA5,5,124,6.2,117.8,Net Banking,5,Pending,N/A,N/A,No
+ORD00717,2024-06-30,Netmeds,CUST4342,New,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,1,72,FIRST15,15,72,10.8,61.2,UPI,3,Pending,N/A,N/A,No
+ORD00718,2024-06-08,Netmeds,CUST7212,Returning,Pune,Maharashtra,Ibuprofen 400mg,Pain Relief,OTC,4,48,PHARMA5,5,192,9.6,182.4,Net Banking,4,Delivered,N/A,1,Yes
+ORD00719,2024-01-28,1mg,CUST8832,Returning,Ahmedabad,Gujarat,Metformin 500mg,Diabetes,Prescription,1,89,PHARMA5,5,89,4.45,84.55,Debit Card,1,Delivered,N/A,3,No
+ORD00720,2024-05-24,1mg,CUST7361,New,Bangalore,Karnataka,Vitamin D3 1000IU,Supplement,OTC,4,196,HEALTH20,20,784,156.8,627.2,Credit Card,2,Pending,N/A,N/A,No
+ORD00721,2023-05-23,Flipkart Health,CUST2931,Returning,Kolkata,West Bengal,Amoxicillin 500mg,Antibiotic,Prescription,1,123,NONE,0,123,0.0,123.0,Net Banking,1,Delivered,N/A,1,Yes
+ORD00722,2024-08-26,Netmeds,CUST9243,Returning,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,5,60,NONE,0,300,0.0,300.0,UPI,6,Delivered,N/A,5,No
+ORD00723,2023-12-21,Flipkart Health,CUST3355,Returning,Kolkata,West Bengal,Amlodipine 5mg,Blood Pressure,Prescription,1,104,PHARMA5,5,104,5.2,98.8,Credit Card,7,Delivered,N/A,3,Yes
+ORD00724,2023-05-24,1mg,CUST9202,Returning,Mumbai,Maharashtra,Aspirin 75mg,Blood Thinner,Prescription,4,58,PHARMA5,5,232,11.6,220.4,UPI,7,Cancelled,N/A,N/A,No
+ORD00725,2023-04-20,1mg,CUST9814,Returning,Ludhiana,Punjab,Hydrocortisone Cream,Skin Care,OTC,3,85,NONE,0,255,0.0,255.0,Credit Card,5,Delivered,N/A,5,No
+ORD00726,2024-07-26,1mg,CUST9203,New,Pune,Maharashtra,Montelukast 10mg,Asthma,Prescription,2,158,NONE,0,316,0.0,316.0,UPI,2,Delivered,N/A,2,Yes
+ORD00727,2023-10-02,Flipkart Health,CUST1933,Returning,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,3,219,FIRST15,15,657,98.55,558.45,Net Banking,7,Pending,N/A,N/A,No
+ORD00728,2023-09-11,1mg,CUST9118,New,Mumbai,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,5,75,HEALTH20,20,375,75.0,300.0,Cash on Delivery,1,Delivered,N/A,3,No
+ORD00729,2024-01-05,Apollo Pharmacy,CUST1584,New,Hyderabad,Telangana,Insulin Glargine,Diabetes,Prescription,5,852,NONE,0,4260,0.0,4260.0,Debit Card,2,Delivered,N/A,2,No
+ORD00730,2023-10-29,1mg,CUST7366,New,Chennai,Tamil Nadu,Azithromycin 500mg,Antibiotic,Prescription,4,186,NONE,0,744,0.0,744.0,Debit Card,5,Delivered,N/A,4,Yes
+ORD00731,2024-03-07,Apollo Pharmacy,CUST2256,Returning,Delhi,Delhi,Metformin 500mg,Diabetes,Prescription,5,83,NONE,0,415,0.0,415.0,Cash on Delivery,7,Delivered,N/A,3,No
+ORD00732,2023-09-05,Apollo Pharmacy,CUST8737,New,Bangalore,Karnataka,Amlodipine 5mg,Blood Pressure,Prescription,1,95,NONE,0,95,0.0,95.0,UPI,3,Delivered,N/A,4,Yes
+ORD00733,2024-10-15,PharmEasy,CUST2674,Returning,Kolkata,West Bengal,Cough Syrup 100ml,Cough & Cold,OTC,3,85,PHARMA5,5,255,12.75,242.25,Debit Card,3,Delivered,N/A,5,No
+ORD00734,2024-08-01,PharmEasy,CUST8797,Returning,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,2,221,NONE,0,442,0.0,442.0,Net Banking,4,Delivered,N/A,2,No
+ORD00735,2023-11-22,Apollo Pharmacy,CUST5572,New,Pune,Maharashtra,Paracetamol 500mg,Pain Relief,OTC,2,28,NONE,0,56,0.0,56.0,Cash on Delivery,1,Delivered,N/A,5,Yes
+ORD00736,2024-08-03,PharmEasy,CUST8962,Returning,Ahmedabad,Gujarat,Iron Tablets,Supplement,OTC,2,88,HEALTH20,20,176,35.2,140.8,Credit Card,1,Delivered,N/A,4,No
+ORD00737,2023-04-30,Flipkart Health,CUST8694,New,Hyderabad,Telangana,Ondansetron 4mg,Antinausea,Prescription,2,76,FIRST15,15,152,22.8,129.2,Credit Card,6,Delivered,N/A,1,Yes
+ORD00738,2023-07-29,Flipkart Health,CUST4098,Returning,Pune,Maharashtra,Antifungal Cream,Skin Care,OTC,3,117,FIRST15,15,351,52.65,298.35,Debit Card,2,Cancelled,N/A,N/A,No
+ORD00739,2023-02-02,1mg,CUST8861,Returning,Chennai,Tamil Nadu,Dolo 650,Pain Relief,OTC,1,42,SAVE10,10,42,4.2,37.8,Cash on Delivery,5,Delivered,N/A,3,Yes
+ORD00740,2023-01-24,Flipkart Health,CUST8970,New,Lucknow,Uttar Pradesh,Cetirizine 10mg,Antiallergic,OTC,2,37,SAVE10,10,74,7.4,66.6,Cash on Delivery,6,Delivered,N/A,1,Yes
+ORD00741,2024-05-29,Netmeds,CUST8891,Returning,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,2,74,NONE,0,148,0.0,148.0,Debit Card,6,Delivered,N/A,3,Yes
+ORD00742,2023-02-10,Apollo Pharmacy,CUST6267,Returning,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,2,228,PHARMA5,5,456,22.8,433.2,UPI,4,Pending,N/A,N/A,No
+ORD00743,2023-04-18,1mg,CUST7865,Returning,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,5,69,FIRST15,15,345,51.75,293.25,Debit Card,1,Delivered,N/A,1,No
+ORD00744,2023-05-23,Netmeds,CUST5572,New,Mumbai,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,1,74,NONE,0,74,0.0,74.0,UPI,3,Delivered,N/A,2,No
+ORD00745,2024-06-22,1mg,CUST8725,New,Jaipur,Rajasthan,Pantoprazole 40mg,Antacid,Prescription,4,67,NONE,0,268,0.0,268.0,Debit Card,1,Delivered,N/A,5,No
+ORD00746,2023-03-03,1mg,CUST8146,New,Ludhiana,Punjab,Insulin Glargine,Diabetes,Prescription,1,860,FIRST15,15,860,129.0,731.0,UPI,6,Cancelled,N/A,N/A,No
+ORD00747,2023-09-16,PharmEasy,CUST2438,New,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,4,60,PHARMA5,5,240,12.0,228.0,UPI,7,Cancelled,N/A,N/A,No
+ORD00748,2024-07-15,Apollo Pharmacy,CUST9202,New,Ahmedabad,Gujarat,Nasal Spray,Cough & Cold,OTC,2,126,PHARMA5,5,252,12.6,239.4,UPI,6,Delivered,N/A,5,No
+ORD00749,2023-08-26,1mg,CUST4920,Returning,Hyderabad,Telangana,Vitamin C 500mg,Supplement,OTC,4,155,SAVE10,10,620,62.0,558.0,Credit Card,7,Delivered,N/A,3,Yes
+ORD00750,2024-07-13,Apollo Pharmacy,CUST4921,New,Pune,Maharashtra,Iron Tablets,Supplement,OTC,3,77,NONE,0,231,0.0,231.0,Debit Card,4,Delivered,N/A,3,No
+ORD00751,2023-05-19,PharmEasy,CUST6837,New,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,2,79,SAVE10,10,158,15.8,142.2,UPI,5,Delivered,N/A,2,No
+ORD00752,2023-07-02,Apollo Pharmacy,CUST7865,New,Surat,Gujarat,Cetirizine 10mg,Antiallergic,OTC,2,29,NONE,0,58,0.0,58.0,UPI,7,Delivered,N/A,5,No
+ORD00753,2024-09-03,1mg,CUST8214,New,Hyderabad,Telangana,Pantoprazole 40mg,Antacid,Prescription,3,71,NONE,0,213,0.0,213.0,Cash on Delivery,5,Delivered,N/A,4,No
+ORD00754,2024-07-21,1mg,CUST1784,New,Surat,Gujarat,Dolo 650,Pain Relief,OTC,5,43,NONE,0,215,0.0,215.0,Debit Card,2,Delivered,N/A,3,No
+ORD00755,2023-01-18,PharmEasy,CUST9724,New,Pune,Maharashtra,Antifungal Cream,Skin Care,OTC,5,115,FIRST15,15,575,86.25,488.75,Debit Card,5,Delivered,N/A,4,No
+ORD00756,2023-09-03,Netmeds,CUST3315,Returning,Bangalore,Karnataka,Multivitamin Tablet,Supplement,OTC,1,218,NONE,0,218,0.0,218.0,Debit Card,5,Pending,N/A,N/A,No
+ORD00757,2023-11-13,PharmEasy,CUST1209,Returning,Ludhiana,Punjab,Nasal Spray,Cough & Cold,OTC,1,131,NONE,0,131,0.0,131.0,Credit Card,1,Delivered,N/A,5,Yes
+ORD00758,2023-04-02,Netmeds,CUST9216,Returning,Chennai,Tamil Nadu,Cough Syrup 100ml,Cough & Cold,OTC,4,79,NONE,0,316,0.0,316.0,UPI,5,Delivered,N/A,1,Yes
+ORD00759,2023-10-26,PharmEasy,CUST4164,Returning,Ahmedabad,Gujarat,Insulin Glargine,Diabetes,Prescription,5,847,NONE,0,4235,0.0,4235.0,Credit Card,5,Delivered,N/A,1,Yes
+ORD00760,2023-06-03,1mg,CUST3384,New,Hyderabad,Telangana,Antifungal Cream,Skin Care,OTC,2,112,FIRST15,15,224,33.6,190.4,Debit Card,6,Delivered,N/A,5,No
+ORD00761,2023-11-21,Netmeds,CUST2256,New,Ludhiana,Punjab,Vitamin C 500mg,Supplement,OTC,1,158,FIRST15,15,158,23.7,134.3,Net Banking,5,Delivered,N/A,2,Yes
+ORD00762,2023-02-05,PharmEasy,CUST4342,New,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,4,60,NONE,0,240,0.0,240.0,Debit Card,1,Pending,N/A,N/A,No
+ORD00763,2024-09-28,PharmEasy,CUST1334,New,Ahmedabad,Gujarat,Iron Tablets,Supplement,OTC,1,88,FIRST15,15,88,13.2,74.8,UPI,5,Pending,N/A,N/A,No
+ORD00764,2024-06-05,PharmEasy,CUST5922,Returning,Surat,Gujarat,Cetirizine 10mg,Antiallergic,OTC,3,30,PHARMA5,5,90,4.5,85.5,UPI,1,Returned,Damaged Package,N/A,No
+ORD00765,2023-01-15,Flipkart Health,CUST7837,New,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,2,35,SAVE10,10,70,7.0,63.0,Cash on Delivery,6,Delivered,N/A,3,Yes
+ORD00766,2024-03-10,1mg,CUST7323,New,Surat,Gujarat,Zinc Supplement,Supplement,OTC,1,177,SAVE10,10,177,17.7,159.3,Net Banking,4,Delivered,N/A,5,Yes
+ORD00767,2024-04-03,Apollo Pharmacy,CUST1411,Returning,Hyderabad,Telangana,Ondansetron 4mg,Antinausea,Prescription,4,80,NONE,0,320,0.0,320.0,Debit Card,6,Cancelled,N/A,N/A,No
+ORD00768,2023-07-19,Netmeds,CUST9826,New,Lucknow,Uttar Pradesh,Vitamin C 500mg,Supplement,OTC,1,154,PHARMA5,5,154,7.7,146.3,Net Banking,6,Delivered,N/A,2,No
+ORD00769,2023-02-04,Apollo Pharmacy,CUST8077,New,Lucknow,Uttar Pradesh,Antifungal Cream,Skin Care,OTC,2,117,HEALTH20,20,234,46.8,187.2,UPI,6,Delivered,N/A,3,No
+ORD00770,2023-04-10,Apollo Pharmacy,CUST4823,Returning,Ahmedabad,Gujarat,Pantoprazole 40mg,Antacid,Prescription,3,69,PHARMA5,5,207,10.35,196.65,Credit Card,6,Delivered,N/A,3,Yes
+ORD00771,2023-08-20,Flipkart Health,CUST5817,Returning,Surat,Gujarat,Zinc Supplement,Supplement,OTC,5,185,HEALTH20,20,925,185.0,740.0,Credit Card,2,Pending,N/A,N/A,No
+ORD00772,2024-08-26,PharmEasy,CUST2744,Returning,Mumbai,Maharashtra,Antifungal Cream,Skin Care,OTC,3,119,NONE,0,357,0.0,357.0,Cash on Delivery,2,Delivered,N/A,5,No
+ORD00773,2023-02-24,Apollo Pharmacy,CUST2019,Returning,Chennai,Tamil Nadu,Multivitamin Tablet,Supplement,OTC,5,226,HEALTH20,20,1130,226.0,904.0,Debit Card,1,Returned,Expired Product,N/A,No
+ORD00774,2023-03-05,PharmEasy,CUST3709,Returning,Bangalore,Karnataka,Cough Syrup 100ml,Cough & Cold,OTC,4,84,NONE,0,336,0.0,336.0,Credit Card,6,Cancelled,N/A,N/A,No
+ORD00775,2024-09-25,PharmEasy,CUST2411,Returning,Lucknow,Uttar Pradesh,Cetirizine 10mg,Antiallergic,OTC,1,37,PHARMA5,5,37,1.85,35.15,Credit Card,2,Delivered,N/A,3,Yes
+ORD00776,2023-03-01,Apollo Pharmacy,CUST3315,New,Kolkata,West Bengal,Ibuprofen 400mg,Pain Relief,OTC,5,51,HEALTH20,20,255,51.0,204.0,Net Banking,7,Delivered,N/A,5,Yes
+ORD00777,2023-02-12,Apollo Pharmacy,CUST5278,New,Chennai,Tamil Nadu,Iron Tablets,Supplement,OTC,5,82,NONE,0,410,0.0,410.0,Net Banking,6,Pending,N/A,N/A,No
+ORD00778,2023-03-05,Apollo Pharmacy,CUST7175,New,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,3,130,HEALTH20,20,390,78.0,312.0,Credit Card,5,Delivered,N/A,3,Yes
+ORD00779,2024-06-08,1mg,CUST4111,Returning,Kolkata,West Bengal,Azithromycin 500mg,Antibiotic,Prescription,2,188,HEALTH20,20,376,75.2,300.8,Cash on Delivery,4,Delivered,N/A,2,No
+ORD00780,2024-03-09,1mg,CUST2361,New,Chennai,Tamil Nadu,Nasal Spray,Cough & Cold,OTC,5,129,NONE,0,645,0.0,645.0,Debit Card,5,Delivered,N/A,5,Yes
+ORD00781,2023-01-11,Flipkart Health,CUST7212,Returning,Hyderabad,Telangana,Omeprazole 20mg,Antacid,OTC,5,51,NONE,0,255,0.0,255.0,Net Banking,2,Pending,N/A,N/A,No
+ORD00782,2023-01-11,Apollo Pharmacy,CUST2019,Returning,Mumbai,Maharashtra,Montelukast 10mg,Asthma,Prescription,3,170,NONE,0,510,0.0,510.0,Debit Card,6,Returned,N/A,N/A,No
+ORD00783,2023-04-09,Flipkart Health,CUST1933,Returning,Mumbai,Maharashtra,Paracetamol 500mg,Pain Relief,OTC,3,31,PHARMA5,5,93,4.65,88.35,Credit Card,4,Returned,Damaged Package,N/A,No
+ORD00784,2024-07-11,1mg,CUST4468,Returning,Hyderabad,Telangana,Multivitamin Tablet,Supplement,OTC,2,229,FIRST15,15,458,68.7,389.3,Debit Card,6,Delivered,N/A,5,No
+ORD00785,2024-04-21,1mg,CUST3922,Returning,Bangalore,Karnataka,Amlodipine 5mg,Blood Pressure,Prescription,5,96,NONE,0,480,0.0,480.0,Net Banking,6,Delivered,N/A,5,Yes
+ORD00786,2023-02-25,Flipkart Health,CUST8556,New,Ludhiana,Punjab,Cetirizine 10mg,Antiallergic,OTC,1,28,NONE,0,28,0.0,28.0,UPI,6,Delivered,N/A,2,Yes
+ORD00787,2023-01-31,1mg,CUST7799,New,Chennai,Tamil Nadu,Cetirizine 10mg,Antiallergic,OTC,3,29,NONE,0,87,0.0,87.0,Debit Card,4,Delivered,N/A,1,No
+ORD00788,2024-03-06,Netmeds,CUST9748,Returning,Pune,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,5,50,SAVE10,10,250,25.0,225.0,Cash on Delivery,3,Returned,Damaged Package,N/A,No
+ORD00789,2024-09-03,1mg,CUST7359,New,Chennai,Tamil Nadu,Antifungal Cream,Skin Care,OTC,3,118,PHARMA5,5,354,17.7,336.3,Net Banking,1,Delivered,N/A,3,No
+ORD00790,2024-10-11,Netmeds,CUST1738,New,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,5,50,NONE,0,250,0.0,250.0,Net Banking,2,Delivered,N/A,4,Yes
+ORD00791,2024-02-07,Flipkart Health,CUST8286,Returning,Pune,Maharashtra,Metformin 500mg,Diabetes,Prescription,1,81,NONE,0,81,0.0,81.0,Credit Card,6,Delivered,N/A,3,Yes
+ORD00792,2023-08-28,Flipkart Health,CUST4896,New,Lucknow,Uttar Pradesh,Vitamin C 500mg,Supplement,OTC,3,153,NONE,0,459,0.0,459.0,UPI,6,Pending,N/A,N/A,No
+ORD00793,2024-09-18,Apollo Pharmacy,CUST6431,New,Kolkata,West Bengal,Omeprazole 20mg,Antacid,OTC,5,52,SAVE10,10,260,26.0,234.0,Credit Card,6,Delivered,N/A,1,Yes
+ORD00794,2024-01-29,Flipkart Health,CUST3711,New,Kolkata,West Bengal,Nasal Spray,Cough & Cold,OTC,1,127,SAVE10,10,127,12.7,114.3,Net Banking,6,Delivered,N/A,5,Yes
+ORD00795,2024-05-17,Flipkart Health,CUST9070,Returning,Kolkata,West Bengal,Cough Syrup 100ml,Cough & Cold,OTC,4,85,FIRST15,15,340,51.0,289.0,Cash on Delivery,3,Delivered,N/A,1,Yes
+ORD00796,2024-08-05,1mg,CUST3383,Returning,Jaipur,Rajasthan,Montelukast 10mg,Asthma,Prescription,4,170,NONE,0,680,0.0,680.0,UPI,2,Delivered,N/A,3,Yes
+ORD00797,2023-10-12,Apollo Pharmacy,CUST5284,New,Ludhiana,Punjab,Nasal Spray,Cough & Cold,OTC,4,137,NONE,0,548,0.0,548.0,Credit Card,7,Delivered,N/A,4,Yes
+ORD00798,2023-07-05,PharmEasy,CUST7114,Returning,Bangalore,Karnataka,Omeprazole 20mg,Antacid,OTC,5,52,NONE,0,260,0.0,260.0,UPI,2,Cancelled,N/A,N/A,No
+ORD00799,2023-09-02,Flipkart Health,CUST4178,New,Lucknow,Uttar Pradesh,Multivitamin Tablet,Supplement,OTC,2,217,PHARMA5,5,434,21.7,412.3,Debit Card,2,Pending,N/A,N/A,No
+ORD00800,2023-04-05,1mg,CUST2444,Returning,Hyderabad,Telangana,Ibuprofen 400mg,Pain Relief,OTC,3,51,NONE,0,153,0.0,153.0,Net Banking,1,Delivered,N/A,5,No
+ORD00801,2023-05-23,PharmEasy,CUST2299,New,Pune,Maharashtra,Hydrocortisone Cream,Skin Care,OTC,4,100,PHARMA5,5,400,20.0,380.0,Credit Card,3,Delivered,N/A,1,Yes
+ORD00802,2023-05-20,Flipkart Health,CUST9074,Returning,Kolkata,West Bengal,Nasal Spray,Cough & Cold,OTC,2,125,NONE,0,250,0.0,250.0,Credit Card,3,Delivered,N/A,5,No
+ORD00803,2024-03-20,Netmeds,CUST3074,New,Ahmedabad,Gujarat,Omeprazole 20mg,Antacid,OTC,2,51,NONE,0,102,0.0,102.0,Credit Card,1,Delivered,N/A,3,Yes
+ORD00804,2024-03-07,1mg,CUST5340,Returning,Hyderabad,Telangana,Hydrocortisone Cream,Skin Care,OTC,5,94,PHARMA5,5,470,23.5,446.5,UPI,7,Delivered,N/A,2,No
+ORD00805,2024-05-28,Netmeds,CUST4475,Returning,Ludhiana,Punjab,Aspirin 75mg,Blood Thinner,Prescription,5,55,NONE,0,275,0.0,275.0,Cash on Delivery,7,Delivered,N/A,4,No
+ORD00806,2023-03-28,Flipkart Health,CUST1308,Returning,Kolkata,West Bengal,Levocetirizine 5mg,Antiallergic,OTC,3,44,PHARMA5,5,132,6.6,125.4,Cash on Delivery,1,Pending,N/A,N/A,No
+ORD00807,2024-10-21,Netmeds,CUST6319,New,Kolkata,West Bengal,Paracetamol 500mg,Pain Relief,OTC,2,25,NONE,0,50,0.0,50.0,Net Banking,3,Delivered,N/A,3,No
+ORD00808,2024-10-12,Flipkart Health,CUST8186,Returning,Bangalore,Karnataka,Hydrocortisone Cream,Skin Care,OTC,4,96,NONE,0,384,0.0,384.0,Credit Card,4,Delivered,N/A,1,No
+ORD00809,2024-03-21,Flipkart Health,CUST1411,Returning,Delhi,Delhi,Metformin 500mg,Diabetes,Prescription,3,91,NONE,0,273,0.0,273.0,UPI,3,Delivered,N/A,2,Yes
+ORD00810,2024-02-13,1mg,CUST8370,New,Kolkata,West Bengal,Amlodipine 5mg,Blood Pressure,Prescription,4,94,NONE,0,376,0.0,376.0,Credit Card,1,Returned,Wrong Medicine,N/A,No
+ORD00811,2024-05-06,Netmeds,CUST7032,New,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,1,26,PHARMA5,5,26,1.3,24.7,Cash on Delivery,1,Cancelled,N/A,N/A,No
+ORD00812,2024-10-31,PharmEasy,CUST3266,New,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,1,75,PHARMA5,5,75,3.75,71.25,UPI,4,Delivered,N/A,1,No
+ORD00813,2024-05-09,1mg,CUST8170,Returning,Ahmedabad,Gujarat,Montelukast 10mg,Asthma,Prescription,5,167,HEALTH20,20,835,167.0,668.0,UPI,5,Delivered,N/A,3,Yes
+ORD00814,2023-11-04,Flipkart Health,CUST8797,New,Surat,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,5,78,NONE,0,390,0.0,390.0,Debit Card,4,Delivered,N/A,5,No
+ORD00815,2023-10-16,PharmEasy,CUST8186,New,Chennai,Tamil Nadu,Azithromycin 500mg,Antibiotic,Prescription,5,184,PHARMA5,5,920,46.0,874.0,Net Banking,5,Delivered,N/A,2,No
+ORD00816,2024-11-26,Apollo Pharmacy,CUST2885,New,Jaipur,Rajasthan,Atorvastatin 10mg,Cholesterol,Prescription,4,144,NONE,0,576,0.0,576.0,UPI,3,Delivered,N/A,1,No
+ORD00817,2024-07-20,PharmEasy,CUST7584,Returning,Kolkata,West Bengal,Nasal Spray,Cough & Cold,OTC,2,138,NONE,0,276,0.0,276.0,Net Banking,1,Delivered,N/A,1,No
+ORD00818,2023-06-24,PharmEasy,CUST1411,New,Delhi,Delhi,Multivitamin Tablet,Supplement,OTC,1,218,NONE,0,218,0.0,218.0,Net Banking,7,Delivered,N/A,2,Yes
+ORD00819,2023-11-04,Apollo Pharmacy,CUST7366,Returning,Kolkata,West Bengal,Dolo 650,Pain Relief,OTC,3,30,NONE,0,90,0.0,90.0,Debit Card,5,Delivered,N/A,4,Yes
+ORD00820,2024-03-18,Flipkart Health,CUST2113,New,Jaipur,Rajasthan,Amoxicillin 500mg,Antibiotic,Prescription,1,124,NONE,0,124,0.0,124.0,Credit Card,7,Pending,N/A,N/A,No
+ORD00821,2024-06-27,Apollo Pharmacy,CUST6416,New,Ahmedabad,Gujarat,Amlodipine 5mg,Blood Pressure,Prescription,4,97,NONE,0,388,0.0,388.0,Debit Card,4,Delivered,N/A,4,No
+ORD00822,2023-07-02,1mg,CUST5493,Returning,Ahmedabad,Gujarat,Pantoprazole 40mg,Antacid,Prescription,1,73,NONE,0,73,0.0,73.0,UPI,2,Delivered,N/A,4,Yes
+ORD00823,2024-05-03,Netmeds,CUST9020,New,Ludhiana,Punjab,Pantoprazole 40mg,Antacid,Prescription,4,73,SAVE10,10,292,29.2,262.8,Debit Card,6,Delivered,N/A,2,Yes
+ORD00824,2024-10-25,PharmEasy,CUST2299,New,Bangalore,Karnataka,Zinc Supplement,Supplement,OTC,1,171,NONE,0,171,0.0,171.0,Net Banking,2,Cancelled,N/A,N/A,No
+ORD00825,2023-02-25,Apollo Pharmacy,CUST9123,Returning,Bangalore,Karnataka,Vitamin C 500mg,Supplement,OTC,4,152,NONE,0,608,0.0,608.0,Net Banking,7,Delivered,N/A,2,Yes
+ORD00826,2024-09-05,Apollo Pharmacy,CUST9375,Returning,Pune,Maharashtra,Cough Syrup 100ml,Cough & Cold,OTC,4,70,PHARMA5,5,280,14.0,266.0,Cash on Delivery,7,Cancelled,N/A,N/A,No
+ORD00827,2023-09-20,Netmeds,CUST3376,Returning,Ahmedabad,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,5,84,SAVE10,10,420,42.0,378.0,Credit Card,6,Delivered,N/A,3,Yes
+ORD00828,2023-06-14,PharmEasy,CUST4134,New,Hyderabad,Telangana,Cough Syrup 100ml,Cough & Cold,OTC,5,70,HEALTH20,20,350,70.0,280.0,Cash on Delivery,7,Cancelled,N/A,N/A,No
+ORD00829,2024-09-03,Flipkart Health,CUST9678,Returning,Jaipur,Rajasthan,Amoxicillin 500mg,Antibiotic,Prescription,1,126,FIRST15,15,126,18.9,107.1,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00830,2023-01-28,Apollo Pharmacy,CUST8077,Returning,Delhi,Delhi,Montelukast 10mg,Asthma,Prescription,2,157,HEALTH20,20,314,62.8,251.2,Cash on Delivery,2,Delivered,N/A,5,Yes
+ORD00831,2023-03-07,PharmEasy,CUST9699,New,Mumbai,Maharashtra,Ibuprofen 400mg,Pain Relief,OTC,5,44,SAVE10,10,220,22.0,198.0,Debit Card,1,Delivered,N/A,1,Yes
+ORD00832,2023-06-08,Netmeds,CUST1134,New,Delhi,Delhi,Hydrocortisone Cream,Skin Care,OTC,4,93,NONE,0,372,0.0,372.0,Cash on Delivery,3,Delivered,N/A,3,No
+ORD00833,2023-02-19,Flipkart Health,CUST6828,Returning,Surat,Gujarat,Levocetirizine 5mg,Antiallergic,OTC,3,49,SAVE10,10,147,14.7,132.3,Cash on Delivery,6,Delivered,N/A,5,Yes
+ORD00834,2024-07-14,1mg,CUST8891,New,Lucknow,Uttar Pradesh,Ondansetron 4mg,Antinausea,Prescription,5,67,SAVE10,10,335,33.5,301.5,Credit Card,6,Delivered,N/A,2,Yes
+ORD00835,2023-06-25,Netmeds,CUST6890,New,Hyderabad,Telangana,Amlodipine 5mg,Blood Pressure,Prescription,4,103,HEALTH20,20,412,82.4,329.6,UPI,5,Delivered,N/A,1,No
+ORD00836,2024-08-25,Netmeds,CUST5791,Returning,Ludhiana,Punjab,Omeprazole 20mg,Antacid,OTC,5,65,FIRST15,15,325,48.75,276.25,UPI,5,Delivered,N/A,4,Yes
+ORD00837,2023-10-01,Apollo Pharmacy,CUST4098,Returning,Delhi,Delhi,Amlodipine 5mg,Blood Pressure,Prescription,3,104,SAVE10,10,312,31.2,280.8,Cash on Delivery,3,Delivered,N/A,3,No
+ORD00838,2023-10-18,Netmeds,CUST2444,Returning,Pune,Maharashtra,Pantoprazole 40mg,Antacid,Prescription,5,74,HEALTH20,20,370,74.0,296.0,Net Banking,4,Delivered,N/A,3,Yes
+ORD00839,2023-11-06,Flipkart Health,CUST8745,Returning,Chennai,Tamil Nadu,Zinc Supplement,Supplement,OTC,1,174,SAVE10,10,174,17.4,156.6,Credit Card,7,Delivered,N/A,5,No
+ORD00840,2023-09-03,PharmEasy,CUST6416,New,Surat,Gujarat,Vitamin D3 1000IU,Supplement,OTC,5,201,PHARMA5,5,1005,50.25,954.75,Cash on Delivery,6,Cancelled,N/A,N/A,No
+ORD00841,2023-05-24,Netmeds,CUST2411,Returning,Bangalore,Karnataka,Aspirin 75mg,Blood Thinner,Prescription,2,49,NONE,0,98,0.0,98.0,Credit Card,2,Delivered,N/A,5,No
+ORD00842,2023-02-05,Flipkart Health,CUST5165,Returning,Surat,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,2,55,NONE,0,110,0.0,110.0,Debit Card,2,Delivered,N/A,1,Yes
+ORD00843,2023-09-19,PharmEasy,CUST8370,New,Ludhiana,Punjab,Paracetamol 500mg,Pain Relief,OTC,3,32,NONE,0,96,0.0,96.0,Net Banking,5,Returned,Wrong Medicine,N/A,No
+ORD00844,2024-03-02,1mg,CUST2689,Returning,Hyderabad,Telangana,Amlodipine 5mg,Blood Pressure,Prescription,3,95,SAVE10,10,285,28.5,256.5,UPI,1,Cancelled,N/A,N/A,No
+ORD00845,2023-12-15,Apollo Pharmacy,CUST8680,New,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,5,128,NONE,0,640,0.0,640.0,UPI,3,Delivered,N/A,4,No
+ORD00846,2023-05-27,Flipkart Health,CUST9296,Returning,Delhi,Delhi,Montelukast 10mg,Asthma,Prescription,5,160,SAVE10,10,800,80.0,720.0,Cash on Delivery,7,Delivered,N/A,3,No
+ORD00847,2024-04-17,Flipkart Health,CUST2504,Returning,Lucknow,Uttar Pradesh,Atorvastatin 10mg,Cholesterol,Prescription,2,140,NONE,0,280,0.0,280.0,Cash on Delivery,4,Delivered,N/A,4,No
+ORD00848,2023-10-12,Netmeds,CUST8042,Returning,Bangalore,Karnataka,Amoxicillin 500mg,Antibiotic,Prescription,2,117,SAVE10,10,234,23.4,210.6,UPI,4,Delivered,N/A,2,Yes
+ORD00849,2023-07-22,Netmeds,CUST3711,New,Mumbai,Maharashtra,Nasal Spray,Cough & Cold,OTC,3,136,HEALTH20,20,408,81.6,326.4,Cash on Delivery,3,Delivered,N/A,3,Yes
+ORD00850,2024-05-23,Apollo Pharmacy,CUST9448,New,Ludhiana,Punjab,Vitamin D3 1000IU,Supplement,OTC,2,200,NONE,0,400,0.0,400.0,Net Banking,3,Delivered,N/A,5,Yes
+ORD00851,2023-08-18,PharmEasy,CUST9020,New,Hyderabad,Telangana,Ondansetron 4mg,Antinausea,Prescription,3,74,PHARMA5,5,222,11.1,210.9,Debit Card,2,Delivered,N/A,5,Yes
+ORD00852,2024-07-15,Flipkart Health,CUST1011,Returning,Surat,Gujarat,Ondansetron 4mg,Antinausea,Prescription,3,74,NONE,0,222,0.0,222.0,Net Banking,5,Delivered,N/A,5,No
+ORD00853,2023-12-21,Flipkart Health,CUST2635,Returning,Chennai,Tamil Nadu,Atorvastatin 10mg,Cholesterol,Prescription,1,143,SAVE10,10,143,14.3,128.7,Net Banking,5,Delivered,N/A,3,Yes
+ORD00854,2024-01-06,Apollo Pharmacy,CUST6431,Returning,Bangalore,Karnataka,Multivitamin Tablet,Supplement,OTC,5,228,HEALTH20,20,1140,228.0,912.0,UPI,5,Pending,N/A,N/A,No
+ORD00855,2023-04-17,Apollo Pharmacy,CUST4698,New,Lucknow,Uttar Pradesh,Zinc Supplement,Supplement,OTC,2,171,PHARMA5,5,342,17.1,324.9,Credit Card,3,Delivered,N/A,1,No
+ORD00856,2023-06-11,PharmEasy,CUST2635,New,Kolkata,West Bengal,Omeprazole 20mg,Antacid,OTC,2,58,NONE,0,116,0.0,116.0,UPI,1,Pending,N/A,N/A,No
+ORD00857,2023-10-20,Netmeds,CUST3443,New,Ahmedabad,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,1,51,NONE,0,51,0.0,51.0,Cash on Delivery,2,Delivered,N/A,1,No
+ORD00858,2023-04-10,PharmEasy,CUST4475,Returning,Lucknow,Uttar Pradesh,Hydrocortisone Cream,Skin Care,OTC,5,86,PHARMA5,5,430,21.5,408.5,Net Banking,2,Cancelled,N/A,N/A,No
+ORD00859,2024-01-03,PharmEasy,CUST2931,New,Chennai,Tamil Nadu,Zinc Supplement,Supplement,OTC,5,182,NONE,0,910,0.0,910.0,Cash on Delivery,5,Delivered,N/A,2,Yes
+ORD00860,2024-10-06,Flipkart Health,CUST9145,New,Ahmedabad,Gujarat,Paracetamol 500mg,Pain Relief,OTC,5,31,NONE,0,155,0.0,155.0,Cash on Delivery,2,Delivered,N/A,2,No
+ORD00861,2023-03-03,Netmeds,CUST4475,New,Jaipur,Rajasthan,Amlodipine 5mg,Blood Pressure,Prescription,3,93,HEALTH20,20,279,55.8,223.2,Credit Card,4,Pending,N/A,N/A,No
+ORD00862,2023-10-21,PharmEasy,CUST9748,New,Ludhiana,Punjab,Antifungal Cream,Skin Care,OTC,1,118,NONE,0,118,0.0,118.0,Debit Card,1,Delivered,N/A,1,Yes
+ORD00863,2024-11-21,Netmeds,CUST1039,Returning,Jaipur,Rajasthan,Paracetamol 500mg,Pain Relief,OTC,2,21,NONE,0,42,0.0,42.0,UPI,5,Cancelled,N/A,N/A,No
+ORD00864,2024-04-27,Netmeds,CUST9009,New,Chennai,Tamil Nadu,Atorvastatin 10mg,Cholesterol,Prescription,2,142,HEALTH20,20,284,56.8,227.2,UPI,7,Pending,N/A,N/A,No
+ORD00865,2024-03-17,Netmeds,CUST4475,New,Kolkata,West Bengal,Levocetirizine 5mg,Antiallergic,OTC,3,35,NONE,0,105,0.0,105.0,Credit Card,4,Pending,N/A,N/A,No
+ORD00866,2024-07-14,Apollo Pharmacy,CUST2795,New,Chennai,Tamil Nadu,Zinc Supplement,Supplement,OTC,2,174,PHARMA5,5,348,17.4,330.6,UPI,6,Pending,N/A,N/A,No
+ORD00867,2023-05-11,1mg,CUST7596,New,Surat,Gujarat,Pantoprazole 40mg,Antacid,Prescription,5,72,HEALTH20,20,360,72.0,288.0,Cash on Delivery,4,Delivered,N/A,1,Yes
+ORD00868,2023-09-23,PharmEasy,CUST9257,Returning,Lucknow,Uttar Pradesh,Omeprazole 20mg,Antacid,OTC,4,54,SAVE10,10,216,21.6,194.4,Credit Card,3,Delivered,N/A,5,No
+ORD00869,2023-12-08,1mg,CUST7453,Returning,Jaipur,Rajasthan,Nasal Spray,Cough & Cold,OTC,2,139,NONE,0,278,0.0,278.0,Cash on Delivery,3,Delivered,N/A,1,Yes
+ORD00870,2023-08-13,Flipkart Health,CUST7799,New,Ludhiana,Punjab,Dolo 650,Pain Relief,OTC,5,30,NONE,0,150,0.0,150.0,Net Banking,4,Pending,N/A,N/A,No
+ORD00871,2024-07-16,1mg,CUST2777,New,Jaipur,Rajasthan,Amoxicillin 500mg,Antibiotic,Prescription,4,119,NONE,0,476,0.0,476.0,Net Banking,4,Delivered,N/A,2,No
+ORD00872,2024-11-29,Netmeds,CUST7158,New,Kolkata,West Bengal,Pantoprazole 40mg,Antacid,Prescription,4,66,NONE,0,264,0.0,264.0,Debit Card,2,Delivered,N/A,5,No
+ORD00873,2024-08-16,PharmEasy,CUST9894,Returning,Surat,Gujarat,Pantoprazole 40mg,Antacid,Prescription,1,60,HEALTH20,20,60,12.0,48.0,Net Banking,5,Delivered,N/A,2,No
+ORD00874,2024-05-13,Apollo Pharmacy,CUST4921,New,Lucknow,Uttar Pradesh,Insulin Glargine,Diabetes,Prescription,2,849,NONE,0,1698,0.0,1698.0,Net Banking,6,Returned,N/A,N/A,No
+ORD00875,2024-05-13,Apollo Pharmacy,CUST2689,Returning,Mumbai,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,5,49,NONE,0,245,0.0,245.0,UPI,7,Pending,N/A,N/A,No
+ORD00876,2023-12-05,PharmEasy,CUST4342,Returning,Ludhiana,Punjab,Atorvastatin 10mg,Cholesterol,Prescription,5,137,FIRST15,15,685,102.75,582.25,UPI,6,Delivered,N/A,2,Yes
+ORD00877,2024-06-18,Netmeds,CUST4940,New,Pune,Maharashtra,Metformin 500mg,Diabetes,Prescription,2,89,NONE,0,178,0.0,178.0,Cash on Delivery,4,Delivered,N/A,4,No
+ORD00878,2023-10-01,PharmEasy,CUST5165,New,Lucknow,Uttar Pradesh,Paracetamol 500mg,Pain Relief,OTC,2,26,SAVE10,10,52,5.2,46.8,Credit Card,6,Delivered,N/A,3,No
+ORD00879,2024-03-05,Flipkart Health,CUST2688,Returning,Chennai,Tamil Nadu,Aspirin 75mg,Blood Thinner,Prescription,5,59,SAVE10,10,295,29.5,265.5,Net Banking,7,Cancelled,N/A,N/A,No
+ORD00880,2024-08-03,PharmEasy,CUST9311,Returning,Surat,Gujarat,Zinc Supplement,Supplement,OTC,4,174,SAVE10,10,696,69.6,626.4,Cash on Delivery,3,Delivered,N/A,1,No
+ORD00881,2023-07-02,1mg,CUST2299,Returning,Jaipur,Rajasthan,Cough Syrup 100ml,Cough & Cold,OTC,4,85,HEALTH20,20,340,68.0,272.0,UPI,3,Pending,N/A,N/A,No
+ORD00882,2024-10-21,Flipkart Health,CUST8724,Returning,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,2,56,SAVE10,10,112,11.2,100.8,Debit Card,3,Delivered,N/A,1,No
+ORD00883,2024-03-09,PharmEasy,CUST9375,New,Ludhiana,Punjab,Pantoprazole 40mg,Antacid,Prescription,1,68,NONE,0,68,0.0,68.0,UPI,4,Delivered,N/A,3,Yes
+ORD00884,2023-09-26,PharmEasy,CUST2113,New,Kolkata,West Bengal,Amoxicillin 500mg,Antibiotic,Prescription,2,123,NONE,0,246,0.0,246.0,Cash on Delivery,1,Delivered,N/A,2,No
+ORD00885,2023-09-29,1mg,CUST9243,New,Pune,Maharashtra,Atorvastatin 10mg,Cholesterol,Prescription,3,140,NONE,0,420,0.0,420.0,Credit Card,4,Pending,N/A,N/A,No
+ORD00886,2024-02-25,Netmeds,CUST3376,New,Kolkata,West Bengal,Dolo 650,Pain Relief,OTC,1,43,NONE,0,43,0.0,43.0,Debit Card,7,Delivered,N/A,1,Yes
+ORD00887,2024-02-24,Apollo Pharmacy,CUST1515,New,Kolkata,West Bengal,Ondansetron 4mg,Antinausea,Prescription,4,74,NONE,0,296,0.0,296.0,Debit Card,4,Delivered,N/A,5,No
+ORD00888,2024-09-17,Flipkart Health,CUST9070,Returning,Hyderabad,Telangana,Cetirizine 10mg,Antiallergic,OTC,5,28,HEALTH20,20,140,28.0,112.0,Debit Card,4,Delivered,N/A,1,Yes
+ORD00889,2023-04-06,PharmEasy,CUST7560,Returning,Pune,Maharashtra,Multivitamin Tablet,Supplement,OTC,5,228,NONE,0,1140,0.0,1140.0,Net Banking,7,Delivered,N/A,1,Yes
+ORD00890,2024-03-22,Flipkart Health,CUST2689,Returning,Chennai,Tamil Nadu,Pantoprazole 40mg,Antacid,Prescription,1,68,PHARMA5,5,68,3.4,64.6,Cash on Delivery,1,Delivered,N/A,2,No
+ORD00891,2024-04-22,Apollo Pharmacy,CUST9757,New,Hyderabad,Telangana,Nasal Spray,Cough & Cold,OTC,5,130,HEALTH20,20,650,130.0,520.0,Debit Card,1,Cancelled,N/A,N/A,No
+ORD00892,2024-11-11,1mg,CUST9600,Returning,Lucknow,Uttar Pradesh,Atorvastatin 10mg,Cholesterol,Prescription,2,141,NONE,0,282,0.0,282.0,UPI,5,Pending,N/A,N/A,No
+ORD00893,2023-08-27,Apollo Pharmacy,CUST9600,New,Ludhiana,Punjab,Levocetirizine 5mg,Antiallergic,OTC,1,41,SAVE10,10,41,4.1,36.9,Cash on Delivery,2,Delivered,N/A,2,Yes
+ORD00894,2024-05-15,Netmeds,CUST3315,Returning,Chennai,Tamil Nadu,Vitamin D3 1000IU,Supplement,OTC,3,201,NONE,0,603,0.0,603.0,Credit Card,7,Delivered,N/A,4,Yes
+ORD00895,2023-06-11,PharmEasy,CUST5165,New,Hyderabad,Telangana,Iron Tablets,Supplement,OTC,4,80,FIRST15,15,320,48.0,272.0,UPI,4,Delivered,N/A,1,Yes
+ORD00896,2023-09-03,Apollo Pharmacy,CUST7807,New,Kolkata,West Bengal,Metformin 500mg,Diabetes,Prescription,5,94,FIRST15,15,470,70.5,399.5,Credit Card,3,Delivered,N/A,5,Yes
+ORD00897,2024-10-01,1mg,CUST2990,Returning,Kolkata,West Bengal,Paracetamol 500mg,Pain Relief,OTC,4,30,PHARMA5,5,120,6.0,114.0,Debit Card,7,Delivered,N/A,3,Yes
+ORD00898,2023-07-27,PharmEasy,CUST8435,Returning,Lucknow,Uttar Pradesh,Paracetamol 500mg,Pain Relief,OTC,2,28,HEALTH20,20,56,11.2,44.8,Net Banking,2,Pending,N/A,N/A,No
+ORD00899,2024-04-07,1mg,CUST7270,Returning,Pune,Maharashtra,Vitamin D3 1000IU,Supplement,OTC,5,210,FIRST15,15,1050,157.5,892.5,Debit Card,3,Delivered,N/A,5,Yes
+ORD00900,2023-08-03,Apollo Pharmacy,CUST4896,Returning,Jaipur,Rajasthan,Ibuprofen 400mg,Pain Relief,OTC,4,47,HEALTH20,20,188,37.6,150.4,UPI,3,Pending,N/A,N/A,No
+ORD00901,2023-07-26,1mg,CUST9216,Returning,Kolkata,West Bengal,Cetirizine 10mg,Antiallergic,OTC,1,31,NONE,0,31,0.0,31.0,Net Banking,5,Delivered,N/A,5,Yes
+ORD00902,2023-09-02,Apollo Pharmacy,CUST9203,New,Ahmedabad,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,1,83,PHARMA5,5,83,4.15,78.85,Cash on Delivery,6,Pending,N/A,N/A,No
+ORD00903,2024-02-06,Netmeds,CUST5999,Returning,Surat,Gujarat,Iron Tablets,Supplement,OTC,1,84,NONE,0,84,0.0,84.0,Credit Card,1,Pending,N/A,N/A,No
+ORD00904,2023-10-30,Netmeds,CUST2428,Returning,Hyderabad,Telangana,Hydrocortisone Cream,Skin Care,OTC,3,91,PHARMA5,5,273,13.65,259.35,Cash on Delivery,5,Delivered,N/A,2,Yes
+ORD00905,2024-06-12,Apollo Pharmacy,CUST2444,Returning,Hyderabad,Telangana,Zinc Supplement,Supplement,OTC,1,170,FIRST15,15,170,25.5,144.5,Cash on Delivery,5,Cancelled,N/A,N/A,No
+ORD00906,2024-05-14,Netmeds,CUST9757,New,Ahmedabad,Gujarat,Ondansetron 4mg,Antinausea,Prescription,5,70,FIRST15,15,350,52.5,297.5,Debit Card,6,Delivered,N/A,3,Yes
+ORD00907,2024-09-28,Apollo Pharmacy,CUST5922,New,Hyderabad,Telangana,Omeprazole 20mg,Antacid,OTC,5,55,HEALTH20,20,275,55.0,220.0,Credit Card,4,Pending,N/A,N/A,No
+ORD00908,2024-03-01,Flipkart Health,CUST8954,New,Delhi,Delhi,Atorvastatin 10mg,Cholesterol,Prescription,1,144,NONE,0,144,0.0,144.0,Credit Card,6,Pending,N/A,N/A,No
+ORD00909,2024-07-24,PharmEasy,CUST5572,Returning,Hyderabad,Telangana,Zinc Supplement,Supplement,OTC,5,182,PHARMA5,5,910,45.5,864.5,Net Banking,6,Pending,N/A,N/A,No
+ORD00910,2023-01-09,Apollo Pharmacy,CUST1151,New,Ahmedabad,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,5,54,NONE,0,270,0.0,270.0,UPI,2,Delivered,N/A,1,No
+ORD00911,2024-10-30,PharmEasy,CUST8146,New,Surat,Gujarat,Aspirin 75mg,Blood Thinner,Prescription,1,57,NONE,0,57,0.0,57.0,Credit Card,7,Pending,N/A,N/A,No
+ORD00912,2024-11-09,Flipkart Health,CUST3383,Returning,Chennai,Tamil Nadu,Cough Syrup 100ml,Cough & Cold,OTC,2,72,NONE,0,144,0.0,144.0,UPI,5,Delivered,N/A,3,Yes
+ORD00913,2024-08-07,Netmeds,CUST4134,Returning,Delhi,Delhi,Antifungal Cream,Skin Care,OTC,1,109,SAVE10,10,109,10.9,98.1,Net Banking,7,Returned,Wrong Medicine,N/A,No
+ORD00914,2024-10-25,Netmeds,CUST1738,New,Mumbai,Maharashtra,Cetirizine 10mg,Antiallergic,OTC,2,35,NONE,0,70,0.0,70.0,UPI,6,Delivered,N/A,1,Yes
+ORD00915,2024-05-09,PharmEasy,CUST1933,New,Ahmedabad,Gujarat,Insulin Glargine,Diabetes,Prescription,1,858,HEALTH20,20,858,171.6,686.4,Net Banking,6,Delivered,N/A,3,Yes
+ORD00916,2024-03-28,Apollo Pharmacy,CUST2579,New,Bangalore,Karnataka,Paracetamol 500mg,Pain Relief,OTC,4,28,NONE,0,112,0.0,112.0,Debit Card,7,Cancelled,N/A,N/A,No
+ORD00917,2023-10-12,Flipkart Health,CUST8861,New,Delhi,Delhi,Nasal Spray,Cough & Cold,OTC,5,132,NONE,0,660,0.0,660.0,Net Banking,4,Delivered,N/A,5,No
+ORD00918,2023-11-17,PharmEasy,CUST4439,Returning,Ahmedabad,Gujarat,Vitamin C 500mg,Supplement,OTC,2,145,NONE,0,290,0.0,290.0,Net Banking,5,Delivered,N/A,3,Yes
+ORD00919,2024-08-11,1mg,CUST2744,Returning,Mumbai,Maharashtra,Amoxicillin 500mg,Antibiotic,Prescription,4,120,HEALTH20,20,480,96.0,384.0,Net Banking,1,Delivered,N/A,3,Yes
+ORD00920,2023-05-03,Apollo Pharmacy,CUST1738,Returning,Ludhiana,Punjab,Amlodipine 5mg,Blood Pressure,Prescription,4,92,PHARMA5,5,368,18.4,349.6,Cash on Delivery,1,Delivered,N/A,3,No
+ORD00921,2023-03-04,PharmEasy,CUST9074,Returning,Surat,Gujarat,Paracetamol 500mg,Pain Relief,OTC,3,26,NONE,0,78,0.0,78.0,Cash on Delivery,6,Delivered,N/A,3,No
+ORD00922,2024-03-24,Apollo Pharmacy,CUST7201,Returning,Pune,Maharashtra,Ondansetron 4mg,Antinausea,Prescription,4,73,NONE,0,292,0.0,292.0,UPI,6,Delivered,N/A,3,No
+ORD00923,2024-08-19,Apollo Pharmacy,CUST5194,New,Bangalore,Karnataka,Amlodipine 5mg,Blood Pressure,Prescription,5,97,FIRST15,15,485,72.75,412.25,UPI,4,Delivered,N/A,1,Yes
+ORD00924,2024-06-03,PharmEasy,CUST5140,Returning,Surat,Gujarat,Vitamin D3 1000IU,Supplement,OTC,2,196,NONE,0,392,0.0,392.0,Credit Card,1,Delivered,N/A,5,No
+ORD00925,2024-01-21,PharmEasy,CUST2674,New,Ludhiana,Punjab,Vitamin D3 1000IU,Supplement,OTC,3,201,NONE,0,603,0.0,603.0,Cash on Delivery,1,Delivered,N/A,2,Yes
+ORD00926,2023-11-14,Flipkart Health,CUST8832,New,Kolkata,West Bengal,Iron Tablets,Supplement,OTC,1,75,SAVE10,10,75,7.5,67.5,Debit Card,7,Delivered,N/A,2,No
+ORD00927,2023-03-11,Netmeds,CUST9600,Returning,Surat,Gujarat,Omeprazole 20mg,Antacid,OTC,3,57,NONE,0,171,0.0,171.0,Credit Card,4,Delivered,N/A,2,Yes
+ORD00928,2024-06-29,Netmeds,CUST4134,Returning,Jaipur,Rajasthan,Aspirin 75mg,Blood Thinner,Prescription,2,60,PHARMA5,5,120,6.0,114.0,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00929,2023-03-08,Apollo Pharmacy,CUST9030,Returning,Jaipur,Rajasthan,Iron Tablets,Supplement,OTC,5,87,NONE,0,435,0.0,435.0,Net Banking,3,Returned,N/A,N/A,No
+ORD00930,2024-11-09,Netmeds,CUST9375,New,Ahmedabad,Gujarat,Pantoprazole 40mg,Antacid,Prescription,3,66,NONE,0,198,0.0,198.0,Credit Card,5,Delivered,N/A,4,No
+ORD00931,2024-10-18,Flipkart Health,CUST2256,New,Kolkata,West Bengal,Azithromycin 500mg,Antibiotic,Prescription,4,178,NONE,0,712,0.0,712.0,Debit Card,5,Delivered,N/A,4,Yes
+ORD00932,2024-07-20,PharmEasy,CUST5179,Returning,Delhi,Delhi,Multivitamin Tablet,Supplement,OTC,4,227,NONE,0,908,0.0,908.0,Cash on Delivery,6,Delivered,N/A,2,Yes
+ORD00933,2023-12-07,Apollo Pharmacy,CUST3858,New,Delhi,Delhi,Ondansetron 4mg,Antinausea,Prescription,2,67,NONE,0,134,0.0,134.0,UPI,5,Cancelled,N/A,N/A,No
+ORD00934,2024-06-21,Flipkart Health,CUST4232,New,Jaipur,Rajasthan,Amoxicillin 500mg,Antibiotic,Prescription,2,122,NONE,0,244,0.0,244.0,Net Banking,5,Delivered,N/A,3,No
+ORD00935,2023-12-14,1mg,CUST8802,New,Bangalore,Karnataka,Hydrocortisone Cream,Skin Care,OTC,5,86,FIRST15,15,430,64.5,365.5,UPI,2,Delivered,N/A,2,No
+ORD00936,2023-10-07,1mg,CUST5340,New,Jaipur,Rajasthan,Multivitamin Tablet,Supplement,OTC,1,227,PHARMA5,5,227,11.35,215.65,Net Banking,3,Pending,N/A,N/A,No
+ORD00937,2024-11-09,PharmEasy,CUST9262,Returning,Lucknow,Uttar Pradesh,Metformin 500mg,Diabetes,Prescription,1,86,FIRST15,15,86,12.9,73.1,Credit Card,2,Pending,N/A,N/A,No
+ORD00938,2024-09-16,1mg,CUST8891,New,Chennai,Tamil Nadu,Cough Syrup 100ml,Cough & Cold,OTC,4,81,NONE,0,324,0.0,324.0,Credit Card,5,Delivered,N/A,2,Yes
+ORD00939,2024-05-24,Netmeds,CUST9123,New,Pune,Maharashtra,Vitamin C 500mg,Supplement,OTC,2,152,NONE,0,304,0.0,304.0,Cash on Delivery,1,Cancelled,N/A,N/A,No
+ORD00940,2024-06-11,Flipkart Health,CUST8303,Returning,Delhi,Delhi,Montelukast 10mg,Asthma,Prescription,5,158,HEALTH20,20,790,158.0,632.0,Cash on Delivery,7,Delivered,N/A,2,No
+ORD00941,2024-04-14,PharmEasy,CUST5287,Returning,Mumbai,Maharashtra,Nasal Spray,Cough & Cold,OTC,3,129,NONE,0,387,0.0,387.0,Net Banking,4,Delivered,N/A,2,Yes
+ORD00942,2024-03-25,Flipkart Health,CUST4232,Returning,Hyderabad,Telangana,Dolo 650,Pain Relief,OTC,3,34,SAVE10,10,102,10.2,91.8,Net Banking,4,Cancelled,N/A,N/A,No
+ORD00943,2023-08-03,Flipkart Health,CUST4133,New,Mumbai,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,3,38,PHARMA5,5,114,5.7,108.3,Credit Card,2,Cancelled,N/A,N/A,No
+ORD00944,2023-04-26,Flipkart Health,CUST7620,Returning,Ludhiana,Punjab,Cough Syrup 100ml,Cough & Cold,OTC,5,74,NONE,0,370,0.0,370.0,Debit Card,6,Delivered,N/A,2,Yes
+ORD00945,2024-01-05,1mg,CUST2688,Returning,Pune,Maharashtra,Ondansetron 4mg,Antinausea,Prescription,3,72,FIRST15,15,216,32.4,183.6,Debit Card,3,Pending,N/A,N/A,No
+ORD00946,2024-07-31,Apollo Pharmacy,CUST4133,Returning,Lucknow,Uttar Pradesh,Amoxicillin 500mg,Antibiotic,Prescription,4,118,NONE,0,472,0.0,472.0,Credit Card,5,Delivered,N/A,3,Yes
+ORD00947,2023-01-12,1mg,CUST5847,New,Jaipur,Rajasthan,Insulin Glargine,Diabetes,Prescription,4,845,NONE,0,3380,0.0,3380.0,UPI,4,Returned,N/A,N/A,No
+ORD00948,2024-10-30,1mg,CUST4474,Returning,Ahmedabad,Gujarat,Azithromycin 500mg,Antibiotic,Prescription,2,190,NONE,0,380,0.0,380.0,Net Banking,1,Cancelled,N/A,N/A,No
+ORD00949,2023-04-24,Netmeds,CUST9203,New,Ahmedabad,Gujarat,Ondansetron 4mg,Antinausea,Prescription,3,66,SAVE10,10,198,19.8,178.2,Net Banking,3,Delivered,N/A,1,Yes
+ORD00950,2023-10-15,PharmEasy,CUST9000,Returning,Mumbai,Maharashtra,Vitamin D3 1000IU,Supplement,OTC,3,204,NONE,0,612,0.0,612.0,Cash on Delivery,3,Delivered,N/A,4,Yes
+ORD00951,2024-10-05,Apollo Pharmacy,CUST7453,Returning,Jaipur,Rajasthan,Montelukast 10mg,Asthma,Prescription,1,157,HEALTH20,20,157,31.4,125.6,Cash on Delivery,4,Delivered,N/A,4,Yes
+ORD00952,2023-10-19,PharmEasy,CUST7334,New,Surat,Gujarat,Iron Tablets,Supplement,OTC,3,83,PHARMA5,5,249,12.45,236.55,Credit Card,7,Delivered,N/A,3,Yes
+ORD00953,2024-03-19,1mg,CUST1584,New,Surat,Gujarat,Cetirizine 10mg,Antiallergic,OTC,5,27,HEALTH20,20,135,27.0,108.0,Credit Card,5,Delivered,N/A,5,Yes
+ORD00954,2023-05-03,1mg,CUST1334,Returning,Lucknow,Uttar Pradesh,Levocetirizine 5mg,Antiallergic,OTC,3,49,NONE,0,147,0.0,147.0,Credit Card,2,Delivered,N/A,5,No
+ORD00955,2024-09-14,1mg,CUST7590,New,Surat,Gujarat,Montelukast 10mg,Asthma,Prescription,4,155,NONE,0,620,0.0,620.0,Net Banking,5,Cancelled,N/A,N/A,No
+ORD00956,2024-07-16,Flipkart Health,CUST1075,New,Surat,Gujarat,Dolo 650,Pain Relief,OTC,2,30,PHARMA5,5,60,3.0,57.0,UPI,5,Delivered,N/A,4,Yes
+ORD00957,2023-05-11,1mg,CUST1827,Returning,Pune,Maharashtra,Nasal Spray,Cough & Cold,OTC,2,129,NONE,0,258,0.0,258.0,UPI,4,Pending,N/A,N/A,No
+ORD00958,2024-04-27,PharmEasy,CUST8322,New,Ahmedabad,Gujarat,Ondansetron 4mg,Antinausea,Prescription,5,77,NONE,0,385,0.0,385.0,Cash on Delivery,4,Returned,Expired Product,N/A,No
+ORD00959,2023-12-25,PharmEasy,CUST6853,Returning,Ahmedabad,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,5,70,NONE,0,350,0.0,350.0,UPI,1,Delivered,N/A,4,Yes
+ORD00960,2024-11-05,1mg,CUST1011,New,Ludhiana,Punjab,Ondansetron 4mg,Antinausea,Prescription,4,67,SAVE10,10,268,26.8,241.2,Cash on Delivery,1,Delivered,N/A,2,No
+ORD00961,2023-05-17,PharmEasy,CUST2885,New,Jaipur,Rajasthan,Metformin 500mg,Diabetes,Prescription,5,85,NONE,0,425,0.0,425.0,Cash on Delivery,7,Cancelled,N/A,N/A,No
+ORD00962,2023-07-28,Flipkart Health,CUST1827,Returning,Surat,Gujarat,Iron Tablets,Supplement,OTC,4,89,NONE,0,356,0.0,356.0,Debit Card,1,Pending,N/A,N/A,No
+ORD00963,2023-12-01,PharmEasy,CUST1738,New,Mumbai,Maharashtra,Iron Tablets,Supplement,OTC,5,79,SAVE10,10,395,39.5,355.5,UPI,2,Delivered,N/A,4,Yes
+ORD00964,2024-03-01,Netmeds,CUST9020,New,Ahmedabad,Gujarat,Vitamin C 500mg,Supplement,OTC,1,156,HEALTH20,20,156,31.2,124.8,Net Banking,3,Delivered,N/A,5,Yes
+ORD00965,2024-11-09,PharmEasy,CUST2688,New,Delhi,Delhi,Dolo 650,Pain Relief,OTC,1,37,PHARMA5,5,37,1.85,35.15,Net Banking,4,Delivered,N/A,2,Yes
+ORD00966,2024-08-22,1mg,CUST9702,New,Lucknow,Uttar Pradesh,Omeprazole 20mg,Antacid,OTC,1,58,NONE,0,58,0.0,58.0,Credit Card,7,Delivered,N/A,5,No
+ORD00967,2024-12-01,1mg,CUST7359,New,Kolkata,West Bengal,Ibuprofen 400mg,Pain Relief,OTC,1,40,NONE,0,40,0.0,40.0,Debit Card,6,Delivered,N/A,5,No
+ORD00968,2023-10-08,1mg,CUST9678,Returning,Bangalore,Karnataka,Montelukast 10mg,Asthma,Prescription,4,160,SAVE10,10,640,64.0,576.0,Net Banking,4,Delivered,N/A,3,Yes
+ORD00969,2024-10-19,Flipkart Health,CUST8370,New,Chennai,Tamil Nadu,Ondansetron 4mg,Antinausea,Prescription,4,67,NONE,0,268,0.0,268.0,Debit Card,7,Delivered,N/A,4,No
+ORD00970,2024-11-25,1mg,CUST2250,Returning,Ludhiana,Punjab,Amlodipine 5mg,Blood Pressure,Prescription,4,94,NONE,0,376,0.0,376.0,Net Banking,1,Delivered,N/A,3,No
+ORD00971,2023-10-29,Netmeds,CUST4140,Returning,Ahmedabad,Gujarat,Metformin 500mg,Diabetes,Prescription,5,81,NONE,0,405,0.0,405.0,Debit Card,1,Delivered,N/A,2,Yes
+ORD00972,2024-07-21,PharmEasy,CUST9145,New,Pune,Maharashtra,Amlodipine 5mg,Blood Pressure,Prescription,1,100,NONE,0,100,0.0,100.0,Credit Card,7,Delivered,N/A,1,Yes
+ORD00973,2024-07-02,Netmeds,CUST4342,New,Jaipur,Rajasthan,Hydrocortisone Cream,Skin Care,OTC,3,90,NONE,0,270,0.0,270.0,Debit Card,6,Delivered,N/A,1,No
+ORD00974,2023-09-11,Netmeds,CUST8042,Returning,Surat,Gujarat,Atorvastatin 10mg,Cholesterol,Prescription,1,140,NONE,0,140,0.0,140.0,Cash on Delivery,1,Delivered,N/A,4,Yes
+ORD00975,2024-09-26,Flipkart Health,CUST5287,New,Surat,Gujarat,Levocetirizine 5mg,Antiallergic,OTC,4,50,NONE,0,200,0.0,200.0,Debit Card,4,Delivered,N/A,3,Yes
+ORD00976,2023-12-18,1mg,CUST9600,New,Bangalore,Karnataka,Zinc Supplement,Supplement,OTC,3,177,NONE,0,531,0.0,531.0,Cash on Delivery,3,Pending,N/A,N/A,No
+ORD00977,2024-06-23,Apollo Pharmacy,CUST5179,New,Pune,Maharashtra,Multivitamin Tablet,Supplement,OTC,3,218,FIRST15,15,654,98.1,555.9,Net Banking,6,Delivered,N/A,5,No
+ORD00978,2024-04-28,Netmeds,CUST3017,Returning,Mumbai,Maharashtra,Hydrocortisone Cream,Skin Care,OTC,1,87,NONE,0,87,0.0,87.0,Credit Card,1,Delivered,N/A,5,No
+ORD00979,2024-07-23,Flipkart Health,CUST2291,New,Ludhiana,Punjab,Azithromycin 500mg,Antibiotic,Prescription,2,186,NONE,0,372,0.0,372.0,Net Banking,5,Pending,N/A,N/A,No
+ORD00980,2023-12-08,Netmeds,CUST9202,Returning,Hyderabad,Telangana,Zinc Supplement,Supplement,OTC,2,175,FIRST15,15,350,52.5,297.5,Cash on Delivery,5,Delivered,N/A,4,No
+ORD00981,2024-09-24,PharmEasy,CUST1396,New,Lucknow,Uttar Pradesh,Hydrocortisone Cream,Skin Care,OTC,5,91,HEALTH20,20,455,91.0,364.0,Debit Card,1,Cancelled,N/A,N/A,No
+ORD00982,2023-07-01,PharmEasy,CUST1990,Returning,Bangalore,Karnataka,Zinc Supplement,Supplement,OTC,1,177,HEALTH20,20,177,35.4,141.6,Net Banking,6,Delivered,N/A,5,No
+ORD00983,2023-01-24,1mg,CUST1646,Returning,Surat,Gujarat,Ibuprofen 400mg,Pain Relief,OTC,1,40,NONE,0,40,0.0,40.0,UPI,5,Delivered,N/A,2,No
+ORD00984,2023-11-24,Flipkart Health,CUST5179,Returning,Lucknow,Uttar Pradesh,Cough Syrup 100ml,Cough & Cold,OTC,2,82,NONE,0,164,0.0,164.0,Cash on Delivery,7,Delivered,N/A,4,No
+ORD00985,2023-11-15,Flipkart Health,CUST2514,Returning,Pune,Maharashtra,Azithromycin 500mg,Antibiotic,Prescription,4,190,SAVE10,10,760,76.0,684.0,Debit Card,3,Delivered,N/A,5,No
+ORD00986,2023-03-22,Apollo Pharmacy,CUST8214,New,Jaipur,Rajasthan,Cough Syrup 100ml,Cough & Cold,OTC,2,73,NONE,0,146,0.0,146.0,Net Banking,4,Delivered,N/A,1,No
+ORD00987,2023-04-01,Apollo Pharmacy,CUST2411,Returning,Lucknow,Uttar Pradesh,Amlodipine 5mg,Blood Pressure,Prescription,2,102,FIRST15,15,204,30.6,173.4,Debit Card,3,Returned,Wrong Medicine,N/A,No
+ORD00988,2023-10-28,Flipkart Health,CUST5833,New,Bangalore,Karnataka,Hydrocortisone Cream,Skin Care,OTC,3,91,NONE,0,273,0.0,273.0,UPI,1,Cancelled,N/A,N/A,No
+ORD00989,2024-02-22,Apollo Pharmacy,CUST2250,Returning,Ludhiana,Punjab,Antifungal Cream,Skin Care,OTC,3,119,HEALTH20,20,357,71.4,285.6,Credit Card,1,Cancelled,N/A,N/A,No
+ORD00990,2023-12-13,Apollo Pharmacy,CUST3996,Returning,Lucknow,Uttar Pradesh,Vitamin C 500mg,Supplement,OTC,2,153,FIRST15,15,306,45.9,260.1,Cash on Delivery,6,Delivered,N/A,3,No
+ORD00991,2024-06-07,Netmeds,CUST2540,Returning,Pune,Maharashtra,Ibuprofen 400mg,Pain Relief,OTC,1,45,PHARMA5,5,45,2.25,42.75,Credit Card,1,Delivered,N/A,2,Yes
+ORD00992,2023-07-16,1mg,CUST9448,Returning,Mumbai,Maharashtra,Omeprazole 20mg,Antacid,OTC,3,54,HEALTH20,20,162,32.4,129.6,Net Banking,6,Delivered,N/A,5,No
+ORD00993,2023-09-27,1mg,CUST4342,Returning,Jaipur,Rajasthan,Ibuprofen 400mg,Pain Relief,OTC,4,54,HEALTH20,20,216,43.2,172.8,Net Banking,3,Returned,Wrong Medicine,N/A,No
+ORD00994,2024-02-17,Apollo Pharmacy,CUST6299,Returning,Ahmedabad,Gujarat,Zinc Supplement,Supplement,OTC,4,179,SAVE10,10,716,71.6,644.4,Cash on Delivery,6,Delivered,N/A,5,No
+ORD00995,2024-02-24,PharmEasy,CUST8725,Returning,Mumbai,Maharashtra,Insulin Glargine,Diabetes,Prescription,5,854,NONE,0,4270,0.0,4270.0,Credit Card,5,Cancelled,N/A,N/A,No
+ORD00996,2024-04-04,Netmeds,CUST2256,New,Delhi,Delhi,Levocetirizine 5mg,Antiallergic,OTC,5,35,PHARMA5,5,175,8.75,166.25,Cash on Delivery,1,Delivered,N/A,1,No
+ORD00997,2023-01-20,Flipkart Health,CUST2964,Returning,Ahmedabad,Gujarat,Cetirizine 10mg,Antiallergic,OTC,4,28,NONE,0,112,0.0,112.0,Net Banking,2,Delivered,N/A,2,Yes
+ORD00998,2024-07-24,Flipkart Health,CUST1437,Returning,Surat,Gujarat,Cough Syrup 100ml,Cough & Cold,OTC,5,72,NONE,0,360,0.0,360.0,Debit Card,5,Delivered,N/A,3,No
+ORD00999,2023-11-24,1mg,CUST9748,New,Lucknow,Uttar Pradesh,Ibuprofen 400mg,Pain Relief,OTC,4,49,NONE,0,196,0.0,196.0,Credit Card,7,Pending,N/A,N/A,No
+ORD01000,2024-10-20,1mg,CUST9862,New,Mumbai,Maharashtra,Levocetirizine 5mg,Antiallergic,OTC,3,42,PHARMA5,5,126,6.3,119.7,Cash on Delivery,6,Pending,N/A,N/A,No
